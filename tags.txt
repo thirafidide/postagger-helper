@@ -1,0 +1,1 @@
+NN, SC, VB, NNP, JJ, RB, IN, Z, CD, CC, PR, PRP, MD, FW, NEG, DT, NND, WH, SYM, RP, OD, X, UH, 
