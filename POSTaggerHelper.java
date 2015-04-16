@@ -97,23 +97,22 @@ public class POSTaggerHelper {
 			PrintWriter writer;
 
 			if (i == 0)
-				writer = new PrintWriter("data/" + namaPrefixFileOutput + "-testing-exp1");
+				writer = new PrintWriter("data/" + namaPrefixFileOutput + "-testing-exp1.txt");
 			else
-				writer = new PrintWriter("data/" + namaPrefixFileOutput + "-training-exp1-" + i*totalTrainingPerCat);
+				writer = new PrintWriter("data/" + namaPrefixFileOutput + "-training-exp1-" + i*totalTrainingPerCat + ".txt");
 
 			outputWriterExp1.add(writer);
 		}
 
 		// Printwriter exp 2
-		int totalCat2 = totalCat - 1;
 		ArrayList<PrintWriter> outputWriterTestingExp2 = new ArrayList<PrintWriter>();
 		ArrayList<PrintWriter> outputWriterTrainingExp2 = new ArrayList<PrintWriter>();
-		for (int i = 1; i <= totalCat2; i++) {
+		for (int i = 1; i <= totalCat; i++) {
 			PrintWriter writerTraining;
 			PrintWriter writerTesting;
 
-			writerTesting = new PrintWriter("data/" + namaPrefixFileOutput + "-testing-exp2-" + i*totalTrainingPerCat);
-			writerTraining = new PrintWriter("data/" + namaPrefixFileOutput + "-training-exp2-" + i*totalTrainingPerCat);
+			writerTesting = new PrintWriter("data/" + namaPrefixFileOutput + "-testing-exp2-" + i + ".txt");
+			writerTraining = new PrintWriter("data/" + namaPrefixFileOutput + "-training-exp2-" + i + ".txt");
 
 			outputWriterTestingExp2.add(writerTesting);
 			outputWriterTrainingExp2.add(writerTraining);
@@ -121,17 +120,18 @@ public class POSTaggerHelper {
 
 		int totalProcessed = 0;
 		while(corpusLines.size() > 0) {
+
 			String corpusLine = corpusLines.remove(0);
 
-			if (totalProcessed < totalTrainingPerCat)
+			if (totalProcessed < totalTrainingPerCat) 
 				outputWriterExp1.get(0).println(corpusLine);
 			else 
 				for (int i = 1; i < totalCat; i++) 
 					if (i*totalTrainingPerCat > totalProcessed - totalTrainingPerCat)
 						outputWriterExp1.get(i).println(corpusLine);
 
-			for (int i = 0; i < totalCat2; i++)
-				if ((i+1)*totalTrainingPerCat < totalProcessed && totalProcessed < (i+2)*totalTrainingPerCat)
+			for (int i = 0; i < totalCat; i++)
+				if (i*totalTrainingPerCat <= totalProcessed && totalProcessed < (i+1)*totalTrainingPerCat)
 					outputWriterTestingExp2.get(i).println(corpusLine);
 				else
 					outputWriterTrainingExp2.get(i).println(corpusLine);

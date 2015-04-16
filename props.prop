@@ -35,7 +35,7 @@
 # Tag separator character that separates word and pos tags
 # (for both training and test data) and used for
 # separating words and tags in slashTags format output.
-# tagSeparator = _
+tagSeparator = _
 
 # Encoding format in which files are stored.  If left blank, UTF-8 is assumed.
 # encoding = UTF-8
@@ -87,7 +87,7 @@
 # These keywords determines the features extracted.  'generic' is language independent.
 # distsim: Distributional similarity classes can be an added source of information
 # about your words. An English distsim file is included, or you can use your own.
-# arch = 
+arch = generic
 
 # 'wordFunction'.  A function applied to the text before training or tagging.
 # For example, edu.stanford.nlp.util.LowercaseFunction
