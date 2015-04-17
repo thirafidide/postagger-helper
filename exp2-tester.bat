@@ -1,0 +1,1 @@
+FOR %%G IN (1, 2, 3, 4, 5, 6, 7, 8, 9, 10) DO (java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model model/modeltrainexp2-%%G.model -testFile data/data-testing-exp2-%%G.txt 2> hasil/exp2/hasil-%%G.txt)

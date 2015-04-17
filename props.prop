@@ -110,7 +110,7 @@ arch = generic
 
 # a space-delimited list of open-class parts of speech
 # alternatively, you can specify language above to use a pre-defined list or specify the closed class tags (below)
-openClassTags = NN, SC, VB, NNP, JJ, RB, IN, Z, CD, CC, PR, PRP, MD, FW, NEG, DT, NND, WH, SYM, RP, OD, X, UH
+openClassTags = NN SC VB NNP JJ RB IN Z CD CC PR PRP MD FW NEG DT NND WH SYM RP OD X UH
 
 # a space-delimited list of closed-class parts of speech
 # alternatively, you can specify language above to use a pre-defined list or specify the open class tags (above)

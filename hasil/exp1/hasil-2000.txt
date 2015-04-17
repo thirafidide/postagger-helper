@@ -1,0 +1,3332 @@
+Loading default properties from tagger model/modeltrainexp1-2000.model
+Reading POS tagger model from model/modeltrainexp1-2000.model ... done [0,2 sec].
+UnkWord: rgm; correct: NNP; guessed: NN
+UnkWord: pinnacle; correct: NNP; guessed: NN
+Sentence number: 1; length 12; correct: 10; wrong: 2; unknown wrong: 2
+  Total tags correct: 10; wrong: 2; unknown wrong: 2
+UnkWord: dijelaskan; correct: VB; guessed: NN
+Sentence number: 2; length 28; correct: 27; wrong: 1; unknown wrong: 1
+  Total tags correct: 37; wrong: 3; unknown wrong: 3
+Word: untuk; correct: IN; guessed: SC
+Word: kali; correct: NND; guessed: NN
+Word: karena; correct: IN; guessed: SC
+Sentence number: 3; length 13; correct: 10; wrong: 3; unknown wrong: 0
+  Total tags correct: 47; wrong: 6; unknown wrong: 3
+Sentence number: 4; length 32; correct: 32; wrong: 0; unknown wrong: 0
+  Total tags correct: 79; wrong: 6; unknown wrong: 3
+Word: dinas; correct: NN; guessed: NNP
+UnkWord: semata-mata; correct: RB; guessed: VB
+Sentence number: 5; length 25; correct: 23; wrong: 2; unknown wrong: 1
+  Total tags correct: 102; wrong: 8; unknown wrong: 4
+UnkWord: segalanya; correct: RB; guessed: NN
+Sentence number: 6; length 10; correct: 9; wrong: 1; unknown wrong: 1
+  Total tags correct: 111; wrong: 9; unknown wrong: 5
+Word: sendiri; correct: PRP; guessed: NN
+Sentence number: 7; length 28; correct: 27; wrong: 1; unknown wrong: 0
+  Total tags correct: 138; wrong: 10; unknown wrong: 5
+Sentence number: 8; length 31; correct: 31; wrong: 0; unknown wrong: 0
+  Total tags correct: 169; wrong: 10; unknown wrong: 5
+UnkWord: diakhiri; correct: VB; guessed: NN
+UnkWord: connectu; correct: NNP; guessed: NN
+Sentence number: 9; length 34; correct: 32; wrong: 2; unknown wrong: 2
+  Total tags correct: 201; wrong: 12; unknown wrong: 7
+Sentence number: 10; length 46; correct: 46; wrong: 0; unknown wrong: 0
+  Total tags correct: 247; wrong: 12; unknown wrong: 7
+Word: umum; correct: NN; guessed: JJ
+Word: kali; correct: NND; guessed: NN
+Sentence number: 11; length 33; correct: 31; wrong: 2; unknown wrong: 0
+  Total tags correct: 278; wrong: 14; unknown wrong: 7
+UnkWord: worldcom; correct: NNP; guessed: NN
+UnkWord: enron; correct: NNP; guessed: NN
+Sentence number: 12; length 22; correct: 20; wrong: 2; unknown wrong: 2
+  Total tags correct: 298; wrong: 16; unknown wrong: 9
+Word: ppn; correct: NNP; guessed: NN
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 13; length 32; correct: 30; wrong: 2; unknown wrong: 0
+  Total tags correct: 328; wrong: 18; unknown wrong: 9
+Word: kontra; correct: JJ; guessed: VB
+UnkWord: merah; correct: JJ; guessed: NN
+Word: strategis; correct: JJ; guessed: NNP
+UnkWord: sale; correct: FW; guessed: NNP
+Sentence number: 14; length 23; correct: 19; wrong: 4; unknown wrong: 2
+  Total tags correct: 347; wrong: 22; unknown wrong: 11
+UnkWord: manhattan; correct: NNP; guessed: NN
+Word: lebar; correct: NN; guessed: JJ
+Sentence number: 15; length 29; correct: 27; wrong: 2; unknown wrong: 1
+  Total tags correct: 374; wrong: 24; unknown wrong: 12
+Sentence number: 16; length 8; correct: 8; wrong: 0; unknown wrong: 0
+  Total tags correct: 382; wrong: 24; unknown wrong: 12
+Sentence number: 17; length 35; correct: 35; wrong: 0; unknown wrong: 0
+  Total tags correct: 417; wrong: 24; unknown wrong: 12
+Sentence number: 18; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 440; wrong: 24; unknown wrong: 12
+Sentence number: 19; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 470; wrong: 24; unknown wrong: 12
+Sentence number: 20; length 7; correct: 7; wrong: 0; unknown wrong: 0
+  Total tags correct: 477; wrong: 24; unknown wrong: 12
+Word: dengan; correct: IN; guessed: SC
+UnkWord: wika; correct: NNP; guessed: NN
+Word: sendiri; correct: PRP; guessed: NN
+Sentence number: 21; length 36; correct: 33; wrong: 3; unknown wrong: 1
+  Total tags correct: 510; wrong: 27; unknown wrong: 13
+Sentence number: 22; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 535; wrong: 27; unknown wrong: 13
+UnkWord: epc; correct: NNP; guessed: NN
+Word: ,; correct: NNP; guessed: Z
+Word: ,; correct: NNP; guessed: Z
+Word: contract; correct: NNP; guessed: FW
+UnkWord: selaku; correct: IN; guessed: NN
+Sentence number: 23; length 51; correct: 46; wrong: 5; unknown wrong: 2
+  Total tags correct: 581; wrong: 32; unknown wrong: 15
+UnkWord: di-bawah-umur; correct: JJ; guessed: NNP
+Sentence number: 24; length 40; correct: 39; wrong: 1; unknown wrong: 1
+  Total tags correct: 620; wrong: 33; unknown wrong: 16
+Sentence number: 25; length 40; correct: 40; wrong: 0; unknown wrong: 0
+  Total tags correct: 660; wrong: 33; unknown wrong: 16
+UnkWord: sbn; correct: NNP; guessed: NN
+Sentence number: 26; length 22; correct: 21; wrong: 1; unknown wrong: 1
+  Total tags correct: 681; wrong: 34; unknown wrong: 17
+UnkWord: siaga; correct: VB; guessed: NN
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 27; length 24; correct: 22; wrong: 2; unknown wrong: 1
+  Total tags correct: 703; wrong: 36; unknown wrong: 18
+Word: selain; correct: CC; guessed: IN
+UnkWord: 5.200; correct: CD; guessed: NNP
+Word: anak; correct: NN; guessed: NNP
+UnkWord: intifada; correct: NNP; guessed: NN
+Word: kedua; correct: NNP; guessed: OD
+Sentence number: 28; length 45; correct: 40; wrong: 5; unknown wrong: 2
+  Total tags correct: 743; wrong: 41; unknown wrong: 20
+Sentence number: 29; length 10; correct: 10; wrong: 0; unknown wrong: 0
+  Total tags correct: 753; wrong: 41; unknown wrong: 20
+Word: krisis; correct: JJ; guessed: NN
+UnkWord: sub; correct: NNP; guessed: FW
+Sentence number: 30; length 49; correct: 47; wrong: 2; unknown wrong: 1
+  Total tags correct: 800; wrong: 43; unknown wrong: 21
+Sentence number: 31; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 812; wrong: 43; unknown wrong: 21
+Word: gagal; correct: JJ; guessed: VB
+UnkWord: km; correct: NND; guessed: NN
+Sentence number: 32; length 34; correct: 32; wrong: 2; unknown wrong: 1
+  Total tags correct: 844; wrong: 45; unknown wrong: 22
+Word: mantan; correct: NNP; guessed: JJ
+Word: perdana-menteri; correct: NNP; guessed: NN
+UnkWord: rafik; correct: NNP; guessed: NN
+Sentence number: 33; length 46; correct: 43; wrong: 3; unknown wrong: 1
+  Total tags correct: 887; wrong: 48; unknown wrong: 23
+UnkWord: ketujuh; correct: CD; guessed: NN
+Word: marinir; correct: NNP; guessed: NN
+Sentence number: 34; length 30; correct: 28; wrong: 2; unknown wrong: 1
+  Total tags correct: 915; wrong: 50; unknown wrong: 24
+Word: kerajaan; correct: NN; guessed: NNP
+UnkWord: membabi-buta; correct: VB; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 35; length 53; correct: 50; wrong: 3; unknown wrong: 1
+  Total tags correct: 965; wrong: 53; unknown wrong: 25
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 36; length 39; correct: 38; wrong: 1; unknown wrong: 0
+  Total tags correct: 1003; wrong: 54; unknown wrong: 25
+UnkWord: dijelaskan; correct: VB; guessed: NNP
+Sentence number: 37; length 35; correct: 34; wrong: 1; unknown wrong: 1
+  Total tags correct: 1037; wrong: 55; unknown wrong: 26
+Sentence number: 38; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 1067; wrong: 55; unknown wrong: 26
+Sentence number: 39; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 1083; wrong: 55; unknown wrong: 26
+Sentence number: 40; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 1092; wrong: 55; unknown wrong: 26
+Word: untuk; correct: IN; guessed: SC
+UnkWord: naik-turun; correct: VB; guessed: NN
+Sentence number: 41; length 21; correct: 19; wrong: 2; unknown wrong: 1
+  Total tags correct: 1111; wrong: 57; unknown wrong: 27
+Word: tepi; correct: NNP; guessed: NN
+Word: barat; correct: NNP; guessed: NN
+Word: minggu; correct: NNP; guessed: NN
+Sentence number: 42; length 28; correct: 25; wrong: 3; unknown wrong: 0
+  Total tags correct: 1136; wrong: 60; unknown wrong: 27
+Sentence number: 43; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 1154; wrong: 60; unknown wrong: 27
+Word: dana; correct: NNP; guessed: NN
+Word: alokasi; correct: NNP; guessed: NN
+Word: umum; correct: NNP; guessed: JJ
+Word: dau; correct: NNP; guessed: NN
+Sentence number: 44; length 15; correct: 11; wrong: 4; unknown wrong: 0
+  Total tags correct: 1165; wrong: 64; unknown wrong: 27
+Word: distrik; correct: NNP; guessed: NN
+UnkWord: karrada; correct: NNP; guessed: NN
+Sentence number: 45; length 20; correct: 18; wrong: 2; unknown wrong: 1
+  Total tags correct: 1183; wrong: 66; unknown wrong: 28
+Sentence number: 46; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 1196; wrong: 66; unknown wrong: 28
+Sentence number: 47; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 1221; wrong: 66; unknown wrong: 28
+Sentence number: 48; length 44; correct: 44; wrong: 0; unknown wrong: 0
+  Total tags correct: 1265; wrong: 66; unknown wrong: 28
+UnkWord: ba2; correct: SYM; guessed: CD
+Sentence number: 49; length 14; correct: 13; wrong: 1; unknown wrong: 1
+  Total tags correct: 1278; wrong: 67; unknown wrong: 29
+Sentence number: 50; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 1291; wrong: 67; unknown wrong: 29
+Sentence number: 51; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 1321; wrong: 67; unknown wrong: 29
+Sentence number: 52; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 1339; wrong: 67; unknown wrong: 29
+UnkWord: berpotensi; correct: VB; guessed: NN
+Sentence number: 53; length 27; correct: 26; wrong: 1; unknown wrong: 1
+  Total tags correct: 1365; wrong: 68; unknown wrong: 30
+Word: hingga; correct: SC; guessed: IN
+Sentence number: 54; length 24; correct: 23; wrong: 1; unknown wrong: 0
+  Total tags correct: 1388; wrong: 69; unknown wrong: 30
+Sentence number: 55; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 1413; wrong: 69; unknown wrong: 30
+Sentence number: 56; length 32; correct: 32; wrong: 0; unknown wrong: 0
+  Total tags correct: 1445; wrong: 69; unknown wrong: 30
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 57; length 14; correct: 13; wrong: 1; unknown wrong: 0
+  Total tags correct: 1458; wrong: 70; unknown wrong: 30
+Sentence number: 58; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 1488; wrong: 70; unknown wrong: 30
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 59; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 1509; wrong: 71; unknown wrong: 30
+Sentence number: 60; length 31; correct: 31; wrong: 0; unknown wrong: 0
+  Total tags correct: 1540; wrong: 71; unknown wrong: 30
+UnkWord: almarhum; correct: NN; guessed: NNP
+UnkWord: pembangkang; correct: NN; guessed: NNP
+Sentence number: 61; length 32; correct: 30; wrong: 2; unknown wrong: 2
+  Total tags correct: 1570; wrong: 73; unknown wrong: 32
+Word: asal; correct: IN; guessed: NN
+Sentence number: 62; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 1595; wrong: 74; unknown wrong: 32
+Sentence number: 63; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 1618; wrong: 74; unknown wrong: 32
+Sentence number: 64; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 1641; wrong: 74; unknown wrong: 32
+Word: komite; correct: NNP; guessed: NN
+Sentence number: 65; length 27; correct: 26; wrong: 1; unknown wrong: 0
+  Total tags correct: 1667; wrong: 75; unknown wrong: 32
+Word: hingga; correct: SC; guessed: IN
+Sentence number: 66; length 20; correct: 19; wrong: 1; unknown wrong: 0
+  Total tags correct: 1686; wrong: 76; unknown wrong: 32
+Word: demi; correct: IN; guessed: SC
+Sentence number: 67; length 34; correct: 33; wrong: 1; unknown wrong: 0
+  Total tags correct: 1719; wrong: 77; unknown wrong: 32
+UnkWord: unggas; correct: NN; guessed: NNP
+Sentence number: 68; length 22; correct: 21; wrong: 1; unknown wrong: 1
+  Total tags correct: 1740; wrong: 78; unknown wrong: 33
+Word: sampai; correct: SC; guessed: IN
+UnkWord: k1; correct: SYM; guessed: NNP
+UnkWord: unaudited; correct: FW; guessed: VB
+Sentence number: 69; length 36; correct: 33; wrong: 3; unknown wrong: 2
+  Total tags correct: 1773; wrong: 81; unknown wrong: 35
+Sentence number: 70; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 1790; wrong: 81; unknown wrong: 35
+Sentence number: 71; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 1820; wrong: 81; unknown wrong: 35
+Word: dengan; correct: SC; guessed: IN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 72; length 13; correct: 11; wrong: 2; unknown wrong: 0
+  Total tags correct: 1831; wrong: 83; unknown wrong: 35
+Sentence number: 73; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 1856; wrong: 83; unknown wrong: 35
+UnkWord: kredibel; correct: X; guessed: NN
+Sentence number: 74; length 13; correct: 12; wrong: 1; unknown wrong: 1
+  Total tags correct: 1868; wrong: 84; unknown wrong: 36
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 75; length 30; correct: 29; wrong: 1; unknown wrong: 0
+  Total tags correct: 1897; wrong: 85; unknown wrong: 36
+Sentence number: 76; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 1918; wrong: 85; unknown wrong: 36
+Sentence number: 77; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 1938; wrong: 85; unknown wrong: 36
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 78; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 1963; wrong: 86; unknown wrong: 36
+UnkWord: tidak-dapat-tidak; correct: RB; guessed: NN
+Sentence number: 79; length 26; correct: 25; wrong: 1; unknown wrong: 1
+  Total tags correct: 1988; wrong: 87; unknown wrong: 37
+Word: icp; correct: FW; guessed: NNP
+Sentence number: 80; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 2009; wrong: 88; unknown wrong: 37
+UnkWord: minyak-kelapa; correct: NN; guessed: FW
+UnkWord: mentah; correct: JJ; guessed: NN
+UnkWord: off; correct: FW; guessed: NN
+Sentence number: 81; length 46; correct: 43; wrong: 3; unknown wrong: 3
+  Total tags correct: 2052; wrong: 91; unknown wrong: 40
+Sentence number: 82; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 2068; wrong: 91; unknown wrong: 40
+Word: bank; correct: NNP; guessed: NN
+Sentence number: 83; length 30; correct: 29; wrong: 1; unknown wrong: 0
+  Total tags correct: 2097; wrong: 92; unknown wrong: 40
+Sentence number: 84; length 2; correct: 2; wrong: 0; unknown wrong: 0
+  Total tags correct: 2099; wrong: 92; unknown wrong: 40
+Sentence number: 85; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 2115; wrong: 92; unknown wrong: 40
+Word: sampai; correct: IN; guessed: SC
+Word: sampai; correct: IN; guessed: SC
+Sentence number: 86; length 33; correct: 31; wrong: 2; unknown wrong: 0
+  Total tags correct: 2146; wrong: 94; unknown wrong: 40
+Sentence number: 87; length 40; correct: 40; wrong: 0; unknown wrong: 0
+  Total tags correct: 2186; wrong: 94; unknown wrong: 40
+Sentence number: 88; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 2206; wrong: 94; unknown wrong: 40
+Sentence number: 89; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 2224; wrong: 94; unknown wrong: 40
+UnkWord: knesset; correct: NNP; guessed: NN
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 90; length 27; correct: 25; wrong: 2; unknown wrong: 1
+  Total tags correct: 2249; wrong: 96; unknown wrong: 41
+Word: sakit; correct: JJ; guessed: NN
+Sentence number: 91; length 24; correct: 23; wrong: 1; unknown wrong: 0
+  Total tags correct: 2272; wrong: 97; unknown wrong: 41
+Sentence number: 92; length 32; correct: 32; wrong: 0; unknown wrong: 0
+  Total tags correct: 2304; wrong: 97; unknown wrong: 41
+UnkWord: bekasi; correct: NNP; guessed: NN
+UnkWord: jabodetabek; correct: NNP; guessed: NN
+Word: untuk; correct: SC; guessed: IN
+Sentence number: 93; length 37; correct: 34; wrong: 3; unknown wrong: 2
+  Total tags correct: 2338; wrong: 100; unknown wrong: 43
+Word: dengan; correct: IN; guessed: SC
+Word: rata-rata; correct: JJ; guessed: NN
+Sentence number: 94; length 42; correct: 40; wrong: 2; unknown wrong: 0
+  Total tags correct: 2378; wrong: 102; unknown wrong: 43
+Sentence number: 95; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 2408; wrong: 102; unknown wrong: 43
+Word: sampai; correct: SC; guessed: IN
+Sentence number: 96; length 20; correct: 19; wrong: 1; unknown wrong: 0
+  Total tags correct: 2427; wrong: 103; unknown wrong: 43
+UnkWord: 2018; correct: CD; guessed: NNP
+Sentence number: 97; length 17; correct: 16; wrong: 1; unknown wrong: 1
+  Total tags correct: 2443; wrong: 104; unknown wrong: 44
+UnkWord: betapa; correct: SC; guessed: NN
+Sentence number: 98; length 9; correct: 8; wrong: 1; unknown wrong: 1
+  Total tags correct: 2451; wrong: 105; unknown wrong: 45
+Sentence number: 99; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 2475; wrong: 105; unknown wrong: 45
+Sentence number: 100; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 2494; wrong: 105; unknown wrong: 45
+Word: kan; correct: RP; guessed: MD
+Word: sekali; correct: RB; guessed: NN
+Sentence number: 101; length 37; correct: 35; wrong: 2; unknown wrong: 0
+  Total tags correct: 2529; wrong: 107; unknown wrong: 45
+Word: sampai; correct: SC; guessed: IN
+Sentence number: 102; length 14; correct: 13; wrong: 1; unknown wrong: 0
+  Total tags correct: 2542; wrong: 108; unknown wrong: 45
+Word: angkatan; correct: NN; guessed: NNP
+Word: udara; correct: NN; guessed: NNP
+Sentence number: 103; length 23; correct: 21; wrong: 2; unknown wrong: 0
+  Total tags correct: 2563; wrong: 110; unknown wrong: 45
+UnkWord: philippe; correct: NNP; guessed: NN
+UnkWord: meilhac; correct: NNP; guessed: NN
+UnkWord: mencela; correct: VB; guessed: NN
+UnkWord: agathe; correct: NNP; guessed: NN
+UnkWord: mahkamah; correct: NNP; guessed: NN
+Word: internasional; correct: NNP; guessed: JJ
+Word: bagi; correct: NNP; guessed: IN
+Sentence number: 104; length 41; correct: 34; wrong: 7; unknown wrong: 5
+  Total tags correct: 2597; wrong: 117; unknown wrong: 50
+UnkWord: fasilitasi; correct: VB; guessed: NN
+Sentence number: 105; length 20; correct: 19; wrong: 1; unknown wrong: 1
+  Total tags correct: 2616; wrong: 118; unknown wrong: 51
+Sentence number: 106; length 48; correct: 48; wrong: 0; unknown wrong: 0
+  Total tags correct: 2664; wrong: 118; unknown wrong: 51
+Word: tabungan; correct: NNP; guessed: NN
+UnkWord: outlook; correct: FW; guessed: NN
+Word: analis; correct: NN; guessed: NNP
+Sentence number: 107; length 35; correct: 32; wrong: 3; unknown wrong: 1
+  Total tags correct: 2696; wrong: 121; unknown wrong: 52
+Word: bandar; correct: NNP; guessed: NN
+UnkWord: lampung; correct: NNP; guessed: NN
+Sentence number: 108; length 30; correct: 28; wrong: 2; unknown wrong: 1
+  Total tags correct: 2724; wrong: 123; unknown wrong: 53
+Word: presiden; correct: NN; guessed: NNP
+Sentence number: 109; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 2749; wrong: 124; unknown wrong: 53
+Word: menkeu; correct: NN; guessed: NNP
+Sentence number: 110; length 24; correct: 23; wrong: 1; unknown wrong: 0
+  Total tags correct: 2772; wrong: 125; unknown wrong: 53
+UnkWord: performance; correct: FW; guessed: NN
+UnkWord: capacity; correct: FW; guessed: NN
+UnkWord: building; correct: FW; guessed: NN
+Sentence number: 111; length 43; correct: 40; wrong: 3; unknown wrong: 3
+  Total tags correct: 2812; wrong: 128; unknown wrong: 56
+Sentence number: 112; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 2833; wrong: 128; unknown wrong: 56
+Sentence number: 113; length 36; correct: 36; wrong: 0; unknown wrong: 0
+  Total tags correct: 2869; wrong: 128; unknown wrong: 56
+Word: pemerintah; correct: NNP; guessed: NN
+Word: belakangan; correct: RB; guessed: NN
+UnkWord: memacu; correct: VB; guessed: NN
+Sentence number: 114; length 30; correct: 27; wrong: 3; unknown wrong: 1
+  Total tags correct: 2896; wrong: 131; unknown wrong: 57
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 115; length 12; correct: 11; wrong: 1; unknown wrong: 0
+  Total tags correct: 2907; wrong: 132; unknown wrong: 57
+Word: bersama; correct: VB; guessed: IN
+UnkWord: bupph; correct: NNP; guessed: NN
+UnkWord: pertengahan; correct: NN; guessed: CD
+Sentence number: 116; length 28; correct: 25; wrong: 3; unknown wrong: 2
+  Total tags correct: 2932; wrong: 135; unknown wrong: 59
+Sentence number: 117; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 2958; wrong: 135; unknown wrong: 59
+UnkWord: berniat; correct: VB; guessed: NNP
+Sentence number: 118; length 40; correct: 39; wrong: 1; unknown wrong: 1
+  Total tags correct: 2997; wrong: 136; unknown wrong: 60
+UnkWord: calon-calon; correct: NN; guessed: VB
+Sentence number: 119; length 32; correct: 31; wrong: 1; unknown wrong: 1
+  Total tags correct: 3028; wrong: 137; unknown wrong: 61
+UnkWord: audit; correct: NN; guessed: VB
+Word: dalam; correct: X; guessed: IN
+Word: dalam; correct: IN; guessed: NN
+Sentence number: 120; length 41; correct: 38; wrong: 3; unknown wrong: 1
+  Total tags correct: 3066; wrong: 140; unknown wrong: 62
+Word: krisis; correct: JJ; guessed: NN
+Sentence number: 121; length 30; correct: 29; wrong: 1; unknown wrong: 0
+  Total tags correct: 3095; wrong: 141; unknown wrong: 62
+Sentence number: 122; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 3118; wrong: 141; unknown wrong: 62
+Sentence number: 123; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 3142; wrong: 141; unknown wrong: 62
+Sentence number: 124; length 37; correct: 37; wrong: 0; unknown wrong: 0
+  Total tags correct: 3179; wrong: 141; unknown wrong: 62
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 125; length 20; correct: 19; wrong: 1; unknown wrong: 0
+  Total tags correct: 3198; wrong: 142; unknown wrong: 62
+Sentence number: 126; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 3215; wrong: 142; unknown wrong: 62
+Word: utara; correct: NNP; guessed: NN
+Sentence number: 127; length 38; correct: 37; wrong: 1; unknown wrong: 0
+  Total tags correct: 3252; wrong: 143; unknown wrong: 62
+Sentence number: 128; length 27; correct: 27; wrong: 0; unknown wrong: 0
+  Total tags correct: 3279; wrong: 143; unknown wrong: 62
+Word: asing; correct: NN; guessed: JJ
+Sentence number: 129; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 3300; wrong: 144; unknown wrong: 62
+Sentence number: 130; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 3309; wrong: 144; unknown wrong: 62
+Sentence number: 131; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 3332; wrong: 144; unknown wrong: 62
+Sentence number: 132; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 3349; wrong: 144; unknown wrong: 62
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 133; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 3374; wrong: 145; unknown wrong: 62
+Sentence number: 134; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 3407; wrong: 145; unknown wrong: 62
+Word: kemungkinan; correct: MD; guessed: NN
+Sentence number: 135; length 21; correct: 20; wrong: 1; unknown wrong: 0
+  Total tags correct: 3427; wrong: 146; unknown wrong: 62
+Sentence number: 136; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 3451; wrong: 146; unknown wrong: 62
+Sentence number: 137; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 3463; wrong: 146; unknown wrong: 62
+UnkWord: dijelaskan; correct: VB; guessed: NNP
+Sentence number: 138; length 31; correct: 30; wrong: 1; unknown wrong: 1
+  Total tags correct: 3493; wrong: 147; unknown wrong: 63
+UnkWord: nii; correct: NNP; guessed: VB
+UnkWord: atmr; correct: NNP; guessed: NN
+UnkWord: aktiva; correct: NNP; guessed: NN
+UnkWord: tertimbang; correct: NNP; guessed: NN
+Word: menurut; correct: NNP; guessed: IN
+Word: risiko; correct: NNP; guessed: NN
+Sentence number: 139; length 59; correct: 53; wrong: 6; unknown wrong: 4
+  Total tags correct: 3546; wrong: 153; unknown wrong: 67
+Sentence number: 140; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 3565; wrong: 153; unknown wrong: 67
+UnkWord: ditimpali; correct: VB; guessed: NNP
+UnkWord: ayat-ayat; correct: NN; guessed: NNP
+UnkWord: lagu-lagu; correct: NN; guessed: NNP
+UnkWord: keagamaan; correct: NN; guessed: NNP
+UnkWord: teriakan; correct: NN; guessed: NNP
+Word: untuk; correct: IN; guessed: SC
+UnkWord: suci; correct: JJ; guessed: NNP
+UnkWord: atas-nama; correct: NN; guessed: NNP
+Word: kepala; correct: NN; guessed: NNP
+Word: kelompok; correct: NN; guessed: NNP
+Sentence number: 141; length 32; correct: 22; wrong: 10; unknown wrong: 7
+  Total tags correct: 3587; wrong: 163; unknown wrong: 74
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 142; length 24; correct: 23; wrong: 1; unknown wrong: 0
+  Total tags correct: 3610; wrong: 164; unknown wrong: 74
+Word: semula; correct: NN; guessed: RB
+Sentence number: 143; length 31; correct: 30; wrong: 1; unknown wrong: 0
+  Total tags correct: 3640; wrong: 165; unknown wrong: 74
+Word: dengan; correct: SC; guessed: IN
+Word: 2003; correct: CD; guessed: NNP
+Sentence number: 144; length 26; correct: 24; wrong: 2; unknown wrong: 0
+  Total tags correct: 3664; wrong: 167; unknown wrong: 74
+Sentence number: 145; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 3677; wrong: 167; unknown wrong: 74
+Sentence number: 146; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 3689; wrong: 167; unknown wrong: 74
+UnkWord: papa; correct: JJ; guessed: NN
+UnkWord: selayak; correct: RB; guessed: NN
+Sentence number: 147; length 41; correct: 39; wrong: 2; unknown wrong: 2
+  Total tags correct: 3728; wrong: 169; unknown wrong: 76
+Sentence number: 148; length 40; correct: 40; wrong: 0; unknown wrong: 0
+  Total tags correct: 3768; wrong: 169; unknown wrong: 76
+Word: badan; correct: NNP; guessed: NN
+UnkWord: sertifikasi; correct: NNP; guessed: NN
+Word: risiko; correct: NNP; guessed: NN
+UnkWord: bsmr; correct: NNP; guessed: NN
+Sentence number: 149; length 16; correct: 12; wrong: 4; unknown wrong: 2
+  Total tags correct: 3780; wrong: 173; unknown wrong: 78
+UnkWord: takut; correct: JJ; guessed: NN
+Sentence number: 150; length 33; correct: 32; wrong: 1; unknown wrong: 1
+  Total tags correct: 3812; wrong: 174; unknown wrong: 79
+Sentence number: 151; length 28; correct: 28; wrong: 0; unknown wrong: 0
+  Total tags correct: 3840; wrong: 174; unknown wrong: 79
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 152; length 20; correct: 19; wrong: 1; unknown wrong: 0
+  Total tags correct: 3859; wrong: 175; unknown wrong: 79
+Word: menko; correct: NN; guessed: NNP
+Word: perekonomian; correct: NN; guessed: NNP
+Word: dengan; correct: IN; guessed: SC
+Sentence number: 153; length 28; correct: 25; wrong: 3; unknown wrong: 0
+  Total tags correct: 3884; wrong: 178; unknown wrong: 79
+Sentence number: 154; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 3893; wrong: 178; unknown wrong: 79
+Sentence number: 155; length 10; correct: 10; wrong: 0; unknown wrong: 0
+  Total tags correct: 3903; wrong: 178; unknown wrong: 79
+UnkWord: menyinggung; correct: VB; guessed: NN
+UnkWord: dk; correct: NNP; guessed: NN
+Word: badan; correct: NN; guessed: NNP
+Word: dunia; correct: NN; guessed: NNP
+Sentence number: 156; length 29; correct: 25; wrong: 4; unknown wrong: 2
+  Total tags correct: 3928; wrong: 182; unknown wrong: 81
+UnkWord: apache; correct: NNP; guessed: NN
+Word: bukit; correct: NN; guessed: NNP
+Sentence number: 157; length 12; correct: 10; wrong: 2; unknown wrong: 1
+  Total tags correct: 3938; wrong: 184; unknown wrong: 82
+UnkWord: indocel; correct: NNP; guessed: NN
+UnkWord: holding; correct: NNP; guessed: NN
+UnkWord: sdn; correct: NNP; guessed: NN
+UnkWord: bhd; correct: NNP; guessed: NN
+UnkWord: khazanah; correct: NNP; guessed: NN
+Word: nasional; correct: NNP; guessed: JJ
+UnkWord: bhd; correct: NNP; guessed: NN
+UnkWord: radjawali; correct: NNP; guessed: NN
+UnkWord: corpora; correct: NNP; guessed: NN
+UnkWord: aif; correct: NNP; guessed: NN
+Sentence number: 158; length 32; correct: 22; wrong: 10; unknown wrong: 9
+  Total tags correct: 3960; wrong: 194; unknown wrong: 91
+Sentence number: 159; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 3969; wrong: 194; unknown wrong: 91
+Sentence number: 160; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 3980; wrong: 194; unknown wrong: 91
+Word: menteri; correct: NNP; guessed: NN
+Word: kehutanan; correct: NNP; guessed: NN
+UnkWord: selaku; correct: IN; guessed: NNP
+UnkWord: partner; correct: NN; guessed: NNP
+Sentence number: 161; length 45; correct: 41; wrong: 4; unknown wrong: 2
+  Total tags correct: 4021; wrong: 198; unknown wrong: 93
+Sentence number: 162; length 43; correct: 43; wrong: 0; unknown wrong: 0
+  Total tags correct: 4064; wrong: 198; unknown wrong: 93
+Word: kota; correct: NN; guessed: NNP
+Word: utama; correct: JJ; guessed: NNP
+Sentence number: 163; length 38; correct: 36; wrong: 2; unknown wrong: 0
+  Total tags correct: 4100; wrong: 200; unknown wrong: 93
+Sentence number: 164; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 4111; wrong: 200; unknown wrong: 93
+UnkWord: antaraliran; correct: JJ; guessed: NN
+Sentence number: 165; length 16; correct: 15; wrong: 1; unknown wrong: 1
+  Total tags correct: 4126; wrong: 201; unknown wrong: 94
+Sentence number: 166; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 4149; wrong: 201; unknown wrong: 94
+Word: terakhir; correct: OD; guessed: JJ
+UnkWord: institut; correct: NNP; guessed: NN
+Word: teknologi; correct: NNP; guessed: NN
+Sentence number: 167; length 42; correct: 39; wrong: 3; unknown wrong: 1
+  Total tags correct: 4188; wrong: 204; unknown wrong: 95
+UnkWord: umk; correct: NN; guessed: VB
+UnkWord: linkage; correct: FW; guessed: NN
+Word: program; correct: FW; guessed: NN
+Sentence number: 168; length 26; correct: 23; wrong: 3; unknown wrong: 2
+  Total tags correct: 4211; wrong: 207; unknown wrong: 97
+Sentence number: 169; length 27; correct: 27; wrong: 0; unknown wrong: 0
+  Total tags correct: 4238; wrong: 207; unknown wrong: 97
+Sentence number: 170; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 4253; wrong: 207; unknown wrong: 97
+Sentence number: 171; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 4276; wrong: 207; unknown wrong: 97
+Sentence number: 172; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 4291; wrong: 207; unknown wrong: 97
+Sentence number: 173; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 4315; wrong: 207; unknown wrong: 97
+Word: dewan; correct: NN; guessed: NNP
+Word: gubernur; correct: NN; guessed: NNP
+Word: masing-masing; correct: PRP; guessed: CD
+Word: plus; correct: JJ; guessed: NN
+Word: plus; correct: JJ; guessed: NN
+Sentence number: 174; length 44; correct: 39; wrong: 5; unknown wrong: 0
+  Total tags correct: 4354; wrong: 212; unknown wrong: 97
+Word: b; correct: NN; guessed: NNP
+Word: b; correct: SYM; guessed: NNP
+Sentence number: 175; length 54; correct: 52; wrong: 2; unknown wrong: 0
+  Total tags correct: 4406; wrong: 214; unknown wrong: 97
+Sentence number: 176; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 4430; wrong: 214; unknown wrong: 97
+UnkWord: connecticut; correct: NNP; guessed: NN
+UnkWord: 114; correct: CD; guessed: NN
+UnkWord: tertua; correct: JJ; guessed: VB
+UnkWord: tillman; correct: NNP; guessed: NN
+UnkWord: 1892; correct: CD; guessed: NNP
+Sentence number: 177; length 42; correct: 37; wrong: 5; unknown wrong: 5
+  Total tags correct: 4467; wrong: 219; unknown wrong: 102
+Sentence number: 178; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 4497; wrong: 219; unknown wrong: 102
+Sentence number: 179; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 4530; wrong: 219; unknown wrong: 102
+UnkWord: bainimarama; correct: NNP; guessed: NN
+UnkWord: siapa-saja; correct: WH; guessed: NN
+Word: pemerintahan; correct: NN; guessed: NNP
+Sentence number: 180; length 32; correct: 29; wrong: 3; unknown wrong: 2
+  Total tags correct: 4559; wrong: 222; unknown wrong: 104
+Sentence number: 181; length 39; correct: 39; wrong: 0; unknown wrong: 0
+  Total tags correct: 4598; wrong: 222; unknown wrong: 104
+Word: surat; correct: NNP; guessed: NN
+UnkWord: berharga; correct: NNP; guessed: NN
+Word: negara; correct: NNP; guessed: NN
+UnkWord: sbn; correct: NNP; guessed: NN
+Sentence number: 182; length 58; correct: 54; wrong: 4; unknown wrong: 2
+  Total tags correct: 4652; wrong: 226; unknown wrong: 106
+Sentence number: 183; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 4664; wrong: 226; unknown wrong: 106
+Word: dengan; correct: SC; guessed: IN
+UnkWord: urat; correct: NN; guessed: CD
+UnkWord: saraf; correct: NN; guessed: CD
+Sentence number: 184; length 30; correct: 27; wrong: 3; unknown wrong: 2
+  Total tags correct: 4691; wrong: 229; unknown wrong: 108
+Word: muslimin; correct: NN; guessed: NNP
+Word: dunia; correct: NN; guessed: NNP
+UnkWord: timbul; correct: VB; guessed: NN
+Sentence number: 185; length 23; correct: 20; wrong: 3; unknown wrong: 1
+  Total tags correct: 4711; wrong: 232; unknown wrong: 109
+Sentence number: 186; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 4727; wrong: 232; unknown wrong: 109
+Word: seiring; correct: IN; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 187; length 36; correct: 34; wrong: 2; unknown wrong: 0
+  Total tags correct: 4761; wrong: 234; unknown wrong: 109
+UnkWord: ringkas; correct: JJ; guessed: NN
+Word: perseroan; correct: NNP; guessed: NN
+UnkWord: denominasi; correct: NN; guessed: CD
+Sentence number: 188; length 34; correct: 31; wrong: 3; unknown wrong: 2
+  Total tags correct: 4792; wrong: 237; unknown wrong: 111
+UnkWord: mutlak; correct: JJ; guessed: NN
+UnkWord: romario; correct: NNP; guessed: NN
+UnkWord: brasil; correct: NNP; guessed: NN
+Word: saat; correct: SC; guessed: NN
+UnkWord: piala; correct: NNP; guessed: NN
+Word: dunia; correct: NNP; guessed: NN
+Sentence number: 189; length 27; correct: 21; wrong: 6; unknown wrong: 4
+  Total tags correct: 4813; wrong: 243; unknown wrong: 115
+Sentence number: 190; length 10; correct: 10; wrong: 0; unknown wrong: 0
+  Total tags correct: 4823; wrong: 243; unknown wrong: 115
+Sentence number: 191; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 4836; wrong: 243; unknown wrong: 115
+Word: republik; correct: NN; guessed: NNP
+Sentence number: 192; length 36; correct: 35; wrong: 1; unknown wrong: 0
+  Total tags correct: 4871; wrong: 244; unknown wrong: 115
+UnkWord: mati; correct: VB; guessed: NN
+Word: gedung; correct: NN; guessed: NNP
+Sentence number: 193; length 33; correct: 31; wrong: 2; unknown wrong: 1
+  Total tags correct: 4902; wrong: 246; unknown wrong: 116
+Sentence number: 194; length 10; correct: 10; wrong: 0; unknown wrong: 0
+  Total tags correct: 4912; wrong: 246; unknown wrong: 116
+UnkWord: gila; correct: JJ; guessed: NN
+Sentence number: 195; length 5; correct: 4; wrong: 1; unknown wrong: 1
+  Total tags correct: 4916; wrong: 247; unknown wrong: 117
+UnkWord: koran; correct: NN; guessed: NNP
+UnkWord: terbitan; correct: NN; guessed: NNP
+UnkWord: wingnut; correct: NNP; guessed: NN
+UnkWord: films; correct: NNP; guessed: NN
+Word: tinggi; correct: NN; guessed: JJ
+UnkWord: 123; correct: CD; guessed: NN
+UnkWord: cm; correct: NND; guessed: NN
+UnkWord: 158; correct: CD; guessed: NN
+UnkWord: cm; correct: NND; guessed: NN
+Sentence number: 196; length 26; correct: 17; wrong: 9; unknown wrong: 8
+  Total tags correct: 4933; wrong: 256; unknown wrong: 125
+Word: kepolisian; correct: NN; guessed: NNP
+Sentence number: 197; length 19; correct: 18; wrong: 1; unknown wrong: 0
+  Total tags correct: 4951; wrong: 257; unknown wrong: 125
+Word: kebanyakan; correct: NN; guessed: CD
+UnkWord: geografis; correct: JJ; guessed: NN
+Sentence number: 198; length 22; correct: 20; wrong: 2; unknown wrong: 1
+  Total tags correct: 4971; wrong: 259; unknown wrong: 126
+Sentence number: 199; length 27; correct: 27; wrong: 0; unknown wrong: 0
+  Total tags correct: 4998; wrong: 259; unknown wrong: 126
+UnkWord: bertajuk; correct: VB; guessed: NN
+Word: serangan; correct: NNP; guessed: NN
+Word: atas; correct: NNP; guessed: IN
+Word: pers; correct: NNP; guessed: NN
+UnkWord: menggambarkan; correct: VB; guessed: NNP
+Sentence number: 200; length 36; correct: 31; wrong: 5; unknown wrong: 2
+  Total tags correct: 5029; wrong: 264; unknown wrong: 128
+UnkWord: anthony; correct: NNP; guessed: NN
+UnkWord: kontruksi; correct: NN; guessed: VB
+UnkWord: kalifornia; correct: NNP; guessed: NN
+Word: orang; correct: NND; guessed: NN
+Word: agen; correct: NN; guessed: NNP
+Word: permata; correct: NN; guessed: NNP
+Word: untuk; correct: IN; guessed: SC
+Word: jamrud; correct: NN; guessed: NNP
+Word: lalu; correct: NN; guessed: CC
+Sentence number: 201; length 39; correct: 30; wrong: 9; unknown wrong: 3
+  Total tags correct: 5059; wrong: 273; unknown wrong: 131
+Sentence number: 202; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 5077; wrong: 273; unknown wrong: 131
+Word: baru; correct: MD; guessed: JJ
+Sentence number: 203; length 32; correct: 31; wrong: 1; unknown wrong: 0
+  Total tags correct: 5108; wrong: 274; unknown wrong: 131
+UnkWord: spasial; correct: JJ; guessed: NN
+Sentence number: 204; length 49; correct: 48; wrong: 1; unknown wrong: 1
+  Total tags correct: 5156; wrong: 275; unknown wrong: 132
+Sentence number: 205; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 5172; wrong: 275; unknown wrong: 132
+Sentence number: 206; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 5196; wrong: 275; unknown wrong: 132
+UnkWord: manfaatkan; correct: VB; guessed: NN
+Sentence number: 207; length 16; correct: 15; wrong: 1; unknown wrong: 1
+  Total tags correct: 5211; wrong: 276; unknown wrong: 133
+Word: berikut; correct: PR; guessed: NN
+Sentence number: 208; length 39; correct: 38; wrong: 1; unknown wrong: 0
+  Total tags correct: 5249; wrong: 277; unknown wrong: 133
+Sentence number: 209; length 52; correct: 52; wrong: 0; unknown wrong: 0
+  Total tags correct: 5301; wrong: 277; unknown wrong: 133
+Word: umum; correct: NN; guessed: JJ
+Sentence number: 210; length 27; correct: 26; wrong: 1; unknown wrong: 0
+  Total tags correct: 5327; wrong: 278; unknown wrong: 133
+Word: wali-kota; correct: NNP; guessed: NN
+Sentence number: 211; length 16; correct: 15; wrong: 1; unknown wrong: 0
+  Total tags correct: 5342; wrong: 279; unknown wrong: 133
+Word: sampai; correct: IN; guessed: SC
+Sentence number: 212; length 23; correct: 22; wrong: 1; unknown wrong: 0
+  Total tags correct: 5364; wrong: 280; unknown wrong: 133
+Sentence number: 213; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 5380; wrong: 280; unknown wrong: 133
+Sentence number: 214; length 35; correct: 35; wrong: 0; unknown wrong: 0
+  Total tags correct: 5415; wrong: 280; unknown wrong: 133
+UnkWord: tawar-menawar; correct: VB; guessed: NN
+Sentence number: 215; length 36; correct: 35; wrong: 1; unknown wrong: 1
+  Total tags correct: 5450; wrong: 281; unknown wrong: 134
+Word: di-mana; correct: WH; guessed: SC
+Sentence number: 216; length 16; correct: 15; wrong: 1; unknown wrong: 0
+  Total tags correct: 5465; wrong: 282; unknown wrong: 134
+Word: for; correct: FW; guessed: NNP
+UnkWord: commercial; correct: FW; guessed: NNP
+Sentence number: 217; length 38; correct: 36; wrong: 2; unknown wrong: 1
+  Total tags correct: 5501; wrong: 284; unknown wrong: 135
+Sentence number: 218; length 35; correct: 35; wrong: 0; unknown wrong: 0
+  Total tags correct: 5536; wrong: 284; unknown wrong: 135
+Word: i; correct: OD; guessed: NNP
+Sentence number: 219; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 5552; wrong: 285; unknown wrong: 135
+Sentence number: 220; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 5573; wrong: 285; unknown wrong: 135
+Sentence number: 221; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 5591; wrong: 285; unknown wrong: 135
+UnkWord: sepenuh; correct: JJ; guessed: NN
+UnkWord: sesuatu; correct: PRP; guessed: NN
+Sentence number: 222; length 24; correct: 22; wrong: 2; unknown wrong: 2
+  Total tags correct: 5613; wrong: 287; unknown wrong: 137
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 223; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 5629; wrong: 288; unknown wrong: 137
+Sentence number: 224; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 5647; wrong: 288; unknown wrong: 137
+Word: apakah; correct: WH; guessed: SC
+UnkWord: ldkp; correct: NNP; guessed: NN
+Sentence number: 225; length 28; correct: 26; wrong: 2; unknown wrong: 1
+  Total tags correct: 5673; wrong: 290; unknown wrong: 138
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 226; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 5694; wrong: 291; unknown wrong: 138
+UnkWord: ekuivalen; correct: JJ; guessed: VB
+Sentence number: 227; length 24; correct: 23; wrong: 1; unknown wrong: 1
+  Total tags correct: 5717; wrong: 292; unknown wrong: 139
+Word: kemungkinan; correct: NN; guessed: MD
+Sentence number: 228; length 11; correct: 10; wrong: 1; unknown wrong: 0
+  Total tags correct: 5727; wrong: 293; unknown wrong: 139
+UnkWord: perpecahan; correct: NN; guessed: VB
+UnkWord: garis-depan; correct: NN; guessed: NNP
+Sentence number: 229; length 28; correct: 26; wrong: 2; unknown wrong: 2
+  Total tags correct: 5753; wrong: 295; unknown wrong: 141
+Word: terbatas; correct: JJ; guessed: VB
+UnkWord: metal; correct: NN; guessed: VB
+Sentence number: 230; length 16; correct: 14; wrong: 2; unknown wrong: 1
+  Total tags correct: 5767; wrong: 297; unknown wrong: 142
+UnkWord: volatile; correct: FW; guessed: NN
+UnkWord: food; correct: FW; guessed: NN
+Sentence number: 231; length 21; correct: 19; wrong: 2; unknown wrong: 2
+  Total tags correct: 5786; wrong: 299; unknown wrong: 144
+Sentence number: 232; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 5797; wrong: 299; unknown wrong: 144
+Word: paripurna; correct: NN; guessed: NNP
+UnkWord: juru-runding; correct: NN; guessed: NNP
+Word: utama; correct: JJ; guessed: NNP
+Sentence number: 233; length 29; correct: 26; wrong: 3; unknown wrong: 1
+  Total tags correct: 5823; wrong: 302; unknown wrong: 145
+Word: mitra; correct: NNP; guessed: NN
+UnkWord: vulnerability; correct: FW; guessed: NN
+UnkWord: mendadak; correct: RB; guessed: VB
+Sentence number: 234; length 37; correct: 34; wrong: 3; unknown wrong: 2
+  Total tags correct: 5857; wrong: 305; unknown wrong: 147
+UnkWord: morales; correct: NNP; guessed: NN
+UnkWord: membagi-bagikan; correct: VB; guessed: NN
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 235; length 37; correct: 34; wrong: 3; unknown wrong: 2
+  Total tags correct: 5891; wrong: 308; unknown wrong: 149
+Word: hati-hati; correct: JJ; guessed: VB
+Sentence number: 236; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 5916; wrong: 309; unknown wrong: 149
+UnkWord: zalim; correct: JJ; guessed: VB
+Sentence number: 237; length 20; correct: 19; wrong: 1; unknown wrong: 1
+  Total tags correct: 5935; wrong: 310; unknown wrong: 150
+UnkWord: sebutan; correct: NN; guessed: FW
+Word: untuk; correct: IN; guessed: SC
+UnkWord: autokrat; correct: NN; guessed: VB
+UnkWord: sesuatu; correct: PRP; guessed: NN
+UnkWord: menggambarkan; correct: VB; guessed: NN
+Sentence number: 238; length 39; correct: 34; wrong: 5; unknown wrong: 4
+  Total tags correct: 5969; wrong: 315; unknown wrong: 154
+UnkWord: semoga; correct: SC; guessed: NN
+Sentence number: 239; length 18; correct: 17; wrong: 1; unknown wrong: 1
+  Total tags correct: 5986; wrong: 316; unknown wrong: 155
+Word: dan; correct: NNP; guessed: CC
+Word: evaluasi; correct: NNP; guessed: NN
+Word: pendanaan; correct: NNP; guessed: NN
+Word: pembangunan; correct: NNP; guessed: NN
+Sentence number: 240; length 31; correct: 27; wrong: 4; unknown wrong: 0
+  Total tags correct: 6013; wrong: 320; unknown wrong: 155
+UnkWord: menggelapkan; correct: VB; guessed: NN
+UnkWord: mengobarkan; correct: VB; guessed: NN
+UnkWord: etnik; correct: JJ; guessed: NN
+UnkWord: pemusnahan; correct: NN; guessed: VB
+Sentence number: 241; length 28; correct: 24; wrong: 4; unknown wrong: 4
+  Total tags correct: 6037; wrong: 324; unknown wrong: 159
+Word: apakah; correct: SC; guessed: WH
+Sentence number: 242; length 12; correct: 11; wrong: 1; unknown wrong: 0
+  Total tags correct: 6048; wrong: 325; unknown wrong: 159
+UnkWord: canberra; correct: NNP; guessed: NN
+Sentence number: 243; length 35; correct: 34; wrong: 1; unknown wrong: 1
+  Total tags correct: 6082; wrong: 326; unknown wrong: 160
+Sentence number: 244; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 6104; wrong: 326; unknown wrong: 160
+Word: pengacara; correct: NNP; guessed: NN
+UnkWord: mahmut; correct: NNP; guessed: NN
+UnkWord: sakar; correct: NNP; guessed: NN
+Sentence number: 245; length 19; correct: 16; wrong: 3; unknown wrong: 2
+  Total tags correct: 6120; wrong: 329; unknown wrong: 162
+Sentence number: 246; length 14; correct: 14; wrong: 0; unknown wrong: 0
+  Total tags correct: 6134; wrong: 329; unknown wrong: 162
+UnkWord: bank-umum; correct: NN; guessed: VB
+UnkWord: arsitektur; correct: NNP; guessed: NN
+Word: perbankan; correct: NNP; guessed: NN
+Word: api; correct: NNP; guessed: NN
+Sentence number: 247; length 20; correct: 16; wrong: 4; unknown wrong: 2
+  Total tags correct: 6150; wrong: 333; unknown wrong: 164
+Sentence number: 248; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 6173; wrong: 333; unknown wrong: 164
+UnkWord: diperiksa; correct: VB; guessed: NN
+UnkWord: dna; correct: FW; guessed: NN
+Sentence number: 249; length 21; correct: 19; wrong: 2; unknown wrong: 2
+  Total tags correct: 6192; wrong: 335; unknown wrong: 166
+UnkWord: de; correct: NNP; guessed: NN
+UnkWord: einder; correct: NNP; guessed: NN
+Sentence number: 250; length 14; correct: 12; wrong: 2; unknown wrong: 2
+  Total tags correct: 6204; wrong: 337; unknown wrong: 168
+Word: karena; correct: IN; guessed: SC
+UnkWord: kacau; correct: JJ; guessed: VB
+Sentence number: 251; length 14; correct: 12; wrong: 2; unknown wrong: 1
+  Total tags correct: 6216; wrong: 339; unknown wrong: 169
+Sentence number: 252; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 6246; wrong: 339; unknown wrong: 169
+Word: ii; correct: OD; guessed: NNP
+Sentence number: 253; length 23; correct: 22; wrong: 1; unknown wrong: 0
+  Total tags correct: 6268; wrong: 340; unknown wrong: 169
+UnkWord: redistribusi; correct: VB; guessed: NN
+Sentence number: 254; length 22; correct: 21; wrong: 1; unknown wrong: 1
+  Total tags correct: 6289; wrong: 341; unknown wrong: 170
+Sentence number: 255; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 6322; wrong: 341; unknown wrong: 170
+UnkWord: dihantam; correct: VB; guessed: NN
+Word: krisis; correct: NN; guessed: JJ
+Word: multi; correct: X; guessed: NNP
+UnkWord: tersungkur; correct: VB; guessed: NN
+Sentence number: 256; length 17; correct: 13; wrong: 4; unknown wrong: 2
+  Total tags correct: 6335; wrong: 345; unknown wrong: 172
+Sentence number: 257; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 6353; wrong: 345; unknown wrong: 172
+Sentence number: 258; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 6362; wrong: 345; unknown wrong: 172
+Sentence number: 259; length 31; correct: 31; wrong: 0; unknown wrong: 0
+  Total tags correct: 6393; wrong: 345; unknown wrong: 172
+Sentence number: 260; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 6419; wrong: 345; unknown wrong: 172
+Sentence number: 261; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 6434; wrong: 345; unknown wrong: 172
+Sentence number: 262; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 6458; wrong: 345; unknown wrong: 172
+Sentence number: 263; length 28; correct: 28; wrong: 0; unknown wrong: 0
+  Total tags correct: 6486; wrong: 345; unknown wrong: 172
+Sentence number: 264; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 6506; wrong: 345; unknown wrong: 172
+Sentence number: 265; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 6532; wrong: 345; unknown wrong: 172
+Word: operasi; correct: NNP; guessed: NN
+UnkWord: nawrozi; correct: NNP; guessed: NN
+Word: tahun; correct: NNP; guessed: NN
+Word: baru; correct: NNP; guessed: JJ
+Word: kali; correct: NND; guessed: NN
+UnkWord: afghan; correct: NNP; guessed: NN
+UnkWord: angkatan-udara; correct: NN; guessed: NNP
+Word: darat; correct: NN; guessed: NNP
+Sentence number: 266; length 31; correct: 23; wrong: 8; unknown wrong: 3
+  Total tags correct: 6555; wrong: 353; unknown wrong: 175
+Word: komisaris; correct: NNP; guessed: NN
+Word: bumi; correct: NNP; guessed: NN
+UnkWord: nalinkant; correct: NNP; guessed: NN
+UnkWord: rathod; correct: NNP; guessed: NN
+Word: tata; correct: NNP; guessed: NN
+UnkWord: power; correct: NNP; guessed: NN
+UnkWord: kpc; correct: NNP; guessed: NN
+Sentence number: 267; length 43; correct: 36; wrong: 7; unknown wrong: 4
+  Total tags correct: 6591; wrong: 360; unknown wrong: 179
+Word: bank; correct: NNP; guessed: NN
+Word: rakyat; correct: NNP; guessed: NN
+Word: bank; correct: NN; guessed: NNP
+Word: pembangunan; correct: NN; guessed: NNP
+Word: rakyat; correct: NN; guessed: NNP
+UnkWord: dikategorikan; correct: VB; guessed: NNP
+Word: kesulitan; correct: NN; guessed: VB
+UnkWord: mengakses; correct: VB; guessed: NN
+Sentence number: 268; length 29; correct: 21; wrong: 8; unknown wrong: 2
+  Total tags correct: 6612; wrong: 368; unknown wrong: 181
+Word: lembaga; correct: NN; guessed: NNP
+Word: pemeringkat; correct: NN; guessed: NNP
+Word: internasional; correct: JJ; guessed: NNP
+Word: a; correct: SYM; guessed: NNP
+Sentence number: 269; length 34; correct: 30; wrong: 4; unknown wrong: 0
+  Total tags correct: 6642; wrong: 372; unknown wrong: 181
+Word: jelas; correct: JJ; guessed: VB
+Sentence number: 270; length 29; correct: 28; wrong: 1; unknown wrong: 0
+  Total tags correct: 6670; wrong: 373; unknown wrong: 181
+Sentence number: 271; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 6687; wrong: 373; unknown wrong: 181
+Sentence number: 272; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 6709; wrong: 373; unknown wrong: 181
+UnkWord: dipengaruhi; correct: VB; guessed: NN
+Sentence number: 273; length 28; correct: 27; wrong: 1; unknown wrong: 1
+  Total tags correct: 6736; wrong: 374; unknown wrong: 182
+UnkWord: sumsel; correct: NNP; guessed: NN
+Word: bagian; correct: NN; guessed: NNP
+Word: barat; correct: NN; guessed: NNP
+Word: -; correct: Z; guessed: NNP
+Word: /; correct: Z; guessed: NNP
+Sentence number: 274; length 32; correct: 27; wrong: 5; unknown wrong: 1
+  Total tags correct: 6763; wrong: 379; unknown wrong: 183
+Sentence number: 275; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 6772; wrong: 379; unknown wrong: 183
+Word: sepanjang; correct: IN; guessed: NN
+Sentence number: 276; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 6793; wrong: 380; unknown wrong: 183
+Word: nominal; correct: JJ; guessed: NN
+Sentence number: 277; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 6818; wrong: 381; unknown wrong: 183
+Sentence number: 278; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 6841; wrong: 381; unknown wrong: 183
+Word: riset; correct: NNP; guessed: NN
+Word: ekonomi; correct: NNP; guessed: NN
+Word: moneter; correct: NNP; guessed: JJ
+Sentence number: 279; length 42; correct: 39; wrong: 3; unknown wrong: 0
+  Total tags correct: 6880; wrong: 384; unknown wrong: 183
+Word: terakhir; correct: OD; guessed: JJ
+UnkWord: novo; correct: NNP; guessed: CD
+Word: -; correct: NNP; guessed: Z
+UnkWord: ogaryovo; correct: NNP; guessed: CD
+Sentence number: 280; length 35; correct: 31; wrong: 4; unknown wrong: 2
+  Total tags correct: 6911; wrong: 388; unknown wrong: 185
+Sentence number: 281; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 6941; wrong: 388; unknown wrong: 185
+UnkWord: tajuk; correct: NN; guessed: NNP
+UnkWord: ulang-alik; correct: VB; guessed: NN
+Sentence number: 282; length 24; correct: 22; wrong: 2; unknown wrong: 2
+  Total tags correct: 6963; wrong: 390; unknown wrong: 187
+Word: tenggara; correct: NN; guessed: NNP
+Sentence number: 283; length 28; correct: 27; wrong: 1; unknown wrong: 0
+  Total tags correct: 6990; wrong: 391; unknown wrong: 187
+Word: plus; correct: JJ; guessed: NN
+Sentence number: 284; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 7015; wrong: 392; unknown wrong: 187
+Word: bank; correct: NN; guessed: NNP
+Word: dunia; correct: NN; guessed: NNP
+UnkWord: bank-pembangunan; correct: NNP; guessed: NN
+Word: -; correct: Z; guessed: NNP
+UnkWord: operation; correct: FW; guessed: NNP
+Sentence number: 285; length 27; correct: 22; wrong: 5; unknown wrong: 2
+  Total tags correct: 7037; wrong: 397; unknown wrong: 189
+Sentence number: 286; length 32; correct: 32; wrong: 0; unknown wrong: 0
+  Total tags correct: 7069; wrong: 397; unknown wrong: 189
+Word: akuntansi; correct: NN; guessed: NNP
+UnkWord: sukar; correct: JJ; guessed: VB
+Sentence number: 287; length 23; correct: 21; wrong: 2; unknown wrong: 1
+  Total tags correct: 7090; wrong: 399; unknown wrong: 190
+Sentence number: 288; length 45; correct: 45; wrong: 0; unknown wrong: 0
+  Total tags correct: 7135; wrong: 399; unknown wrong: 190
+Sentence number: 289; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 7147; wrong: 399; unknown wrong: 190
+Sentence number: 290; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 7164; wrong: 399; unknown wrong: 190
+Word: sebaliknya; correct: RB; guessed: CC
+Sentence number: 291; length 12; correct: 11; wrong: 1; unknown wrong: 0
+  Total tags correct: 7175; wrong: 400; unknown wrong: 190
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 292; length 12; correct: 11; wrong: 1; unknown wrong: 0
+  Total tags correct: 7186; wrong: 401; unknown wrong: 190
+UnkWord: mengemis; correct: VB; guessed: NNP
+Sentence number: 293; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 7206; wrong: 402; unknown wrong: 191
+Word: dewasa; correct: RB; guessed: JJ
+Sentence number: 294; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 7222; wrong: 403; unknown wrong: 191
+UnkWord: al-qur'an; correct: NNP; guessed: NN
+UnkWord: ke-3; correct: OD; guessed: NNP
+Sentence number: 295; length 27; correct: 25; wrong: 2; unknown wrong: 2
+  Total tags correct: 7247; wrong: 405; unknown wrong: 193
+Sentence number: 296; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 7265; wrong: 405; unknown wrong: 193
+Sentence number: 297; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 7280; wrong: 405; unknown wrong: 193
+Sentence number: 298; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 7313; wrong: 405; unknown wrong: 193
+Word: bank; correct: NN; guessed: NNP
+Word: umum; correct: JJ; guessed: NNP
+Word: semula; correct: RB; guessed: NN
+Sentence number: 299; length 28; correct: 25; wrong: 3; unknown wrong: 0
+  Total tags correct: 7338; wrong: 408; unknown wrong: 193
+Sentence number: 300; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 7363; wrong: 408; unknown wrong: 193
+UnkWord: keseimbangan; correct: NN; guessed: VB
+Sentence number: 301; length 12; correct: 11; wrong: 1; unknown wrong: 1
+  Total tags correct: 7374; wrong: 409; unknown wrong: 194
+Word: provinsi; correct: NN; guessed: NNP
+Sentence number: 302; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 7390; wrong: 410; unknown wrong: 194
+UnkWord: ke-4; correct: OD; guessed: NNP
+Sentence number: 303; length 19; correct: 18; wrong: 1; unknown wrong: 1
+  Total tags correct: 7408; wrong: 411; unknown wrong: 195
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 304; length 18; correct: 17; wrong: 1; unknown wrong: 0
+  Total tags correct: 7425; wrong: 412; unknown wrong: 195
+UnkWord: pialang; correct: NN; guessed: NNP
+Sentence number: 305; length 34; correct: 33; wrong: 1; unknown wrong: 1
+  Total tags correct: 7458; wrong: 413; unknown wrong: 196
+Word: tentara; correct: NNP; guessed: NN
+Sentence number: 306; length 27; correct: 26; wrong: 1; unknown wrong: 0
+  Total tags correct: 7484; wrong: 414; unknown wrong: 196
+UnkWord: coca; correct: FW; guessed: NN
+Word: gubernur; correct: NNP; guessed: NN
+Sentence number: 307; length 29; correct: 27; wrong: 2; unknown wrong: 1
+  Total tags correct: 7511; wrong: 416; unknown wrong: 197
+Sentence number: 308; length 27; correct: 27; wrong: 0; unknown wrong: 0
+  Total tags correct: 7538; wrong: 416; unknown wrong: 197
+Sentence number: 309; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 7553; wrong: 416; unknown wrong: 197
+Word: kementerian; correct: NN; guessed: NNP
+Sentence number: 310; length 23; correct: 22; wrong: 1; unknown wrong: 0
+  Total tags correct: 7575; wrong: 417; unknown wrong: 197
+UnkWord: merumuskan; correct: VB; guessed: NN
+UnkWord: resistensi; correct: JJ; guessed: NN
+Word: asing; correct: NN; guessed: JJ
+Sentence number: 311; length 31; correct: 28; wrong: 3; unknown wrong: 2
+  Total tags correct: 7603; wrong: 420; unknown wrong: 199
+Word: strategis; correct: JJ; guessed: NNP
+Sentence number: 312; length 27; correct: 26; wrong: 1; unknown wrong: 0
+  Total tags correct: 7629; wrong: 421; unknown wrong: 199
+Sentence number: 313; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 7658; wrong: 421; unknown wrong: 199
+Sentence number: 314; length 27; correct: 27; wrong: 0; unknown wrong: 0
+  Total tags correct: 7685; wrong: 421; unknown wrong: 199
+Sentence number: 315; length 2; correct: 2; wrong: 0; unknown wrong: 0
+  Total tags correct: 7687; wrong: 421; unknown wrong: 199
+UnkWord: kritis; correct: JJ; guessed: NN
+Sentence number: 316; length 29; correct: 28; wrong: 1; unknown wrong: 1
+  Total tags correct: 7715; wrong: 422; unknown wrong: 200
+Sentence number: 317; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 7749; wrong: 422; unknown wrong: 200
+Word: sekretaris; correct: NNP; guessed: NN
+Word: meneg; correct: NNP; guessed: NN
+Sentence number: 318; length 26; correct: 24; wrong: 2; unknown wrong: 0
+  Total tags correct: 7773; wrong: 424; unknown wrong: 200
+Sentence number: 319; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 7793; wrong: 424; unknown wrong: 200
+UnkWord: takut; correct: JJ; guessed: NN
+Sentence number: 320; length 27; correct: 26; wrong: 1; unknown wrong: 1
+  Total tags correct: 7819; wrong: 425; unknown wrong: 201
+UnkWord: bergairah; correct: VB; guessed: JJ
+Sentence number: 321; length 20; correct: 19; wrong: 1; unknown wrong: 1
+  Total tags correct: 7838; wrong: 426; unknown wrong: 202
+Sentence number: 322; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 7867; wrong: 426; unknown wrong: 202
+UnkWord: latih; correct: VB; guessed: NN
+Sentence number: 323; length 22; correct: 21; wrong: 1; unknown wrong: 1
+  Total tags correct: 7888; wrong: 427; unknown wrong: 203
+Sentence number: 324; length 32; correct: 32; wrong: 0; unknown wrong: 0
+  Total tags correct: 7920; wrong: 427; unknown wrong: 203
+Sentence number: 325; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 7950; wrong: 427; unknown wrong: 203
+Word: krisis; correct: JJ; guessed: NN
+Sentence number: 326; length 33; correct: 32; wrong: 1; unknown wrong: 0
+  Total tags correct: 7982; wrong: 428; unknown wrong: 203
+Word: -; correct: NNP; guessed: Z
+Word: 2; correct: NNP; guessed: CD
+Sentence number: 327; length 32; correct: 30; wrong: 2; unknown wrong: 0
+  Total tags correct: 8012; wrong: 430; unknown wrong: 203
+Sentence number: 328; length 42; correct: 42; wrong: 0; unknown wrong: 0
+  Total tags correct: 8054; wrong: 430; unknown wrong: 203
+Sentence number: 329; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 8079; wrong: 430; unknown wrong: 203
+Sentence number: 330; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 8094; wrong: 430; unknown wrong: 203
+Word: pilihan; correct: NN; guessed: NNP
+Word: apakah; correct: WH; guessed: SC
+Word: sendiri; correct: NN; guessed: PRP
+Sentence number: 331; length 22; correct: 19; wrong: 3; unknown wrong: 0
+  Total tags correct: 8113; wrong: 433; unknown wrong: 203
+Sentence number: 332; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 8147; wrong: 433; unknown wrong: 203
+Word: partai; correct: NNP; guessed: NN
+Word: kongres; correct: NNP; guessed: NN
+Word: untuk; correct: NNP; guessed: SC
+UnkWord: demokrasi; correct: NNP; guessed: VB
+UnkWord: lesotho; correct: NNP; guessed: NN
+Word: kerajaan; correct: NN; guessed: NNP
+Word: pegunungan; correct: NN; guessed: NNP
+Word: selatan; correct: NN; guessed: NNP
+Sentence number: 333; length 34; correct: 26; wrong: 8; unknown wrong: 2
+  Total tags correct: 8173; wrong: 441; unknown wrong: 205
+Word: tengah; correct: NNP; guessed: NN
+Word: kepolisian; correct: NN; guessed: NNP
+UnkWord: pantai; correct: NNP; guessed: NN
+UnkWord: gading; correct: NNP; guessed: NN
+Sentence number: 334; length 43; correct: 39; wrong: 4; unknown wrong: 2
+  Total tags correct: 8212; wrong: 445; unknown wrong: 207
+Word: panjang; correct: JJ; guessed: NN
+UnkWord: enggan; correct: RB; guessed: NN
+Sentence number: 335; length 22; correct: 20; wrong: 2; unknown wrong: 1
+  Total tags correct: 8232; wrong: 447; unknown wrong: 208
+UnkWord: pinnacle; correct: NNP; guessed: NN
+Sentence number: 336; length 14; correct: 13; wrong: 1; unknown wrong: 1
+  Total tags correct: 8245; wrong: 448; unknown wrong: 209
+UnkWord: microfinance; correct: FW; guessed: NN
+Sentence number: 337; length 19; correct: 18; wrong: 1; unknown wrong: 1
+  Total tags correct: 8263; wrong: 449; unknown wrong: 210
+Sentence number: 338; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 8272; wrong: 449; unknown wrong: 210
+Word: daerah; correct: NN; guessed: NNP
+UnkWord: tanah-basah; correct: NN; guessed: NNP
+Word: luas; correct: JJ; guessed: NNP
+UnkWord: kedelapan; correct: OD; guessed: NN
+Sentence number: 339; length 42; correct: 38; wrong: 4; unknown wrong: 2
+  Total tags correct: 8310; wrong: 453; unknown wrong: 212
+Word: stainless; correct: NNP; guessed: FW
+Sentence number: 340; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 8331; wrong: 454; unknown wrong: 212
+Word: pengadilan; correct: NNP; guessed: NN
+UnkWord: agama; correct: NNP; guessed: NN
+Sentence number: 341; length 38; correct: 36; wrong: 2; unknown wrong: 1
+  Total tags correct: 8367; wrong: 456; unknown wrong: 213
+UnkWord: baku-hantam; correct: NN; guessed: VB
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 342; length 18; correct: 16; wrong: 2; unknown wrong: 1
+  Total tags correct: 8383; wrong: 458; unknown wrong: 214
+Word: mayoritas; correct: CD; guessed: NN
+Sentence number: 343; length 23; correct: 22; wrong: 1; unknown wrong: 0
+  Total tags correct: 8405; wrong: 459; unknown wrong: 214
+Word: ori; correct: NNP; guessed: NN
+Word: 2007; correct: NNP; guessed: CD
+Word: kali; correct: NN; guessed: NND
+Sentence number: 344; length 26; correct: 23; wrong: 3; unknown wrong: 0
+  Total tags correct: 8428; wrong: 462; unknown wrong: 214
+Sentence number: 345; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 8453; wrong: 462; unknown wrong: 214
+Word: timur; correct: NN; guessed: NNP
+Sentence number: 346; length 32; correct: 31; wrong: 1; unknown wrong: 0
+  Total tags correct: 8484; wrong: 463; unknown wrong: 214
+UnkWord: merajut; correct: VB; guessed: NN
+Word: melalui; correct: VB; guessed: IN
+Sentence number: 347; length 16; correct: 14; wrong: 2; unknown wrong: 1
+  Total tags correct: 8498; wrong: 465; unknown wrong: 215
+Word: sepanjang; correct: IN; guessed: NN
+UnkWord: 14,12; correct: CD; guessed: NN
+Word: minggu; correct: NN; guessed: NNP
+UnkWord: 15,63; correct: CD; guessed: NN
+Word: sepanjang; correct: IN; guessed: NN
+UnkWord: 16,09; correct: CD; guessed: NN
+Sentence number: 348; length 45; correct: 39; wrong: 6; unknown wrong: 3
+  Total tags correct: 8537; wrong: 471; unknown wrong: 218
+Sentence number: 349; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 8549; wrong: 471; unknown wrong: 218
+Word: iii; correct: NNP; guessed: OD
+Word: perdana; correct: OD; guessed: NNP
+UnkWord: mentah; correct: JJ; guessed: FW
+Sentence number: 350; length 56; correct: 53; wrong: 3; unknown wrong: 1
+  Total tags correct: 8602; wrong: 474; unknown wrong: 219
+UnkWord: kennedy; correct: NNP; guessed: NN
+UnkWord: disimpan; correct: VB; guessed: NN
+UnkWord: ayah; correct: NN; guessed: NNP
+Sentence number: 351; length 25; correct: 22; wrong: 3; unknown wrong: 3
+  Total tags correct: 8624; wrong: 477; unknown wrong: 222
+UnkWord: seekor; correct: NND; guessed: NN
+UnkWord: menabrak; correct: VB; guessed: NN
+Sentence number: 352; length 17; correct: 15; wrong: 2; unknown wrong: 2
+  Total tags correct: 8639; wrong: 479; unknown wrong: 224
+Sentence number: 353; length 52; correct: 52; wrong: 0; unknown wrong: 0
+  Total tags correct: 8691; wrong: 479; unknown wrong: 224
+UnkWord: arah-ke; correct: NN; guessed: VB
+UnkWord: sana; correct: PR; guessed: NN
+Sentence number: 354; length 41; correct: 39; wrong: 2; unknown wrong: 2
+  Total tags correct: 8730; wrong: 481; unknown wrong: 226
+UnkWord: market; correct: FW; guessed: NN
+Word: the; correct: FW; guessed: NNP
+Sentence number: 355; length 12; correct: 10; wrong: 2; unknown wrong: 1
+  Total tags correct: 8740; wrong: 483; unknown wrong: 227
+UnkWord: pendek; correct: JJ; guessed: NN
+Sentence number: 356; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 8760; wrong: 484; unknown wrong: 228
+UnkWord: dijelaskan; correct: VB; guessed: NNP
+Word: kepala; correct: NN; guessed: NNP
+Word: negara; correct: NN; guessed: NNP
+Sentence number: 357; length 26; correct: 23; wrong: 3; unknown wrong: 1
+  Total tags correct: 8783; wrong: 487; unknown wrong: 229
+Sentence number: 358; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 8817; wrong: 487; unknown wrong: 229
+Word: bandara; correct: NN; guessed: NNP
+Sentence number: 359; length 21; correct: 20; wrong: 1; unknown wrong: 0
+  Total tags correct: 8837; wrong: 488; unknown wrong: 229
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 360; length 23; correct: 22; wrong: 1; unknown wrong: 0
+  Total tags correct: 8859; wrong: 489; unknown wrong: 229
+Sentence number: 361; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 8889; wrong: 489; unknown wrong: 229
+Sentence number: 362; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 8905; wrong: 489; unknown wrong: 229
+Sentence number: 363; length 28; correct: 28; wrong: 0; unknown wrong: 0
+  Total tags correct: 8933; wrong: 489; unknown wrong: 229
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 364; length 24; correct: 23; wrong: 1; unknown wrong: 0
+  Total tags correct: 8956; wrong: 490; unknown wrong: 229
+Sentence number: 365; length 27; correct: 27; wrong: 0; unknown wrong: 0
+  Total tags correct: 8983; wrong: 490; unknown wrong: 229
+Sentence number: 366; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 9007; wrong: 490; unknown wrong: 229
+Word: lalu; correct: JJ; guessed: CC
+Word: bersama; correct: IN; guessed: VB
+Word: kongres; correct: NNP; guessed: NN
+Sentence number: 367; length 26; correct: 23; wrong: 3; unknown wrong: 0
+  Total tags correct: 9030; wrong: 493; unknown wrong: 229
+Sentence number: 368; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 9047; wrong: 493; unknown wrong: 229
+Word: sepanjang; correct: IN; guessed: NN
+UnkWord: 350; correct: CD; guessed: NN
+UnkWord: km; correct: NND; guessed: NN
+Sentence number: 369; length 9; correct: 6; wrong: 3; unknown wrong: 2
+  Total tags correct: 9053; wrong: 496; unknown wrong: 231
+Word: melalui; correct: IN; guessed: VB
+Word: blok; correct: NNP; guessed: NN
+Sentence number: 370; length 36; correct: 34; wrong: 2; unknown wrong: 0
+  Total tags correct: 9087; wrong: 498; unknown wrong: 231
+Word: minggu; correct: NNP; guessed: NN
+Sentence number: 371; length 24; correct: 23; wrong: 1; unknown wrong: 0
+  Total tags correct: 9110; wrong: 499; unknown wrong: 231
+Sentence number: 372; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 9132; wrong: 499; unknown wrong: 231
+Word: perjanjian; correct: NNP; guessed: NN
+Word: perdagangan; correct: NNP; guessed: NN
+Word: bebas; correct: NNP; guessed: JJ
+Sentence number: 373; length 13; correct: 10; wrong: 3; unknown wrong: 0
+  Total tags correct: 9142; wrong: 502; unknown wrong: 231
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 374; length 39; correct: 38; wrong: 1; unknown wrong: 0
+  Total tags correct: 9180; wrong: 503; unknown wrong: 231
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 375; length 37; correct: 36; wrong: 1; unknown wrong: 0
+  Total tags correct: 9216; wrong: 504; unknown wrong: 231
+Word: swasta; correct: JJ; guessed: NN
+Word: asing; correct: NN; guessed: JJ
+Sentence number: 376; length 12; correct: 10; wrong: 2; unknown wrong: 0
+  Total tags correct: 9226; wrong: 506; unknown wrong: 231
+UnkWord: mengejar; correct: VB; guessed: NN
+UnkWord: sambungan; correct: NN; guessed: NND
+Sentence number: 377; length 24; correct: 22; wrong: 2; unknown wrong: 2
+  Total tags correct: 9248; wrong: 508; unknown wrong: 233
+UnkWord: isyarat; correct: NN; guessed: FW
+Word: menkeu; correct: NNP; guessed: NN
+Sentence number: 378; length 21; correct: 19; wrong: 2; unknown wrong: 1
+  Total tags correct: 9267; wrong: 510; unknown wrong: 234
+Word: tabungan; correct: NNP; guessed: NN
+Sentence number: 379; length 29; correct: 28; wrong: 1; unknown wrong: 0
+  Total tags correct: 9295; wrong: 511; unknown wrong: 234
+Sentence number: 380; length 7; correct: 7; wrong: 0; unknown wrong: 0
+  Total tags correct: 9302; wrong: 511; unknown wrong: 234
+UnkWord: pelik; correct: JJ; guessed: VB
+Word: melalui; correct: VB; guessed: IN
+Sentence number: 381; length 21; correct: 19; wrong: 2; unknown wrong: 1
+  Total tags correct: 9321; wrong: 513; unknown wrong: 235
+Word: blok; correct: NN; guessed: NNP
+Word: &; correct: Z; guessed: NNP
+Word: blok; correct: NN; guessed: NNP
+Sentence number: 382; length 52; correct: 49; wrong: 3; unknown wrong: 0
+  Total tags correct: 9370; wrong: 516; unknown wrong: 235
+Sentence number: 383; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 9386; wrong: 516; unknown wrong: 235
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 384; length 37; correct: 36; wrong: 1; unknown wrong: 0
+  Total tags correct: 9422; wrong: 517; unknown wrong: 235
+UnkWord: gerangan; correct: RB; guessed: NN
+Sentence number: 385; length 17; correct: 16; wrong: 1; unknown wrong: 1
+  Total tags correct: 9438; wrong: 518; unknown wrong: 236
+UnkWord: opportunity; correct: FW; guessed: NN
+UnkWord: loss; correct: FW; guessed: NN
+UnkWord: dominan; correct: JJ; guessed: VB
+Sentence number: 386; length 25; correct: 22; wrong: 3; unknown wrong: 3
+  Total tags correct: 9460; wrong: 521; unknown wrong: 239
+Sentence number: 387; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 9485; wrong: 521; unknown wrong: 239
+Sentence number: 388; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 9494; wrong: 521; unknown wrong: 239
+UnkWord: provokatif; correct: JJ; guessed: NN
+Sentence number: 389; length 43; correct: 42; wrong: 1; unknown wrong: 1
+  Total tags correct: 9536; wrong: 522; unknown wrong: 240
+Word: sendiri; correct: NN; guessed: PRP
+Sentence number: 390; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 9557; wrong: 523; unknown wrong: 240
+UnkWord: kritis; correct: JJ; guessed: NN
+Sentence number: 391; length 26; correct: 25; wrong: 1; unknown wrong: 1
+  Total tags correct: 9582; wrong: 524; unknown wrong: 241
+UnkWord: akuan; correct: NN; guessed: NNP
+Sentence number: 392; length 11; correct: 10; wrong: 1; unknown wrong: 1
+  Total tags correct: 9592; wrong: 525; unknown wrong: 242
+UnkWord: turut; correct: VB; guessed: NNP
+Word: teluk; correct: NN; guessed: NNP
+Sentence number: 393; length 31; correct: 29; wrong: 2; unknown wrong: 1
+  Total tags correct: 9621; wrong: 527; unknown wrong: 243
+Sentence number: 394; length 37; correct: 37; wrong: 0; unknown wrong: 0
+  Total tags correct: 9658; wrong: 527; unknown wrong: 243
+UnkWord: premium; correct: NN; guessed: VB
+UnkWord: liter; correct: NND; guessed: NN
+UnkWord: liter; correct: NND; guessed: NN
+Sentence number: 395; length 23; correct: 20; wrong: 3; unknown wrong: 3
+  Total tags correct: 9678; wrong: 530; unknown wrong: 246
+Word: untuk; correct: IN; guessed: SC
+Word: kota; correct: NN; guessed: NNP
+UnkWord: pesisir; correct: NN; guessed: NNP
+Sentence number: 396; length 33; correct: 30; wrong: 3; unknown wrong: 1
+  Total tags correct: 9708; wrong: 533; unknown wrong: 247
+Word: krisis; correct: JJ; guessed: NN
+Sentence number: 397; length 20; correct: 19; wrong: 1; unknown wrong: 0
+  Total tags correct: 9727; wrong: 534; unknown wrong: 247
+Sentence number: 398; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 9740; wrong: 534; unknown wrong: 247
+UnkWord: direktur-utama; correct: NN; guessed: VB
+UnkWord: bmi; correct: NNP; guessed: NN
+Sentence number: 399; length 17; correct: 15; wrong: 2; unknown wrong: 2
+  Total tags correct: 9755; wrong: 536; unknown wrong: 249
+Word: majelis; correct: NNP; guessed: NN
+Sentence number: 400; length 16; correct: 15; wrong: 1; unknown wrong: 0
+  Total tags correct: 9770; wrong: 537; unknown wrong: 249
+Word: negara; correct: NNP; guessed: NN
+Sentence number: 401; length 38; correct: 37; wrong: 1; unknown wrong: 0
+  Total tags correct: 9807; wrong: 538; unknown wrong: 249
+UnkWord: korsel; correct: NNP; guessed: VB
+Word: kepala; correct: NNP; guessed: NN
+Word: negara; correct: NNP; guessed: NN
+Sentence number: 402; length 25; correct: 22; wrong: 3; unknown wrong: 1
+  Total tags correct: 9829; wrong: 541; unknown wrong: 250
+UnkWord: ringkas; correct: JJ; guessed: NN
+Word: obligasi; correct: NNP; guessed: NN
+Word: tahun; correct: NN; guessed: NNP
+Word: dengan; correct: SC; guessed: IN
+UnkWord: terbagi; correct: VB; guessed: NN
+Word: seri; correct: NNP; guessed: NN
+Word: seri; correct: NNP; guessed: NN
+Sentence number: 403; length 52; correct: 45; wrong: 7; unknown wrong: 2
+  Total tags correct: 9874; wrong: 548; unknown wrong: 252
+Sentence number: 404; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 9894; wrong: 548; unknown wrong: 252
+Sentence number: 405; length 44; correct: 44; wrong: 0; unknown wrong: 0
+  Total tags correct: 9938; wrong: 548; unknown wrong: 252
+Word: organisasi; correct: NNP; guessed: NN
+Word: kerja-sama; correct: NNP; guessed: NN
+Sentence number: 406; length 27; correct: 25; wrong: 2; unknown wrong: 0
+  Total tags correct: 9963; wrong: 550; unknown wrong: 252
+Word: inti; correct: NNP; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 407; length 42; correct: 40; wrong: 2; unknown wrong: 0
+  Total tags correct: 10003; wrong: 552; unknown wrong: 252
+Sentence number: 408; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 10014; wrong: 552; unknown wrong: 252
+UnkWord: mengibarkan; correct: VB; guessed: NN
+UnkWord: boikot; correct: VB; guessed: NN
+Word: pusat; correct: NN; guessed: NNP
+Word: kota; correct: NN; guessed: NNP
+Sentence number: 409; length 29; correct: 25; wrong: 4; unknown wrong: 2
+  Total tags correct: 10039; wrong: 556; unknown wrong: 254
+Sentence number: 410; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 10062; wrong: 556; unknown wrong: 254
+Sentence number: 411; length 10; correct: 10; wrong: 0; unknown wrong: 0
+  Total tags correct: 10072; wrong: 556; unknown wrong: 254
+Sentence number: 412; length 31; correct: 31; wrong: 0; unknown wrong: 0
+  Total tags correct: 10103; wrong: 556; unknown wrong: 254
+Sentence number: 413; length 35; correct: 35; wrong: 0; unknown wrong: 0
+  Total tags correct: 10138; wrong: 556; unknown wrong: 254
+UnkWord: supaya; correct: SC; guessed: NN
+Word: akhir; correct: RB; guessed: NN
+Sentence number: 414; length 35; correct: 33; wrong: 2; unknown wrong: 1
+  Total tags correct: 10171; wrong: 558; unknown wrong: 255
+Sentence number: 415; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 10189; wrong: 558; unknown wrong: 255
+Sentence number: 416; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 10200; wrong: 558; unknown wrong: 255
+Sentence number: 417; length 51; correct: 51; wrong: 0; unknown wrong: 0
+  Total tags correct: 10251; wrong: 558; unknown wrong: 255
+Sentence number: 418; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 10281; wrong: 558; unknown wrong: 255
+Sentence number: 419; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 10303; wrong: 558; unknown wrong: 255
+UnkWord: lpum; correct: NNP; guessed: NN
+Sentence number: 420; length 25; correct: 24; wrong: 1; unknown wrong: 1
+  Total tags correct: 10327; wrong: 559; unknown wrong: 256
+UnkWord: ramai; correct: JJ; guessed: VB
+Sentence number: 421; length 26; correct: 25; wrong: 1; unknown wrong: 1
+  Total tags correct: 10352; wrong: 560; unknown wrong: 257
+Sentence number: 422; length 7; correct: 7; wrong: 0; unknown wrong: 0
+  Total tags correct: 10359; wrong: 560; unknown wrong: 257
+Word: bank; correct: NNP; guessed: NN
+Sentence number: 423; length 44; correct: 43; wrong: 1; unknown wrong: 0
+  Total tags correct: 10402; wrong: 561; unknown wrong: 257
+Word: dewan; correct: NNP; guessed: NN
+Word: perwakilan; correct: NNP; guessed: NN
+Sentence number: 424; length 24; correct: 22; wrong: 2; unknown wrong: 0
+  Total tags correct: 10424; wrong: 563; unknown wrong: 257
+Word: non; correct: RB; guessed: NEG
+Sentence number: 425; length 14; correct: 13; wrong: 1; unknown wrong: 0
+  Total tags correct: 10437; wrong: 564; unknown wrong: 257
+Sentence number: 426; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 10456; wrong: 564; unknown wrong: 257
+Sentence number: 427; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 10471; wrong: 564; unknown wrong: 257
+Sentence number: 428; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 10490; wrong: 564; unknown wrong: 257
+UnkWord: 14.3; correct: CD; guessed: NN
+UnkWord: 14.45; correct: CD; guessed: NN
+Word: hingga; correct: SC; guessed: IN
+Sentence number: 429; length 31; correct: 28; wrong: 3; unknown wrong: 2
+  Total tags correct: 10518; wrong: 567; unknown wrong: 259
+Sentence number: 430; length 28; correct: 28; wrong: 0; unknown wrong: 0
+  Total tags correct: 10546; wrong: 567; unknown wrong: 259
+UnkWord: menghormati; correct: VB; guessed: NNP
+UnkWord: keragaman; correct: NN; guessed: NNP
+UnkWord: keunikan; correct: NN; guessed: NNP
+Sentence number: 431; length 13; correct: 10; wrong: 3; unknown wrong: 3
+  Total tags correct: 10556; wrong: 570; unknown wrong: 262
+Word: penyelesaian; correct: NNP; guessed: NN
+Word: -; correct: Z; guessed: NNP
+UnkWord: tahun-tahun; correct: NN; guessed: NNP
+Sentence number: 432; length 41; correct: 38; wrong: 3; unknown wrong: 1
+  Total tags correct: 10594; wrong: 573; unknown wrong: 263
+Word: perdana; correct: OD; guessed: NN
+UnkWord: listing; correct: FW; guessed: NN
+Sentence number: 433; length 20; correct: 18; wrong: 2; unknown wrong: 1
+  Total tags correct: 10612; wrong: 575; unknown wrong: 264
+Sentence number: 434; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 10628; wrong: 575; unknown wrong: 264
+UnkWord: jor-jor; correct: X; guessed: NN
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 435; length 24; correct: 22; wrong: 2; unknown wrong: 1
+  Total tags correct: 10650; wrong: 577; unknown wrong: 265
+Sentence number: 436; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 10679; wrong: 577; unknown wrong: 265
+Sentence number: 437; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 10712; wrong: 577; unknown wrong: 265
+UnkWord: diprediksi; correct: VB; guessed: NN
+Sentence number: 438; length 12; correct: 11; wrong: 1; unknown wrong: 1
+  Total tags correct: 10723; wrong: 578; unknown wrong: 266
+Sentence number: 439; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 10744; wrong: 578; unknown wrong: 266
+Word: dengan; correct: SC; guessed: IN
+UnkWord: skala-richter; correct: NND; guessed: NN
+Sentence number: 440; length 41; correct: 39; wrong: 2; unknown wrong: 1
+  Total tags correct: 10783; wrong: 580; unknown wrong: 267
+UnkWord: kunjung; correct: RB; guessed: VB
+Sentence number: 441; length 15; correct: 14; wrong: 1; unknown wrong: 1
+  Total tags correct: 10797; wrong: 581; unknown wrong: 268
+Sentence number: 442; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 10815; wrong: 581; unknown wrong: 268
+UnkWord: de; correct: NNP; guessed: NN
+UnkWord: einder; correct: NNP; guessed: NN
+Word: baik; correct: CC; guessed: JJ
+Sentence number: 443; length 45; correct: 42; wrong: 3; unknown wrong: 2
+  Total tags correct: 10857; wrong: 584; unknown wrong: 270
+UnkWord: finlandia; correct: NNP; guessed: NN
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 444; length 33; correct: 31; wrong: 2; unknown wrong: 1
+  Total tags correct: 10888; wrong: 586; unknown wrong: 271
+UnkWord: 166,05; correct: CD; guessed: NN
+Sentence number: 445; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 10908; wrong: 587; unknown wrong: 272
+Sentence number: 446; length 38; correct: 38; wrong: 0; unknown wrong: 0
+  Total tags correct: 10946; wrong: 587; unknown wrong: 272
+Word: anggota; correct: NNP; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+UnkWord: serendah-rendahnya; correct: RB; guessed: NN
+Sentence number: 447; length 39; correct: 36; wrong: 3; unknown wrong: 1
+  Total tags correct: 10982; wrong: 590; unknown wrong: 273
+Sentence number: 448; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 10999; wrong: 590; unknown wrong: 273
+UnkWord: capacity; correct: FW; guessed: NN
+UnkWord: building; correct: FW; guessed: NN
+Sentence number: 449; length 12; correct: 10; wrong: 2; unknown wrong: 2
+  Total tags correct: 11009; wrong: 592; unknown wrong: 275
+Sentence number: 450; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 11022; wrong: 592; unknown wrong: 275
+Sentence number: 451; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 11037; wrong: 592; unknown wrong: 275
+Sentence number: 452; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 11063; wrong: 592; unknown wrong: 275
+UnkWord: martinez; correct: NNP; guessed: NN
+Sentence number: 453; length 14; correct: 13; wrong: 1; unknown wrong: 1
+  Total tags correct: 11076; wrong: 593; unknown wrong: 276
+Word: mantan; correct: JJ; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 454; length 22; correct: 20; wrong: 2; unknown wrong: 0
+  Total tags correct: 11096; wrong: 595; unknown wrong: 276
+Sentence number: 455; length 31; correct: 31; wrong: 0; unknown wrong: 0
+  Total tags correct: 11127; wrong: 595; unknown wrong: 276
+Sentence number: 456; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 11146; wrong: 595; unknown wrong: 276
+UnkWord: beraliran; correct: VB; guessed: NN
+Sentence number: 457; length 25; correct: 24; wrong: 1; unknown wrong: 1
+  Total tags correct: 11170; wrong: 596; unknown wrong: 277
+UnkWord: narapidana; correct: NN; guessed: NNP
+Sentence number: 458; length 35; correct: 34; wrong: 1; unknown wrong: 1
+  Total tags correct: 11204; wrong: 597; unknown wrong: 278
+Sentence number: 459; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 11229; wrong: 597; unknown wrong: 278
+Sentence number: 460; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 11250; wrong: 597; unknown wrong: 278
+Word: apakah; correct: WH; guessed: SC
+Sentence number: 461; length 27; correct: 26; wrong: 1; unknown wrong: 0
+  Total tags correct: 11276; wrong: 598; unknown wrong: 278
+Word: icp; correct: X; guessed: NNP
+Sentence number: 462; length 35; correct: 34; wrong: 1; unknown wrong: 0
+  Total tags correct: 11310; wrong: 599; unknown wrong: 278
+Sentence number: 463; length 31; correct: 31; wrong: 0; unknown wrong: 0
+  Total tags correct: 11341; wrong: 599; unknown wrong: 278
+Word: krisis; correct: JJ; guessed: NN
+Sentence number: 464; length 28; correct: 27; wrong: 1; unknown wrong: 0
+  Total tags correct: 11368; wrong: 600; unknown wrong: 278
+UnkWord: bawaslu; correct: NNP; guessed: NN
+Sentence number: 465; length 13; correct: 12; wrong: 1; unknown wrong: 1
+  Total tags correct: 11380; wrong: 601; unknown wrong: 279
+UnkWord: optimistik; correct: JJ; guessed: VB
+Sentence number: 466; length 14; correct: 13; wrong: 1; unknown wrong: 1
+  Total tags correct: 11393; wrong: 602; unknown wrong: 280
+Sentence number: 467; length 8; correct: 8; wrong: 0; unknown wrong: 0
+  Total tags correct: 11401; wrong: 602; unknown wrong: 280
+Word: menteri; correct: NN; guessed: NNP
+Word: keuangan; correct: NN; guessed: NNP
+UnkWord: pansus; correct: NNP; guessed: NN
+Word: pajak; correct: NNP; guessed: NN
+Word: daerah; correct: NNP; guessed: NN
+Word: dan; correct: NNP; guessed: CC
+UnkWord: retribusi; correct: NNP; guessed: NN
+Word: daerah; correct: NNP; guessed: NN
+UnkWord: pdrd; correct: NNP; guessed: VB
+Sentence number: 468; length 39; correct: 30; wrong: 9; unknown wrong: 3
+  Total tags correct: 11431; wrong: 611; unknown wrong: 283
+Sentence number: 469; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 11452; wrong: 611; unknown wrong: 283
+Sentence number: 470; length 37; correct: 37; wrong: 0; unknown wrong: 0
+  Total tags correct: 11489; wrong: 611; unknown wrong: 283
+Word: pdb; correct: NNP; guessed: NN
+Word: bruto; correct: NNP; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 471; length 45; correct: 42; wrong: 3; unknown wrong: 0
+  Total tags correct: 11531; wrong: 614; unknown wrong: 283
+UnkWord: platform; correct: NN; guessed: FW
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 472; length 39; correct: 37; wrong: 2; unknown wrong: 1
+  Total tags correct: 11568; wrong: 616; unknown wrong: 284
+Sentence number: 473; length 10; correct: 10; wrong: 0; unknown wrong: 0
+  Total tags correct: 11578; wrong: 616; unknown wrong: 284
+UnkWord: memesan; correct: VB; guessed: NN
+Sentence number: 474; length 28; correct: 27; wrong: 1; unknown wrong: 1
+  Total tags correct: 11605; wrong: 617; unknown wrong: 285
+Sentence number: 475; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 11621; wrong: 617; unknown wrong: 285
+Sentence number: 476; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 11655; wrong: 617; unknown wrong: 285
+Word: semester; correct: NNP; guessed: NN
+Word: semester; correct: NNP; guessed: NN
+Sentence number: 477; length 23; correct: 21; wrong: 2; unknown wrong: 0
+  Total tags correct: 11676; wrong: 619; unknown wrong: 285
+Sentence number: 478; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 11695; wrong: 619; unknown wrong: 285
+Word: kehilangan; correct: NN; guessed: VB
+Sentence number: 479; length 40; correct: 39; wrong: 1; unknown wrong: 0
+  Total tags correct: 11734; wrong: 620; unknown wrong: 285
+Word: dan; correct: NNP; guessed: CC
+Word: sumber; correct: NNP; guessed: NN
+Word: daya; correct: NNP; guessed: NN
+Word: mineral; correct: NNP; guessed: NN
+Word: esdm; correct: NNP; guessed: NN
+Sentence number: 480; length 28; correct: 23; wrong: 5; unknown wrong: 0
+  Total tags correct: 11757; wrong: 625; unknown wrong: 285
+Sentence number: 481; length 40; correct: 40; wrong: 0; unknown wrong: 0
+  Total tags correct: 11797; wrong: 625; unknown wrong: 285
+UnkWord: meringankan; correct: VB; guessed: NN
+Sentence number: 482; length 40; correct: 39; wrong: 1; unknown wrong: 1
+  Total tags correct: 11836; wrong: 626; unknown wrong: 286
+UnkWord: fr004; correct: NNP; guessed: NN
+UnkWord: 2028; correct: CD; guessed: NNP
+Sentence number: 483; length 15; correct: 13; wrong: 2; unknown wrong: 2
+  Total tags correct: 11849; wrong: 628; unknown wrong: 288
+UnkWord: baca; correct: VB; guessed: NN
+UnkWord: tulis; correct: VB; guessed: NN
+Sentence number: 484; length 15; correct: 13; wrong: 2; unknown wrong: 2
+  Total tags correct: 11862; wrong: 630; unknown wrong: 290
+Word: barat; correct: NNP; guessed: NN
+Sentence number: 485; length 38; correct: 37; wrong: 1; unknown wrong: 0
+  Total tags correct: 11899; wrong: 631; unknown wrong: 290
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 486; length 15; correct: 14; wrong: 1; unknown wrong: 0
+  Total tags correct: 11913; wrong: 632; unknown wrong: 290
+Sentence number: 487; length 35; correct: 35; wrong: 0; unknown wrong: 0
+  Total tags correct: 11948; wrong: 632; unknown wrong: 290
+Word: untuk; correct: IN; guessed: SC
+Word: kedua; correct: OD; guessed: CD
+Sentence number: 488; length 26; correct: 24; wrong: 2; unknown wrong: 0
+  Total tags correct: 11972; wrong: 634; unknown wrong: 290
+Word: pasti; correct: RB; guessed: JJ
+Sentence number: 489; length 23; correct: 22; wrong: 1; unknown wrong: 0
+  Total tags correct: 11994; wrong: 635; unknown wrong: 290
+Word: pemkot; correct: NNP; guessed: NN
+Word: negara-bagian; correct: NNP; guessed: NN
+UnkWord: rajasthan; correct: NNP; guessed: NN
+Sentence number: 490; length 15; correct: 12; wrong: 3; unknown wrong: 1
+  Total tags correct: 12006; wrong: 638; unknown wrong: 291
+Sentence number: 491; length 28; correct: 28; wrong: 0; unknown wrong: 0
+  Total tags correct: 12034; wrong: 638; unknown wrong: 291
+Word: ketua; correct: NNP; guessed: NN
+UnkWord: panja; correct: NNP; guessed: NN
+Word: panitia; correct: NNP; guessed: NN
+Word: anggaran; correct: NNP; guessed: NN
+Sentence number: 492; length 42; correct: 38; wrong: 4; unknown wrong: 1
+  Total tags correct: 12072; wrong: 642; unknown wrong: 292
+UnkWord: jihad; correct: NNP; guessed: NN
+Word: rakyat; correct: NNP; guessed: NN
+Word: bagi; correct: NNP; guessed: IN
+Word: pembebasan; correct: NNP; guessed: NN
+Sentence number: 493; length 22; correct: 18; wrong: 4; unknown wrong: 1
+  Total tags correct: 12090; wrong: 646; unknown wrong: 293
+Sentence number: 494; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 12107; wrong: 646; unknown wrong: 293
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 495; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 12132; wrong: 647; unknown wrong: 293
+UnkWord: separatisme; correct: NN; guessed: VB
+Word: 1979; correct: CD; guessed: NNP
+Sentence number: 496; length 16; correct: 14; wrong: 2; unknown wrong: 1
+  Total tags correct: 12146; wrong: 649; unknown wrong: 294
+UnkWord: 1.200; correct: CD; guessed: NN
+Sentence number: 497; length 30; correct: 29; wrong: 1; unknown wrong: 1
+  Total tags correct: 12175; wrong: 650; unknown wrong: 295
+Word: spot; correct: NNP; guessed: FW
+Word: antarbank; correct: NN; guessed: X
+Sentence number: 498; length 43; correct: 41; wrong: 2; unknown wrong: 0
+  Total tags correct: 12216; wrong: 652; unknown wrong: 295
+Sentence number: 499; length 35; correct: 35; wrong: 0; unknown wrong: 0
+  Total tags correct: 12251; wrong: 652; unknown wrong: 295
+Word: .; correct: NNP; guessed: Z
+UnkWord: kurang-lebih; correct: RB; guessed: NN
+Word: .; correct: NNP; guessed: Z
+Sentence number: 500; length 62; correct: 59; wrong: 3; unknown wrong: 1
+  Total tags correct: 12310; wrong: 655; unknown wrong: 296
+Word: jamrud; correct: NN; guessed: NNP
+UnkWord: akhirnya; correct: RB; guessed: VB
+Word: sampai; correct: VB; guessed: SC
+UnkWord: setibanya; correct: SC; guessed: NN
+Sentence number: 501; length 17; correct: 13; wrong: 4; unknown wrong: 2
+  Total tags correct: 12323; wrong: 659; unknown wrong: 298
+Sentence number: 502; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 12345; wrong: 659; unknown wrong: 298
+Sentence number: 503; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 12371; wrong: 659; unknown wrong: 298
+UnkWord: ditaktor; correct: X; guessed: NNP
+Sentence number: 504; length 27; correct: 26; wrong: 1; unknown wrong: 1
+  Total tags correct: 12397; wrong: 660; unknown wrong: 299
+Word: tender; correct: FW; guessed: NN
+Sentence number: 505; length 38; correct: 37; wrong: 1; unknown wrong: 0
+  Total tags correct: 12434; wrong: 661; unknown wrong: 299
+UnkWord: pelunasan; correct: NN; guessed: VB
+UnkWord: promes; correct: X; guessed: NN
+Sentence number: 506; length 37; correct: 35; wrong: 2; unknown wrong: 2
+  Total tags correct: 12469; wrong: 663; unknown wrong: 301
+Sentence number: 507; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 12485; wrong: 663; unknown wrong: 301
+Sentence number: 508; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 12503; wrong: 663; unknown wrong: 301
+Sentence number: 509; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 12527; wrong: 663; unknown wrong: 301
+Word: tengah; correct: MD; guessed: NN
+Word: sukuk; correct: NNP; guessed: NN
+Sentence number: 510; length 7; correct: 5; wrong: 2; unknown wrong: 0
+  Total tags correct: 12532; wrong: 665; unknown wrong: 301
+Word: sampai; correct: IN; guessed: SC
+Sentence number: 511; length 38; correct: 37; wrong: 1; unknown wrong: 0
+  Total tags correct: 12569; wrong: 666; unknown wrong: 301
+Word: karena; correct: IN; guessed: SC
+Sentence number: 512; length 29; correct: 28; wrong: 1; unknown wrong: 0
+  Total tags correct: 12597; wrong: 667; unknown wrong: 301
+Sentence number: 513; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 12606; wrong: 667; unknown wrong: 301
+Sentence number: 514; length 14; correct: 14; wrong: 0; unknown wrong: 0
+  Total tags correct: 12620; wrong: 667; unknown wrong: 301
+Word: tinggi; correct: NN; guessed: JJ
+Word: badan; correct: NN; guessed: NNP
+UnkWord: jangkung; correct: JJ; guessed: NN
+Word: antara; correct: NN; guessed: NNP
+UnkWord: karakter; correct: NN; guessed: NNP
+UnkWord: fiksi; correct: NN; guessed: NNP
+UnkWord: ciptaan; correct: NN; guessed: NNP
+Sentence number: 515; length 22; correct: 15; wrong: 7; unknown wrong: 4
+  Total tags correct: 12635; wrong: 674; unknown wrong: 305
+Word: pemerintah; correct: NNP; guessed: NN
+Word: provinsi; correct: NNP; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+UnkWord: lampung; correct: NNP; guessed: NN
+Word: koperasi; correct: NNP; guessed: NN
+Sentence number: 516; length 33; correct: 28; wrong: 5; unknown wrong: 1
+  Total tags correct: 12663; wrong: 679; unknown wrong: 306
+Word: individual; correct: FW; guessed: JJ
+Word: c; correct: SYM; guessed: NN
+Word: d; correct: SYM; guessed: NNP
+Word: '; correct: Z; guessed: NNP
+Sentence number: 517; length 41; correct: 37; wrong: 4; unknown wrong: 0
+  Total tags correct: 12700; wrong: 683; unknown wrong: 306
+UnkWord: 178; correct: CD; guessed: NN
+Sentence number: 518; length 32; correct: 31; wrong: 1; unknown wrong: 1
+  Total tags correct: 12731; wrong: 684; unknown wrong: 307
+UnkWord: lemah; correct: JJ; guessed: NN
+Sentence number: 519; length 20; correct: 19; wrong: 1; unknown wrong: 1
+  Total tags correct: 12750; wrong: 685; unknown wrong: 308
+UnkWord: heli; correct: X; guessed: NNP
+UnkWord: elektronik; correct: NN; guessed: NNP
+UnkWord: radar-radar; correct: NN; guessed: NNP
+Word: lapis; correct: VB; guessed: NN
+UnkWord: hellfire; correct: NNP; guessed: NN
+Sentence number: 520; length 22; correct: 17; wrong: 5; unknown wrong: 4
+  Total tags correct: 12767; wrong: 690; unknown wrong: 312
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 521; length 18; correct: 17; wrong: 1; unknown wrong: 0
+  Total tags correct: 12784; wrong: 691; unknown wrong: 312
+Word: perwakilan; correct: NNP; guessed: NN
+Sentence number: 522; length 27; correct: 26; wrong: 1; unknown wrong: 0
+  Total tags correct: 12810; wrong: 692; unknown wrong: 312
+Word: juru-bicara; correct: NNP; guessed: NN
+Word: militer; correct: NNP; guessed: NN
+Sentence number: 523; length 35; correct: 33; wrong: 2; unknown wrong: 0
+  Total tags correct: 12843; wrong: 694; unknown wrong: 312
+Sentence number: 524; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 12869; wrong: 694; unknown wrong: 312
+Sentence number: 525; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 12892; wrong: 694; unknown wrong: 312
+Word: bank; correct: NNP; guessed: NN
+Word: dunia; correct: NNP; guessed: NN
+UnkWord: sekedar; correct: X; guessed: VB
+Sentence number: 526; length 35; correct: 32; wrong: 3; unknown wrong: 1
+  Total tags correct: 12924; wrong: 697; unknown wrong: 313
+Sentence number: 527; length 14; correct: 14; wrong: 0; unknown wrong: 0
+  Total tags correct: 12938; wrong: 697; unknown wrong: 313
+UnkWord: oki; correct: NNP; guessed: NN
+UnkWord: berteknologi; correct: VB; guessed: NN
+Sentence number: 528; length 35; correct: 33; wrong: 2; unknown wrong: 2
+  Total tags correct: 12971; wrong: 699; unknown wrong: 315
+UnkWord: didakwa; correct: VB; guessed: NNP
+Word: untuk; correct: IN; guessed: SC
+UnkWord: dakwaan; correct: NN; guessed: NNP
+Word: distrik; correct: NN; guessed: NNP
+Sentence number: 529; length 49; correct: 45; wrong: 4; unknown wrong: 2
+  Total tags correct: 13016; wrong: 703; unknown wrong: 317
+UnkWord: mujahidin; correct: NNP; guessed: NN
+Word: rakyat; correct: NNP; guessed: NN
+Word: radio; correct: NN; guessed: NNP
+Word: tanpa; correct: SC; guessed: IN
+Sentence number: 530; length 28; correct: 24; wrong: 4; unknown wrong: 1
+  Total tags correct: 13040; wrong: 707; unknown wrong: 318
+UnkWord: setengah-baya; correct: JJ; guessed: NN
+UnkWord: kish; correct: NNP; guessed: NN
+Sentence number: 531; length 28; correct: 26; wrong: 2; unknown wrong: 2
+  Total tags correct: 13066; wrong: 709; unknown wrong: 320
+UnkWord: simpedes; correct: NNP; guessed: NN
+UnkWord: sementara-itu; correct: CC; guessed: NN
+Word: usaha; correct: NNP; guessed: NN
+Word: mikro; correct: NNP; guessed: JJ
+Word: ,; correct: NNP; guessed: Z
+Word: kecil; correct: NNP; guessed: JJ
+Word: dan; correct: NNP; guessed: CC
+Word: menengah; correct: NNP; guessed: JJ
+Word: umkm; correct: NNP; guessed: NN
+UnkWord: simpedes; correct: NNP; guessed: NN
+Sentence number: 532; length 45; correct: 35; wrong: 10; unknown wrong: 3
+  Total tags correct: 13101; wrong: 719; unknown wrong: 323
+Sentence number: 533; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 13120; wrong: 719; unknown wrong: 323
+Sentence number: 534; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 13145; wrong: 719; unknown wrong: 323
+Word: nominal; correct: JJ; guessed: NN
+Sentence number: 535; length 14; correct: 13; wrong: 1; unknown wrong: 0
+  Total tags correct: 13158; wrong: 720; unknown wrong: 323
+Sentence number: 536; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 13176; wrong: 720; unknown wrong: 323
+UnkWord: denominasi; correct: NN; guessed: CD
+Sentence number: 537; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 13196; wrong: 721; unknown wrong: 324
+Word: apakah; correct: SC; guessed: WH
+Word: luar; correct: NN; guessed: NNP
+Word: negeri; correct: NN; guessed: NNP
+UnkWord: pkln; correct: NN; guessed: NNP
+Sentence number: 538; length 23; correct: 19; wrong: 4; unknown wrong: 1
+  Total tags correct: 13215; wrong: 725; unknown wrong: 325
+UnkWord: diresmikan; correct: VB; guessed: NN
+UnkWord: kls; correct: NNP; guessed: NN
+Word: hingga; correct: SC; guessed: IN
+UnkWord: 225; correct: CD; guessed: FW
+Sentence number: 539; length 13; correct: 9; wrong: 4; unknown wrong: 3
+  Total tags correct: 13224; wrong: 729; unknown wrong: 328
+UnkWord: patuh; correct: JJ; guessed: VB
+Sentence number: 540; length 24; correct: 23; wrong: 1; unknown wrong: 1
+  Total tags correct: 13247; wrong: 730; unknown wrong: 329
+UnkWord: bersubsidi; correct: VB; guessed: NN
+Sentence number: 541; length 20; correct: 19; wrong: 1; unknown wrong: 1
+  Total tags correct: 13266; wrong: 731; unknown wrong: 330
+Sentence number: 542; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 13291; wrong: 731; unknown wrong: 330
+Word: sun; correct: NNP; guessed: NN
+Sentence number: 543; length 29; correct: 28; wrong: 1; unknown wrong: 0
+  Total tags correct: 13319; wrong: 732; unknown wrong: 330
+UnkWord: pemberitahuan; correct: NN; guessed: NNP
+Sentence number: 544; length 29; correct: 28; wrong: 1; unknown wrong: 1
+  Total tags correct: 13347; wrong: 733; unknown wrong: 331
+Sentence number: 545; length 37; correct: 37; wrong: 0; unknown wrong: 0
+  Total tags correct: 13384; wrong: 733; unknown wrong: 331
+Sentence number: 546; length 38; correct: 38; wrong: 0; unknown wrong: 0
+  Total tags correct: 13422; wrong: 733; unknown wrong: 331
+Word: yang; correct: DT; guessed: SC
+Sentence number: 547; length 4; correct: 3; wrong: 1; unknown wrong: 0
+  Total tags correct: 13425; wrong: 734; unknown wrong: 331
+UnkWord: parsial; correct: JJ; guessed: NN
+Sentence number: 548; length 26; correct: 25; wrong: 1; unknown wrong: 1
+  Total tags correct: 13450; wrong: 735; unknown wrong: 332
+UnkWord: ketimbang; correct: IN; guessed: VB
+Sentence number: 549; length 26; correct: 25; wrong: 1; unknown wrong: 1
+  Total tags correct: 13475; wrong: 736; unknown wrong: 333
+Word: gubernur; correct: NNP; guessed: NN
+Word: baru; correct: JJ; guessed: MD
+Word: sepanjang; correct: IN; guessed: NN
+UnkWord: jawab; correct: VB; guessed: NN
+Sentence number: 550; length 27; correct: 23; wrong: 4; unknown wrong: 1
+  Total tags correct: 13498; wrong: 740; unknown wrong: 334
+UnkWord: indo; correct: NNP; guessed: NN
+UnkWord: tambangraya; correct: NNP; guessed: NN
+UnkWord: banpu; correct: NNP; guessed: NN
+Word: public; correct: NNP; guessed: FW
+Word: dengan; correct: SC; guessed: IN
+Word: luas; correct: JJ; guessed: NN
+Sentence number: 551; length 32; correct: 26; wrong: 6; unknown wrong: 3
+  Total tags correct: 13524; wrong: 746; unknown wrong: 337
+UnkWord: institusional; correct: JJ; guessed: NN
+Sentence number: 552; length 18; correct: 17; wrong: 1; unknown wrong: 1
+  Total tags correct: 13541; wrong: 747; unknown wrong: 338
+Word: sendiri; correct: NN; guessed: PRP
+Sentence number: 553; length 15; correct: 14; wrong: 1; unknown wrong: 0
+  Total tags correct: 13555; wrong: 748; unknown wrong: 338
+Word: menteri; correct: NN; guessed: NNP
+Word: bersatu; correct: VB; guessed: NNP
+Word: i; correct: OD; guessed: NNP
+Word: departemen; correct: NN; guessed: NNP
+Word: lembaga; correct: NN; guessed: NNP
+Sentence number: 554; length 21; correct: 16; wrong: 5; unknown wrong: 0
+  Total tags correct: 13571; wrong: 753; unknown wrong: 338
+Sentence number: 555; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 13592; wrong: 753; unknown wrong: 338
+Sentence number: 556; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 13615; wrong: 753; unknown wrong: 338
+Sentence number: 557; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 13637; wrong: 753; unknown wrong: 338
+Sentence number: 558; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 13656; wrong: 753; unknown wrong: 338
+Word: nampak; correct: RB; guessed: VB
+Word: sekali; correct: RB; guessed: NN
+UnkWord: daripada; correct: IN; guessed: NNP
+UnkWord: barangkali; correct: MD; guessed: NNP
+Sentence number: 559; length 37; correct: 33; wrong: 4; unknown wrong: 2
+  Total tags correct: 13689; wrong: 757; unknown wrong: 340
+Sentence number: 560; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 13723; wrong: 757; unknown wrong: 340
+Sentence number: 561; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 13735; wrong: 757; unknown wrong: 340
+Word: pilihan; correct: NN; guessed: NNP
+Sentence number: 562; length 18; correct: 17; wrong: 1; unknown wrong: 0
+  Total tags correct: 13752; wrong: 758; unknown wrong: 340
+Word: pembangunan; correct: NNP; guessed: NN
+Sentence number: 563; length 28; correct: 27; wrong: 1; unknown wrong: 0
+  Total tags correct: 13779; wrong: 759; unknown wrong: 340
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 564; length 38; correct: 37; wrong: 1; unknown wrong: 0
+  Total tags correct: 13816; wrong: 760; unknown wrong: 340
+UnkWord: menggoncang; correct: VB; guessed: NN
+Sentence number: 565; length 26; correct: 25; wrong: 1; unknown wrong: 1
+  Total tags correct: 13841; wrong: 761; unknown wrong: 341
+Word: cukup; correct: JJ; guessed: RB
+Sentence number: 566; length 35; correct: 34; wrong: 1; unknown wrong: 0
+  Total tags correct: 13875; wrong: 762; unknown wrong: 341
+UnkWord: halting; correct: FW; guessed: NNP
+Sentence number: 567; length 18; correct: 17; wrong: 1; unknown wrong: 1
+  Total tags correct: 13892; wrong: 763; unknown wrong: 342
+UnkWord: pnpm; correct: NN; guessed: Z
+Sentence number: 568; length 35; correct: 34; wrong: 1; unknown wrong: 1
+  Total tags correct: 13926; wrong: 764; unknown wrong: 343
+Sentence number: 569; length 8; correct: 8; wrong: 0; unknown wrong: 0
+  Total tags correct: 13934; wrong: 764; unknown wrong: 343
+Word: pemerintah; correct: NNP; guessed: NN
+Sentence number: 570; length 19; correct: 18; wrong: 1; unknown wrong: 0
+  Total tags correct: 13952; wrong: 765; unknown wrong: 343
+UnkWord: disamping; correct: X; guessed: NN
+Sentence number: 571; length 39; correct: 38; wrong: 1; unknown wrong: 1
+  Total tags correct: 13990; wrong: 766; unknown wrong: 344
+Sentence number: 572; length 43; correct: 43; wrong: 0; unknown wrong: 0
+  Total tags correct: 14033; wrong: 766; unknown wrong: 344
+Sentence number: 573; length 31; correct: 31; wrong: 0; unknown wrong: 0
+  Total tags correct: 14064; wrong: 766; unknown wrong: 344
+Word: dengan; correct: SC; guessed: IN
+Word: pdb; correct: NNP; guessed: NN
+Word: pdb; correct: NNP; guessed: NN
+UnkWord: per-kapita; correct: CD; guessed: NN
+UnkWord: per-kapita; correct: CD; guessed: NNP
+Sentence number: 574; length 18; correct: 13; wrong: 5; unknown wrong: 2
+  Total tags correct: 14077; wrong: 771; unknown wrong: 346
+Word: lama; correct: JJ; guessed: NNP
+UnkWord: perorangan; correct: NN; guessed: NNP
+Sentence number: 575; length 48; correct: 46; wrong: 2; unknown wrong: 1
+  Total tags correct: 14123; wrong: 773; unknown wrong: 347
+Sentence number: 576; length 38; correct: 38; wrong: 0; unknown wrong: 0
+  Total tags correct: 14161; wrong: 773; unknown wrong: 347
+UnkWord: hindu; correct: NNP; guessed: NN
+Word: sampai; correct: IN; guessed: SC
+Word: raja; correct: NNP; guessed: NN
+Sentence number: 577; length 21; correct: 18; wrong: 3; unknown wrong: 1
+  Total tags correct: 14179; wrong: 776; unknown wrong: 348
+UnkWord: di--; correct: X; guessed: NN
+Sentence number: 578; length 17; correct: 16; wrong: 1; unknown wrong: 1
+  Total tags correct: 14195; wrong: 777; unknown wrong: 349
+Sentence number: 579; length 7; correct: 7; wrong: 0; unknown wrong: 0
+  Total tags correct: 14202; wrong: 777; unknown wrong: 349
+UnkWord: berbanding; correct: VB; guessed: Z
+Sentence number: 580; length 16; correct: 15; wrong: 1; unknown wrong: 1
+  Total tags correct: 14217; wrong: 778; unknown wrong: 350
+Word: perusahaan; correct: NN; guessed: NNP
+Word: pembiayaan; correct: NN; guessed: NNP
+Word: perkebunan; correct: NN; guessed: NNP
+UnkWord: tractor; correct: NNP; guessed: VB
+Word: berat; correct: JJ; guessed: NN
+Sentence number: 581; length 34; correct: 29; wrong: 5; unknown wrong: 1
+  Total tags correct: 14246; wrong: 783; unknown wrong: 351
+Sentence number: 582; length 40; correct: 40; wrong: 0; unknown wrong: 0
+  Total tags correct: 14286; wrong: 783; unknown wrong: 351
+UnkWord: memegang-peranan; correct: VB; guessed: NN
+Sentence number: 583; length 19; correct: 18; wrong: 1; unknown wrong: 1
+  Total tags correct: 14304; wrong: 784; unknown wrong: 352
+Sentence number: 584; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 14333; wrong: 784; unknown wrong: 352
+Sentence number: 585; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 14353; wrong: 784; unknown wrong: 352
+Word: dengan; correct: SC; guessed: IN
+UnkWord: 522.500; correct: CD; guessed: NN
+Sentence number: 586; length 11; correct: 9; wrong: 2; unknown wrong: 1
+  Total tags correct: 14362; wrong: 786; unknown wrong: 353
+Word: dengan; correct: IN; guessed: SC
+Sentence number: 587; length 25; correct: 24; wrong: 1; unknown wrong: 0
+  Total tags correct: 14386; wrong: 787; unknown wrong: 353
+Word: dinas; correct: NN; guessed: NNP
+Word: intelijen; correct: NN; guessed: NNP
+UnkWord: jamaatul; correct: NNP; guessed: NN
+UnkWord: mujahideen; correct: NNP; guessed: NN
+UnkWord: tahun-baru; correct: NNP; guessed: NN
+UnkWord: bengali; correct: NNP; guessed: NN
+Word: independen; correct: NNP; guessed: JJ
+Sentence number: 588; length 61; correct: 54; wrong: 7; unknown wrong: 4
+  Total tags correct: 14440; wrong: 794; unknown wrong: 357
+Sentence number: 589; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 14458; wrong: 794; unknown wrong: 357
+UnkWord: libor; correct: X; guessed: NN
+Sentence number: 590; length 18; correct: 17; wrong: 1; unknown wrong: 1
+  Total tags correct: 14475; wrong: 795; unknown wrong: 358
+Sentence number: 591; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 14486; wrong: 795; unknown wrong: 358
+Sentence number: 592; length 40; correct: 40; wrong: 0; unknown wrong: 0
+  Total tags correct: 14526; wrong: 795; unknown wrong: 358
+Sentence number: 593; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 14544; wrong: 795; unknown wrong: 358
+Word: laju; correct: NN; guessed: NNP
+Word: blta; correct: NN; guessed: NNP
+Word: dengan; correct: IN; guessed: SC
+Sentence number: 594; length 47; correct: 44; wrong: 3; unknown wrong: 0
+  Total tags correct: 14588; wrong: 798; unknown wrong: 358
+Word: untuk; correct: IN; guessed: SC
+UnkWord: mengambang; correct: VB; guessed: NN
+Word: untuk; correct: IN; guessed: SC
+UnkWord: fixedrate; correct: FW; guessed: VB
+Sentence number: 595; length 33; correct: 29; wrong: 4; unknown wrong: 2
+  Total tags correct: 14617; wrong: 802; unknown wrong: 360
+UnkWord: mdgs; correct: NNP; guessed: NN
+Sentence number: 596; length 31; correct: 30; wrong: 1; unknown wrong: 1
+  Total tags correct: 14647; wrong: 803; unknown wrong: 361
+UnkWord: outlook; correct: FW; guessed: NN
+UnkWord: issuer; correct: FW; guessed: NNP
+UnkWord: default; correct: FW; guessed: NNP
+UnkWord: idrs; correct: FW; guessed: NNP
+UnkWord: bb-; correct: SYM; guessed: FW
+Sentence number: 597; length 45; correct: 40; wrong: 5; unknown wrong: 5
+  Total tags correct: 14687; wrong: 808; unknown wrong: 366
+Sentence number: 598; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 14710; wrong: 808; unknown wrong: 366
+UnkWord: kena; correct: VB; guessed: NN
+Sentence number: 599; length 47; correct: 46; wrong: 1; unknown wrong: 1
+  Total tags correct: 14756; wrong: 809; unknown wrong: 367
+UnkWord: targetkan; correct: VB; guessed: JJ
+Sentence number: 600; length 18; correct: 17; wrong: 1; unknown wrong: 1
+  Total tags correct: 14773; wrong: 810; unknown wrong: 368
+UnkWord: bexi; correct: NNP; guessed: NN
+Word: badan; correct: NNP; guessed: NN
+Word: kredit; correct: NNP; guessed: NN
+Word: ekspor; correct: NNP; guessed: NN
+Word: /; correct: Z; guessed: NNP
+Word: lembaga; correct: NN; guessed: NNP
+Word: pemeringkat; correct: NN; guessed: NNP
+Word: nasional; correct: JJ; guessed: NNP
+Sentence number: 601; length 34; correct: 26; wrong: 8; unknown wrong: 1
+  Total tags correct: 14799; wrong: 818; unknown wrong: 369
+Sentence number: 602; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 14820; wrong: 818; unknown wrong: 369
+Sentence number: 603; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 14837; wrong: 818; unknown wrong: 369
+UnkWord: paramiliter; correct: JJ; guessed: NN
+Sentence number: 604; length 31; correct: 30; wrong: 1; unknown wrong: 1
+  Total tags correct: 14867; wrong: 819; unknown wrong: 370
+Word: operasi; correct: NNP; guessed: NN
+Word: kebebasan; correct: NNP; guessed: NN
+Word: panglima; correct: NNP; guessed: NN
+Word: jendral; correct: NNP; guessed: NN
+Sentence number: 605; length 28; correct: 24; wrong: 4; unknown wrong: 0
+  Total tags correct: 14891; wrong: 823; unknown wrong: 370
+UnkWord: berlebihan; correct: JJ; guessed: VB
+Sentence number: 606; length 15; correct: 14; wrong: 1; unknown wrong: 1
+  Total tags correct: 14905; wrong: 824; unknown wrong: 371
+UnkWord: menyayat-hati; correct: VB; guessed: NN
+Sentence number: 607; length 3; correct: 2; wrong: 1; unknown wrong: 1
+  Total tags correct: 14907; wrong: 825; unknown wrong: 372
+Word: dengan; correct: SC; guessed: IN
+UnkWord: menyerahkan; correct: VB; guessed: NN
+UnkWord: ataupun; correct: CC; guessed: NN
+Word: selain; correct: CC; guessed: IN
+Sentence number: 608; length 32; correct: 28; wrong: 4; unknown wrong: 2
+  Total tags correct: 14935; wrong: 829; unknown wrong: 374
+Word: karya; correct: NN; guessed: NNP
+Sentence number: 609; length 21; correct: 20; wrong: 1; unknown wrong: 0
+  Total tags correct: 14955; wrong: 830; unknown wrong: 374
+Sentence number: 610; length 32; correct: 32; wrong: 0; unknown wrong: 0
+  Total tags correct: 14987; wrong: 830; unknown wrong: 374
+Sentence number: 611; length 5; correct: 5; wrong: 0; unknown wrong: 0
+  Total tags correct: 14992; wrong: 830; unknown wrong: 374
+Sentence number: 612; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 15011; wrong: 830; unknown wrong: 374
+Word: ketiga; correct: OD; guessed: CD
+Sentence number: 613; length 34; correct: 33; wrong: 1; unknown wrong: 0
+  Total tags correct: 15044; wrong: 831; unknown wrong: 374
+Word: dengan; correct: SC; guessed: IN
+UnkWord: berharga; correct: VB; guessed: NN
+UnkWord: sbn; correct: NN; guessed: VB
+UnkWord: akuntabel; correct: JJ; guessed: NN
+Sentence number: 614; length 24; correct: 20; wrong: 4; unknown wrong: 3
+  Total tags correct: 15064; wrong: 835; unknown wrong: 377
+Sentence number: 615; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 15088; wrong: 835; unknown wrong: 377
+Word: serial; correct: JJ; guessed: NNP
+Word: sukses; correct: JJ; guessed: NNP
+Sentence number: 616; length 17; correct: 15; wrong: 2; unknown wrong: 0
+  Total tags correct: 15103; wrong: 837; unknown wrong: 377
+UnkWord: ekonomis; correct: JJ; guessed: NN
+UnkWord: entrepreneurship; correct: FW; guessed: NN
+Sentence number: 617; length 35; correct: 33; wrong: 2; unknown wrong: 2
+  Total tags correct: 15136; wrong: 839; unknown wrong: 379
+Word: silam; correct: NN; guessed: JJ
+UnkWord: majalah; correct: NNP; guessed: NN
+UnkWord: forbes; correct: NNP; guessed: NN
+UnkWord: terkaya; correct: JJ; guessed: VB
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 618; length 25; correct: 20; wrong: 5; unknown wrong: 3
+  Total tags correct: 15156; wrong: 844; unknown wrong: 382
+UnkWord: berseragam; correct: VB; guessed: NN
+Word: lapangan; correct: NNP; guessed: NN
+Word: pusat; correct: NN; guessed: NNP
+Word: kota; correct: NN; guessed: NNP
+Sentence number: 619; length 26; correct: 22; wrong: 4; unknown wrong: 1
+  Total tags correct: 15178; wrong: 848; unknown wrong: 383
+UnkWord: dianggarkan; correct: VB; guessed: NN
+Word: selanjutnya; correct: CC; guessed: RB
+Sentence number: 620; length 16; correct: 14; wrong: 2; unknown wrong: 1
+  Total tags correct: 15192; wrong: 850; unknown wrong: 384
+Sentence number: 621; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 15210; wrong: 850; unknown wrong: 384
+Sentence number: 622; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 15232; wrong: 850; unknown wrong: 384
+Word: melalui; correct: IN; guessed: VB
+Word: akhir; correct: RB; guessed: NN
+UnkWord: cba; correct: NNP; guessed: NN
+Word: director; correct: NNP; guessed: FW
+Sentence number: 623; length 35; correct: 31; wrong: 4; unknown wrong: 1
+  Total tags correct: 15263; wrong: 854; unknown wrong: 385
+Sentence number: 624; length 8; correct: 8; wrong: 0; unknown wrong: 0
+  Total tags correct: 15271; wrong: 854; unknown wrong: 385
+Word: alam; correct: NNP; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 625; length 27; correct: 25; wrong: 2; unknown wrong: 0
+  Total tags correct: 15296; wrong: 856; unknown wrong: 385
+Sentence number: 626; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 15311; wrong: 856; unknown wrong: 385
+Sentence number: 627; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 15323; wrong: 856; unknown wrong: 385
+Sentence number: 628; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 15341; wrong: 856; unknown wrong: 385
+Word: sebanding; correct: NN; guessed: JJ
+Sentence number: 629; length 34; correct: 33; wrong: 1; unknown wrong: 0
+  Total tags correct: 15374; wrong: 857; unknown wrong: 385
+Sentence number: 630; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 15403; wrong: 857; unknown wrong: 385
+UnkWord: unggas; correct: NN; guessed: NNP
+Word: untuk; correct: IN; guessed: SC
+Word: kali; correct: NND; guessed: NN
+Sentence number: 631; length 37; correct: 34; wrong: 3; unknown wrong: 1
+  Total tags correct: 15437; wrong: 860; unknown wrong: 386
+Word: krisis; correct: JJ; guessed: NN
+Sentence number: 632; length 25; correct: 24; wrong: 1; unknown wrong: 0
+  Total tags correct: 15461; wrong: 861; unknown wrong: 386
+Sentence number: 633; length 32; correct: 32; wrong: 0; unknown wrong: 0
+  Total tags correct: 15493; wrong: 861; unknown wrong: 386
+Word: dengan; correct: SC; guessed: IN
+UnkWord: mendanai; correct: VB; guessed: CD
+Sentence number: 634; length 36; correct: 34; wrong: 2; unknown wrong: 1
+  Total tags correct: 15527; wrong: 863; unknown wrong: 387
+Word: gempa; correct: NN; guessed: NNP
+UnkWord: skala-richter; correct: NND; guessed: CD
+Sentence number: 635; length 40; correct: 38; wrong: 2; unknown wrong: 1
+  Total tags correct: 15565; wrong: 865; unknown wrong: 388
+Sentence number: 636; length 14; correct: 14; wrong: 0; unknown wrong: 0
+  Total tags correct: 15579; wrong: 865; unknown wrong: 388
+Sentence number: 637; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 15612; wrong: 865; unknown wrong: 388
+Sentence number: 638; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 15633; wrong: 865; unknown wrong: 388
+Sentence number: 639; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 15667; wrong: 865; unknown wrong: 388
+Sentence number: 640; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 15682; wrong: 865; unknown wrong: 388
+Sentence number: 641; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 15706; wrong: 865; unknown wrong: 388
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 642; length 15; correct: 14; wrong: 1; unknown wrong: 0
+  Total tags correct: 15720; wrong: 866; unknown wrong: 388
+UnkWord: zeitoun; correct: NNP; guessed: NN
+Sentence number: 643; length 22; correct: 21; wrong: 1; unknown wrong: 1
+  Total tags correct: 15741; wrong: 867; unknown wrong: 389
+Sentence number: 644; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 15774; wrong: 867; unknown wrong: 389
+Sentence number: 645; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 15790; wrong: 867; unknown wrong: 389
+Sentence number: 646; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 15805; wrong: 867; unknown wrong: 389
+Word: kota; correct: NN; guessed: NNP
+UnkWord: 1923; correct: CD; guessed: NN
+Word: lintas; correct: NN; guessed: NNP
+Sentence number: 647; length 43; correct: 40; wrong: 3; unknown wrong: 1
+  Total tags correct: 15845; wrong: 870; unknown wrong: 390
+Sentence number: 648; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 15869; wrong: 870; unknown wrong: 390
+UnkWord: rasional; correct: JJ; guessed: NN
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 649; length 15; correct: 13; wrong: 2; unknown wrong: 1
+  Total tags correct: 15882; wrong: 872; unknown wrong: 391
+Sentence number: 650; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 15893; wrong: 872; unknown wrong: 391
+UnkWord: membara; correct: VB; guessed: NN
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 651; length 13; correct: 11; wrong: 2; unknown wrong: 1
+  Total tags correct: 15904; wrong: 874; unknown wrong: 392
+Sentence number: 652; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 15924; wrong: 874; unknown wrong: 392
+UnkWord: lelaki; correct: NN; guessed: VB
+Sentence number: 653; length 34; correct: 33; wrong: 1; unknown wrong: 1
+  Total tags correct: 15957; wrong: 875; unknown wrong: 393
+UnkWord: al-assad; correct: NNP; guessed: VB
+UnkWord: berunding; correct: VB; guessed: NN
+Sentence number: 654; length 23; correct: 21; wrong: 2; unknown wrong: 2
+  Total tags correct: 15978; wrong: 877; unknown wrong: 395
+UnkWord: pantai; correct: NNP; guessed: NN
+UnkWord: gading; correct: NNP; guessed: NN
+Sentence number: 655; length 12; correct: 10; wrong: 2; unknown wrong: 2
+  Total tags correct: 15988; wrong: 879; unknown wrong: 397
+Word: gagal; correct: JJ; guessed: VB
+Word: persatuan; correct: NN; guessed: NNP
+Sentence number: 656; length 35; correct: 33; wrong: 2; unknown wrong: 0
+  Total tags correct: 16021; wrong: 881; unknown wrong: 397
+Sentence number: 657; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 16055; wrong: 881; unknown wrong: 397
+UnkWord: entah; correct: RB; guessed: VB
+UnkWord: pragmatis; correct: JJ; guessed: NN
+Word: migas; correct: NNP; guessed: NN
+Sentence number: 658; length 33; correct: 30; wrong: 3; unknown wrong: 2
+  Total tags correct: 16085; wrong: 884; unknown wrong: 399
+Sentence number: 659; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 16107; wrong: 884; unknown wrong: 399
+UnkWord: sempurna; correct: JJ; guessed: VB
+Word: manusia; correct: NN; guessed: NNP
+Sentence number: 660; length 17; correct: 15; wrong: 2; unknown wrong: 1
+  Total tags correct: 16122; wrong: 886; unknown wrong: 400
+Sentence number: 661; length 42; correct: 42; wrong: 0; unknown wrong: 0
+  Total tags correct: 16164; wrong: 886; unknown wrong: 400
+UnkWord: shawal; correct: NNP; guessed: VB
+Sentence number: 662; length 32; correct: 31; wrong: 1; unknown wrong: 1
+  Total tags correct: 16195; wrong: 887; unknown wrong: 401
+Sentence number: 663; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 16216; wrong: 887; unknown wrong: 401
+Sentence number: 664; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 16242; wrong: 887; unknown wrong: 401
+Word: perdana; correct: OD; guessed: NNP
+Sentence number: 665; length 28; correct: 27; wrong: 1; unknown wrong: 0
+  Total tags correct: 16269; wrong: 888; unknown wrong: 401
+UnkWord: dipahami; correct: VB; guessed: NNP
+Word: bersama; correct: IN; guessed: NNP
+Sentence number: 666; length 12; correct: 10; wrong: 2; unknown wrong: 1
+  Total tags correct: 16279; wrong: 890; unknown wrong: 402
+Sentence number: 667; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 16296; wrong: 890; unknown wrong: 402
+Sentence number: 668; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 16314; wrong: 890; unknown wrong: 402
+UnkWord: unaudited; correct: FW; guessed: NN
+Sentence number: 669; length 30; correct: 29; wrong: 1; unknown wrong: 1
+  Total tags correct: 16343; wrong: 891; unknown wrong: 403
+Word: selain; correct: CC; guessed: IN
+UnkWord: perlahan-lahan; correct: JJ; guessed: NN
+Sentence number: 670; length 21; correct: 19; wrong: 2; unknown wrong: 1
+  Total tags correct: 16362; wrong: 893; unknown wrong: 404
+Sentence number: 671; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 16378; wrong: 893; unknown wrong: 404
+Word: menkeu; correct: NNP; guessed: NN
+Sentence number: 672; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 16394; wrong: 894; unknown wrong: 404
+Word: dengan; correct: SC; guessed: IN
+Word: bidang; correct: NN; guessed: NNP
+Sentence number: 673; length 31; correct: 29; wrong: 2; unknown wrong: 0
+  Total tags correct: 16423; wrong: 896; unknown wrong: 404
+Sentence number: 674; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 16444; wrong: 896; unknown wrong: 404
+UnkWord: place; correct: FW; guessed: NN
+UnkWord: agritani; correct: NNP; guessed: NN
+Sentence number: 675; length 19; correct: 17; wrong: 2; unknown wrong: 2
+  Total tags correct: 16461; wrong: 898; unknown wrong: 406
+Word: pemerintah; correct: NNP; guessed: NN
+Word: besar; correct: JJ; guessed: NNP
+Sentence number: 676; length 32; correct: 30; wrong: 2; unknown wrong: 0
+  Total tags correct: 16491; wrong: 900; unknown wrong: 406
+UnkWord: al-ubada; correct: NNP; guessed: NN
+UnkWord: terpenting; correct: JJ; guessed: NN
+Word: polisi; correct: NNP; guessed: NN
+Sentence number: 677; length 36; correct: 33; wrong: 3; unknown wrong: 2
+  Total tags correct: 16524; wrong: 903; unknown wrong: 408
+Sentence number: 678; length 28; correct: 28; wrong: 0; unknown wrong: 0
+  Total tags correct: 16552; wrong: 903; unknown wrong: 408
+Sentence number: 679; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 16574; wrong: 903; unknown wrong: 408
+Sentence number: 680; length 8; correct: 8; wrong: 0; unknown wrong: 0
+  Total tags correct: 16582; wrong: 903; unknown wrong: 408
+Sentence number: 681; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 16607; wrong: 903; unknown wrong: 408
+Word: bursa; correct: NN; guessed: NNP
+Sentence number: 682; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 16632; wrong: 904; unknown wrong: 408
+UnkWord: optimalisasi; correct: X; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 683; length 26; correct: 24; wrong: 2; unknown wrong: 1
+  Total tags correct: 16656; wrong: 906; unknown wrong: 409
+UnkWord: patah; correct: NNP; guessed: VB
+Sentence number: 684; length 49; correct: 48; wrong: 1; unknown wrong: 1
+  Total tags correct: 16704; wrong: 907; unknown wrong: 410
+Word: tengah; correct: MD; guessed: NNP
+UnkWord: solvency; correct: FW; guessed: NNP
+Word: capital; correct: FW; guessed: NNP
+Sentence number: 685; length 27; correct: 24; wrong: 3; unknown wrong: 1
+  Total tags correct: 16728; wrong: 910; unknown wrong: 411
+UnkWord: kerdil; correct: JJ; guessed: NN
+Word: sutradara; correct: NNP; guessed: NN
+UnkWord: peter; correct: NNP; guessed: NN
+UnkWord: jackson; correct: NNP; guessed: NN
+UnkWord: berancang-ancang; correct: VB; guessed: NN
+Sentence number: 686; length 23; correct: 18; wrong: 5; unknown wrong: 4
+  Total tags correct: 16746; wrong: 915; unknown wrong: 415
+UnkWord: menelan; correct: VB; guessed: NN
+Sentence number: 687; length 26; correct: 25; wrong: 1; unknown wrong: 1
+  Total tags correct: 16771; wrong: 916; unknown wrong: 416
+Word: surat; correct: NNP; guessed: NN
+UnkWord: berharga; correct: NNP; guessed: NN
+Word: negara; correct: NNP; guessed: NN
+UnkWord: sbn; correct: NNP; guessed: NN
+UnkWord: sbn; correct: NNP; guessed: NN
+UnkWord: sbn; correct: NNP; guessed: NN
+Sentence number: 688; length 34; correct: 28; wrong: 6; unknown wrong: 4
+  Total tags correct: 16799; wrong: 922; unknown wrong: 420
+Word: tegas; correct: JJ; guessed: VB
+Sentence number: 689; length 23; correct: 22; wrong: 1; unknown wrong: 0
+  Total tags correct: 16821; wrong: 923; unknown wrong: 420
+UnkWord: ayam-pedaging; correct: NN; guessed: FW
+Sentence number: 690; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 16841; wrong: 924; unknown wrong: 421
+UnkWord: mendanai; correct: VB; guessed: NN
+Word: selain; correct: CC; guessed: IN
+Sentence number: 691; length 16; correct: 14; wrong: 2; unknown wrong: 1
+  Total tags correct: 16855; wrong: 926; unknown wrong: 422
+Sentence number: 692; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 16875; wrong: 926; unknown wrong: 422
+Sentence number: 693; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 16893; wrong: 926; unknown wrong: 422
+Sentence number: 694; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 16912; wrong: 926; unknown wrong: 422
+Word: mantan; correct: JJ; guessed: NN
+UnkWord: fbi; correct: NNP; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 695; length 39; correct: 36; wrong: 3; unknown wrong: 1
+  Total tags correct: 16948; wrong: 929; unknown wrong: 423
+Sentence number: 696; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 16963; wrong: 929; unknown wrong: 423
+Word: minggu; correct: NN; guessed: NNP
+Word: keempat; correct: OD; guessed: CD
+Sentence number: 697; length 25; correct: 23; wrong: 2; unknown wrong: 0
+  Total tags correct: 16986; wrong: 931; unknown wrong: 423
+Sentence number: 698; length 42; correct: 42; wrong: 0; unknown wrong: 0
+  Total tags correct: 17028; wrong: 931; unknown wrong: 423
+UnkWord: dipengaruhi; correct: VB; guessed: NN
+Sentence number: 699; length 15; correct: 14; wrong: 1; unknown wrong: 1
+  Total tags correct: 17042; wrong: 932; unknown wrong: 424
+UnkWord: sekuat; correct: JJ; guessed: NN
+Word: komisi; correct: NNP; guessed: NN
+Word: anggaran; correct: NNP; guessed: NN
+Word: majelis; correct: NNP; guessed: NN
+Sentence number: 700; length 26; correct: 22; wrong: 4; unknown wrong: 1
+  Total tags correct: 17064; wrong: 936; unknown wrong: 425
+UnkWord: targetkan; correct: X; guessed: NN
+Sentence number: 701; length 29; correct: 28; wrong: 1; unknown wrong: 1
+  Total tags correct: 17092; wrong: 937; unknown wrong: 426
+Sentence number: 702; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 17110; wrong: 937; unknown wrong: 426
+Word: bersama; correct: VB; guessed: IN
+UnkWord: mou; correct: FW; guessed: NN
+Word: sejumlah; correct: NN; guessed: CD
+UnkWord: 53; correct: CD; guessed: NN
+Sentence number: 703; length 25; correct: 21; wrong: 4; unknown wrong: 2
+  Total tags correct: 17131; wrong: 941; unknown wrong: 428
+Sentence number: 704; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 17155; wrong: 941; unknown wrong: 428
+Word: presiden; correct: NN; guessed: NNP
+Word: baik; correct: JJ; guessed: CC
+Sentence number: 705; length 29; correct: 27; wrong: 2; unknown wrong: 0
+  Total tags correct: 17182; wrong: 943; unknown wrong: 428
+UnkWord: core; correct: FW; guessed: NNP
+Word: fund; correct: FW; guessed: NNP
+Sentence number: 706; length 23; correct: 21; wrong: 2; unknown wrong: 1
+  Total tags correct: 17203; wrong: 945; unknown wrong: 429
+UnkWord: penggarapan; correct: NN; guessed: NNP
+UnkWord: sumur-sumur; correct: NN; guessed: NNP
+Word: tua; correct: JJ; guessed: NNP
+Sentence number: 707; length 24; correct: 21; wrong: 3; unknown wrong: 2
+  Total tags correct: 17224; wrong: 948; unknown wrong: 431
+Word: perdana; correct: NN; guessed: NNP
+Word: menteri; correct: NN; guessed: NNP
+Sentence number: 708; length 44; correct: 42; wrong: 2; unknown wrong: 0
+  Total tags correct: 17266; wrong: 950; unknown wrong: 431
+Word: melalui; correct: IN; guessed: VB
+Sentence number: 709; length 20; correct: 19; wrong: 1; unknown wrong: 0
+  Total tags correct: 17285; wrong: 951; unknown wrong: 431
+Sentence number: 710; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 17305; wrong: 951; unknown wrong: 431
+Sentence number: 711; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 17324; wrong: 951; unknown wrong: 431
+Sentence number: 712; length 14; correct: 14; wrong: 0; unknown wrong: 0
+  Total tags correct: 17338; wrong: 951; unknown wrong: 431
+Word: pemimpin; correct: NN; guessed: NNP
+Word: serikat; correct: NN; guessed: NNP
+Word: kerja; correct: NN; guessed: NNP
+Word: balik; correct: NN; guessed: VB
+UnkWord: sebentar; correct: NN; guessed: VB
+Sentence number: 713; length 25; correct: 20; wrong: 5; unknown wrong: 1
+  Total tags correct: 17358; wrong: 956; unknown wrong: 432
+UnkWord: 1961; correct: CD; guessed: NNP
+UnkWord: 1.570; correct: CD; guessed: NN
+Sentence number: 714; length 36; correct: 34; wrong: 2; unknown wrong: 2
+  Total tags correct: 17392; wrong: 958; unknown wrong: 434
+UnkWord: 1976; correct: CD; guessed: NN
+Sentence number: 715; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 17412; wrong: 959; unknown wrong: 435
+Word: dapat; correct: VB; guessed: MD
+UnkWord: sejuta; correct: CD; guessed: VB
+Sentence number: 716; length 5; correct: 3; wrong: 2; unknown wrong: 1
+  Total tags correct: 17415; wrong: 961; unknown wrong: 436
+Sentence number: 717; length 5; correct: 5; wrong: 0; unknown wrong: 0
+  Total tags correct: 17420; wrong: 961; unknown wrong: 436
+UnkWord: berton-ton; correct: CD; guessed: NN
+UnkWord: tnt; correct: FW; guessed: NN
+Sentence number: 718; length 16; correct: 14; wrong: 2; unknown wrong: 2
+  Total tags correct: 17434; wrong: 963; unknown wrong: 438
+Sentence number: 719; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 17460; wrong: 963; unknown wrong: 438
+Word: meneg; correct: NNP; guessed: NN
+Word: ekonomi; correct: NNP; guessed: NN
+Word: pengangguran; correct: NNP; guessed: NN
+Sentence number: 720; length 29; correct: 26; wrong: 3; unknown wrong: 0
+  Total tags correct: 17486; wrong: 966; unknown wrong: 438
+UnkWord: terpelajar; correct: VB; guessed: NN
+Sentence number: 721; length 14; correct: 13; wrong: 1; unknown wrong: 1
+  Total tags correct: 17499; wrong: 967; unknown wrong: 439
+Word: untuk; correct: SC; guessed: IN
+UnkWord: fr0045; correct: NNP; guessed: VB
+Sentence number: 722; length 25; correct: 23; wrong: 2; unknown wrong: 1
+  Total tags correct: 17522; wrong: 969; unknown wrong: 440
+Word: untuk; correct: IN; guessed: SC
+UnkWord: koper; correct: NN; guessed: VB
+Sentence number: 723; length 30; correct: 28; wrong: 2; unknown wrong: 1
+  Total tags correct: 17550; wrong: 971; unknown wrong: 441
+Sentence number: 724; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 17568; wrong: 971; unknown wrong: 441
+Sentence number: 725; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 17583; wrong: 971; unknown wrong: 441
+UnkWord: dini; correct: JJ; guessed: NN
+Sentence number: 726; length 24; correct: 23; wrong: 1; unknown wrong: 1
+  Total tags correct: 17606; wrong: 972; unknown wrong: 442
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 727; length 12; correct: 11; wrong: 1; unknown wrong: 0
+  Total tags correct: 17617; wrong: 973; unknown wrong: 442
+Word: timah; correct: NN; guessed: NNP
+Sentence number: 728; length 35; correct: 34; wrong: 1; unknown wrong: 0
+  Total tags correct: 17651; wrong: 974; unknown wrong: 442
+Sentence number: 729; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 17680; wrong: 974; unknown wrong: 442
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 730; length 29; correct: 28; wrong: 1; unknown wrong: 0
+  Total tags correct: 17708; wrong: 975; unknown wrong: 442
+Sentence number: 731; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 17723; wrong: 975; unknown wrong: 442
+Sentence number: 732; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 17744; wrong: 975; unknown wrong: 442
+UnkWord: 1737; correct: CD; guessed: NN
+UnkWord: mengulangi; correct: VB; guessed: NN
+Sentence number: 733; length 28; correct: 26; wrong: 2; unknown wrong: 2
+  Total tags correct: 17770; wrong: 977; unknown wrong: 444
+Sentence number: 734; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 17787; wrong: 977; unknown wrong: 444
+Sentence number: 735; length 7; correct: 7; wrong: 0; unknown wrong: 0
+  Total tags correct: 17794; wrong: 977; unknown wrong: 444
+Sentence number: 736; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 17805; wrong: 977; unknown wrong: 444
+Sentence number: 737; length 32; correct: 32; wrong: 0; unknown wrong: 0
+  Total tags correct: 17837; wrong: 977; unknown wrong: 444
+Sentence number: 738; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 17866; wrong: 977; unknown wrong: 444
+Word: raja; correct: NNP; guessed: NN
+Sentence number: 739; length 36; correct: 35; wrong: 1; unknown wrong: 0
+  Total tags correct: 17901; wrong: 978; unknown wrong: 444
+Word: a; correct: NN; guessed: NNP
+Word: treasury; correct: FW; guessed: NNP
+Word: stock; correct: FW; guessed: NNP
+Sentence number: 740; length 36; correct: 33; wrong: 3; unknown wrong: 0
+  Total tags correct: 17934; wrong: 981; unknown wrong: 444
+Word: hilang; correct: VB; guessed: JJ
+Sentence number: 741; length 16; correct: 15; wrong: 1; unknown wrong: 0
+  Total tags correct: 17949; wrong: 982; unknown wrong: 444
+Word: atom; correct: NN; guessed: NNP
+Sentence number: 742; length 15; correct: 14; wrong: 1; unknown wrong: 0
+  Total tags correct: 17963; wrong: 983; unknown wrong: 444
+Sentence number: 743; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 17982; wrong: 983; unknown wrong: 444
+UnkWord: bpkp; correct: NNP; guessed: NN
+Sentence number: 744; length 19; correct: 18; wrong: 1; unknown wrong: 1
+  Total tags correct: 18000; wrong: 984; unknown wrong: 445
+Word: konferensi; correct: NNP; guessed: NN
+Word: tingkat; correct: NNP; guessed: NN
+Word: tinggi; correct: NNP; guessed: JJ
+Sentence number: 745; length 35; correct: 32; wrong: 3; unknown wrong: 0
+  Total tags correct: 18032; wrong: 987; unknown wrong: 445
+Word: menkeu; correct: NNP; guessed: NN
+Sentence number: 746; length 30; correct: 29; wrong: 1; unknown wrong: 0
+  Total tags correct: 18061; wrong: 988; unknown wrong: 445
+Sentence number: 747; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 18074; wrong: 988; unknown wrong: 445
+UnkWord: kedalam; correct: X; guessed: NNP
+Sentence number: 748; length 30; correct: 29; wrong: 1; unknown wrong: 1
+  Total tags correct: 18103; wrong: 989; unknown wrong: 446
+Word: apakah; correct: SC; guessed: WH
+UnkWord: longgar; correct: JJ; guessed: NN
+Sentence number: 749; length 39; correct: 37; wrong: 2; unknown wrong: 1
+  Total tags correct: 18140; wrong: 991; unknown wrong: 447
+UnkWord: skala-richter; correct: NND; guessed: NN
+Word: kota; correct: NNP; guessed: NN
+Sentence number: 750; length 20; correct: 18; wrong: 2; unknown wrong: 1
+  Total tags correct: 18158; wrong: 993; unknown wrong: 448
+Sentence number: 751; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 18179; wrong: 993; unknown wrong: 448
+Sentence number: 752; length 10; correct: 10; wrong: 0; unknown wrong: 0
+  Total tags correct: 18189; wrong: 993; unknown wrong: 448
+UnkWord: itv; correct: NNP; guessed: NN
+Sentence number: 753; length 33; correct: 32; wrong: 1; unknown wrong: 1
+  Total tags correct: 18221; wrong: 994; unknown wrong: 449
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 754; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 18237; wrong: 995; unknown wrong: 449
+Sentence number: 755; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 18250; wrong: 995; unknown wrong: 449
+Sentence number: 756; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 18263; wrong: 995; unknown wrong: 449
+UnkWord: al-ojeily; correct: NNP; guessed: NN
+UnkWord: tertembak; correct: VB; guessed: NN
+Sentence number: 757; length 12; correct: 10; wrong: 2; unknown wrong: 2
+  Total tags correct: 18273; wrong: 997; unknown wrong: 451
+Word: organisasi; correct: NNP; guessed: NN
+Word: negara-negara; correct: NNP; guessed: NN
+UnkWord: pengekspor; correct: NNP; guessed: NN
+Word: minyak; correct: NNP; guessed: NN
+Sentence number: 758; length 25; correct: 21; wrong: 4; unknown wrong: 1
+  Total tags correct: 18294; wrong: 1001; unknown wrong: 452
+UnkWord: akuan; correct: NN; guessed: NNP
+UnkWord: absurd; correct: JJ; guessed: VB
+Sentence number: 759; length 14; correct: 12; wrong: 2; unknown wrong: 2
+  Total tags correct: 18306; wrong: 1003; unknown wrong: 454
+Sentence number: 760; length 49; correct: 49; wrong: 0; unknown wrong: 0
+  Total tags correct: 18355; wrong: 1003; unknown wrong: 454
+Word: uu; correct: NN; guessed: NNP
+UnkWord: kepabeanan; correct: NN; guessed: NNP
+Word: baru; correct: MD; guessed: JJ
+Sentence number: 761; length 33; correct: 30; wrong: 3; unknown wrong: 1
+  Total tags correct: 18385; wrong: 1006; unknown wrong: 455
+Word: kemungkinan; correct: MD; guessed: NN
+Sentence number: 762; length 33; correct: 32; wrong: 1; unknown wrong: 0
+  Total tags correct: 18417; wrong: 1007; unknown wrong: 455
+Sentence number: 763; length 35; correct: 35; wrong: 0; unknown wrong: 0
+  Total tags correct: 18452; wrong: 1007; unknown wrong: 455
+Sentence number: 764; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 18463; wrong: 1007; unknown wrong: 455
+Word: selatan; correct: NN; guessed: NNP
+Sentence number: 765; length 41; correct: 40; wrong: 1; unknown wrong: 0
+  Total tags correct: 18503; wrong: 1008; unknown wrong: 455
+UnkWord: patah; correct: NNP; guessed: VB
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 766; length 43; correct: 41; wrong: 2; unknown wrong: 1
+  Total tags correct: 18544; wrong: 1010; unknown wrong: 456
+Sentence number: 767; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 18567; wrong: 1010; unknown wrong: 456
+Sentence number: 768; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 18583; wrong: 1010; unknown wrong: 456
+Word: bank; correct: NN; guessed: NNP
+Word: bumn; correct: NN; guessed: NNP
+Word: bank; correct: NN; guessed: NNP
+Sentence number: 769; length 20; correct: 17; wrong: 3; unknown wrong: 0
+  Total tags correct: 18600; wrong: 1013; unknown wrong: 456
+Word: komite; correct: NNP; guessed: NN
+Word: pelatihan; correct: NNP; guessed: NN
+Word: hak-hak; correct: NNP; guessed: NN
+Word: yang; correct: NNP; guessed: SC
+Word: tak; correct: NNP; guessed: NEG
+Word: bisa; correct: NNP; guessed: MD
+Word: dicabut; correct: NNP; guessed: VB
+Word: dari; correct: NNP; guessed: IN
+Word: rakyat; correct: NNP; guessed: NN
+Sentence number: 770; length 57; correct: 48; wrong: 9; unknown wrong: 0
+  Total tags correct: 18648; wrong: 1022; unknown wrong: 456
+Word: jelas; correct: JJ; guessed: VB
+Sentence number: 771; length 21; correct: 20; wrong: 1; unknown wrong: 0
+  Total tags correct: 18668; wrong: 1023; unknown wrong: 456
+UnkWord: amdal; correct: NN; guessed: NNP
+Word: baru; correct: MD; guessed: JJ
+Sentence number: 772; length 20; correct: 18; wrong: 2; unknown wrong: 1
+  Total tags correct: 18686; wrong: 1025; unknown wrong: 457
+Sentence number: 773; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 18711; wrong: 1025; unknown wrong: 457
+UnkWord: diperiksa; correct: VB; guessed: NN
+Sentence number: 774; length 23; correct: 22; wrong: 1; unknown wrong: 1
+  Total tags correct: 18733; wrong: 1026; unknown wrong: 458
+Word: dengan; correct: IN; guessed: SC
+Sentence number: 775; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 18749; wrong: 1027; unknown wrong: 458
+UnkWord: menyandang; correct: VB; guessed: NN
+Sentence number: 776; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 18769; wrong: 1028; unknown wrong: 459
+Word: hingga; correct: SC; guessed: IN
+Sentence number: 777; length 32; correct: 31; wrong: 1; unknown wrong: 0
+  Total tags correct: 18800; wrong: 1029; unknown wrong: 459
+UnkWord: ungkap; correct: VB; guessed: NN
+Sentence number: 778; length 18; correct: 17; wrong: 1; unknown wrong: 1
+  Total tags correct: 18817; wrong: 1030; unknown wrong: 460
+Sentence number: 779; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 18850; wrong: 1030; unknown wrong: 460
+Sentence number: 780; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 18875; wrong: 1030; unknown wrong: 460
+UnkWord: koperti; correct: X; guessed: NN
+Sentence number: 781; length 28; correct: 27; wrong: 1; unknown wrong: 1
+  Total tags correct: 18902; wrong: 1031; unknown wrong: 461
+Sentence number: 782; length 20; correct: 20; wrong: 0; unknown wrong: 0
+  Total tags correct: 18922; wrong: 1031; unknown wrong: 461
+UnkWord: diterbangkan; correct: VB; guessed: NN
+Sentence number: 783; length 26; correct: 25; wrong: 1; unknown wrong: 1
+  Total tags correct: 18947; wrong: 1032; unknown wrong: 462
+Word: jenis; correct: NND; guessed: NN
+Word: sebab; correct: SC; guessed: NN
+Sentence number: 784; length 19; correct: 17; wrong: 2; unknown wrong: 0
+  Total tags correct: 18964; wrong: 1034; unknown wrong: 462
+UnkWord: melipatgandakan; correct: VB; guessed: NN
+Word: hingga; correct: SC; guessed: IN
+Sentence number: 785; length 30; correct: 28; wrong: 2; unknown wrong: 1
+  Total tags correct: 18992; wrong: 1036; unknown wrong: 463
+UnkWord: tersalurkan; correct: VB; guessed: JJ
+Sentence number: 786; length 34; correct: 33; wrong: 1; unknown wrong: 1
+  Total tags correct: 19025; wrong: 1037; unknown wrong: 464
+UnkWord: nablus; correct: NNP; guessed: NN
+Sentence number: 787; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 19045; wrong: 1038; unknown wrong: 465
+Word: krisis; correct: JJ; guessed: NN
+Sentence number: 788; length 40; correct: 39; wrong: 1; unknown wrong: 0
+  Total tags correct: 19084; wrong: 1039; unknown wrong: 465
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 789; length 29; correct: 28; wrong: 1; unknown wrong: 0
+  Total tags correct: 19112; wrong: 1040; unknown wrong: 465
+UnkWord: colleen; correct: NNP; guessed: NN
+UnkWord: shipman; correct: NNP; guessed: NN
+Word: dengan; correct: IN; guessed: SC
+Word: komandan; correct: NNP; guessed: NN
+Word: dan; correct: NNP; guessed: CC
+UnkWord: william; correct: NNP; guessed: NN
+Sentence number: 790; length 36; correct: 30; wrong: 6; unknown wrong: 3
+  Total tags correct: 19142; wrong: 1046; unknown wrong: 468
+Sentence number: 791; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 19176; wrong: 1046; unknown wrong: 468
+Word: pemegang; correct: NNP; guessed: NN
+Word: saham; correct: NNP; guessed: NN
+UnkWord: dimasukkan; correct: VB; guessed: NN
+UnkWord: kedalam; correct: X; guessed: NN
+Sentence number: 792; length 47; correct: 43; wrong: 4; unknown wrong: 2
+  Total tags correct: 19219; wrong: 1050; unknown wrong: 470
+Sentence number: 793; length 14; correct: 14; wrong: 0; unknown wrong: 0
+  Total tags correct: 19233; wrong: 1050; unknown wrong: 470
+UnkWord: double; correct: FW; guessed: NN
+Sentence number: 794; length 29; correct: 28; wrong: 1; unknown wrong: 1
+  Total tags correct: 19261; wrong: 1051; unknown wrong: 471
+Sentence number: 795; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 19276; wrong: 1051; unknown wrong: 471
+Word: analisis; correct: NNP; guessed: NN
+Word: dampak; correct: NNP; guessed: NN
+Word: lingkungan; correct: NNP; guessed: NN
+UnkWord: amdal; correct: NNP; guessed: NN
+Sentence number: 796; length 18; correct: 14; wrong: 4; unknown wrong: 1
+  Total tags correct: 19290; wrong: 1055; unknown wrong: 472
+Sentence number: 797; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 19324; wrong: 1055; unknown wrong: 472
+Sentence number: 798; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 19343; wrong: 1055; unknown wrong: 472
+Word: dan; correct: NNP; guessed: CC
+Word: kebakaran; correct: NNP; guessed: NN
+UnkWord: 570; correct: CD; guessed: NN
+Sentence number: 799; length 27; correct: 24; wrong: 3; unknown wrong: 1
+  Total tags correct: 19367; wrong: 1058; unknown wrong: 473
+Sentence number: 800; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 19384; wrong: 1058; unknown wrong: 473
+Word: perubahan; correct: NN; guessed: NNP
+Sentence number: 801; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 19400; wrong: 1059; unknown wrong: 473
+UnkWord: penghubung; correct: NN; guessed: FW
+Sentence number: 802; length 16; correct: 15; wrong: 1; unknown wrong: 1
+  Total tags correct: 19415; wrong: 1060; unknown wrong: 474
+UnkWord: memata-matai; correct: VB; guessed: NN
+Word: anti; correct: JJ; guessed: NNP
+Sentence number: 803; length 25; correct: 23; wrong: 2; unknown wrong: 1
+  Total tags correct: 19438; wrong: 1062; unknown wrong: 475
+UnkWord: selaku; correct: IN; guessed: NNP
+UnkWord: operator; correct: NN; guessed: NNP
+UnkWord: telepon-seluler; correct: NN; guessed: NNP
+Word: komisi; correct: NNP; guessed: NN
+Word: pengawas; correct: NNP; guessed: NN
+Word: usaha; correct: NNP; guessed: NN
+UnkWord: kppu; correct: NNP; guessed: NN
+Sentence number: 804; length 14; correct: 7; wrong: 7; unknown wrong: 4
+  Total tags correct: 19445; wrong: 1069; unknown wrong: 479
+Sentence number: 805; length 37; correct: 37; wrong: 0; unknown wrong: 0
+  Total tags correct: 19482; wrong: 1069; unknown wrong: 479
+Word: dengan; correct: IN; guessed: SC
+Sentence number: 806; length 20; correct: 19; wrong: 1; unknown wrong: 0
+  Total tags correct: 19501; wrong: 1070; unknown wrong: 479
+Sentence number: 807; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 19523; wrong: 1070; unknown wrong: 479
+Sentence number: 808; length 35; correct: 35; wrong: 0; unknown wrong: 0
+  Total tags correct: 19558; wrong: 1070; unknown wrong: 479
+UnkWord: signal; correct: FW; guessed: NN
+Word: justru; correct: RB; guessed: CC
+Sentence number: 809; length 34; correct: 32; wrong: 2; unknown wrong: 1
+  Total tags correct: 19590; wrong: 1072; unknown wrong: 480
+Word: ketua; correct: NNP; guessed: NN
+Word: tim; correct: NNP; guessed: NN
+Word: ahli; correct: NNP; guessed: NN
+Word: korupsi; correct: NNP; guessed: NN
+Sentence number: 810; length 23; correct: 19; wrong: 4; unknown wrong: 0
+  Total tags correct: 19609; wrong: 1076; unknown wrong: 480
+Sentence number: 811; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 19643; wrong: 1076; unknown wrong: 480
+UnkWord: tersingkir; correct: VB; guessed: NNP
+Word: berikut; correct: PR; guessed: NN
+Sentence number: 812; length 28; correct: 26; wrong: 2; unknown wrong: 1
+  Total tags correct: 19669; wrong: 1078; unknown wrong: 481
+Word: presiden; correct: NN; guessed: NNP
+UnkWord: berbaret; correct: VB; guessed: NNP
+UnkWord: merah; correct: JJ; guessed: NNP
+Sentence number: 813; length 28; correct: 25; wrong: 3; unknown wrong: 2
+  Total tags correct: 19694; wrong: 1081; unknown wrong: 483
+Word: plus; correct: JJ; guessed: NN
+Word: plus; correct: JJ; guessed: NN
+Sentence number: 814; length 28; correct: 26; wrong: 2; unknown wrong: 0
+  Total tags correct: 19720; wrong: 1083; unknown wrong: 483
+Word: sedikit; correct: MD; guessed: CD
+Sentence number: 815; length 15; correct: 14; wrong: 1; unknown wrong: 0
+  Total tags correct: 19734; wrong: 1084; unknown wrong: 483
+Word: ladang; correct: NNP; guessed: NN
+UnkWord: ira; correct: NNP; guessed: NN
+Word: panen; correct: NNP; guessed: NN
+Sentence number: 816; length 54; correct: 51; wrong: 3; unknown wrong: 1
+  Total tags correct: 19785; wrong: 1087; unknown wrong: 484
+Word: untuk; correct: IN; guessed: SC
+UnkWord: ditransfer; correct: VB; guessed: NN
+Sentence number: 817; length 27; correct: 25; wrong: 2; unknown wrong: 1
+  Total tags correct: 19810; wrong: 1089; unknown wrong: 485
+UnkWord: aula; correct: NN; guessed: NNP
+Word: kota; correct: NN; guessed: NNP
+Sentence number: 818; length 9; correct: 7; wrong: 2; unknown wrong: 1
+  Total tags correct: 19817; wrong: 1091; unknown wrong: 486
+Word: kedua; correct: CD; guessed: OD
+UnkWord: joint; correct: FW; guessed: NNP
+Word: venture; correct: FW; guessed: NNP
+Word: bank; correct: FW; guessed: NNP
+Word: '; correct: Z; guessed: NNP
+Sentence number: 819; length 39; correct: 34; wrong: 5; unknown wrong: 1
+  Total tags correct: 19851; wrong: 1096; unknown wrong: 487
+UnkWord: 0,475; correct: CD; guessed: NN
+UnkWord: dollar; correct: FW; guessed: NN
+Sentence number: 820; length 31; correct: 29; wrong: 2; unknown wrong: 2
+  Total tags correct: 19880; wrong: 1098; unknown wrong: 489
+Sentence number: 821; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 19910; wrong: 1098; unknown wrong: 489
+Sentence number: 822; length 36; correct: 36; wrong: 0; unknown wrong: 0
+  Total tags correct: 19946; wrong: 1098; unknown wrong: 489
+Sentence number: 823; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 19963; wrong: 1098; unknown wrong: 489
+UnkWord: ltls; correct: NNP; guessed: NN
+Sentence number: 824; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 19983; wrong: 1099; unknown wrong: 490
+UnkWord: askes; correct: X; guessed: NN
+UnkWord: masyarakat-kota; correct: NN; guessed: NNP
+Sentence number: 825; length 15; correct: 13; wrong: 2; unknown wrong: 2
+  Total tags correct: 19996; wrong: 1101; unknown wrong: 492
+Sentence number: 826; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 20025; wrong: 1101; unknown wrong: 492
+Sentence number: 827; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 20049; wrong: 1101; unknown wrong: 492
+UnkWord: unitlink; correct: FW; guessed: NN
+Sentence number: 828; length 32; correct: 31; wrong: 1; unknown wrong: 1
+  Total tags correct: 20080; wrong: 1102; unknown wrong: 493
+Sentence number: 829; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 20091; wrong: 1102; unknown wrong: 493
+UnkWord: it; correct: FW; guessed: NN
+Sentence number: 830; length 14; correct: 13; wrong: 1; unknown wrong: 1
+  Total tags correct: 20104; wrong: 1103; unknown wrong: 494
+UnkWord: melek-aksara; correct: JJ; guessed: NN
+UnkWord: dramatis; correct: JJ; guessed: VB
+UnkWord: melumpuhkan; correct: VB; guessed: NN
+Sentence number: 831; length 27; correct: 24; wrong: 3; unknown wrong: 3
+  Total tags correct: 20128; wrong: 1106; unknown wrong: 497
+Word: surat; correct: NNP; guessed: NN
+Sentence number: 832; length 13; correct: 12; wrong: 1; unknown wrong: 0
+  Total tags correct: 20140; wrong: 1107; unknown wrong: 497
+Word: gas; correct: NNP; guessed: NN
+Word: negara; correct: NNP; guessed: NN
+UnkWord: pertengahan; correct: NN; guessed: CD
+Word: dan; correct: NNP; guessed: CC
+Sentence number: 833; length 44; correct: 40; wrong: 4; unknown wrong: 1
+  Total tags correct: 20180; wrong: 1111; unknown wrong: 498
+Sentence number: 834; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 20204; wrong: 1111; unknown wrong: 498
+UnkWord: indef; correct: NNP; guessed: NN
+Sentence number: 835; length 25; correct: 24; wrong: 1; unknown wrong: 1
+  Total tags correct: 20228; wrong: 1112; unknown wrong: 499
+Word: lembaga; correct: NNP; guessed: NN
+Sentence number: 836; length 27; correct: 26; wrong: 1; unknown wrong: 0
+  Total tags correct: 20254; wrong: 1113; unknown wrong: 499
+Sentence number: 837; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 20275; wrong: 1113; unknown wrong: 499
+Word: '; correct: NNP; guessed: Z
+Sentence number: 838; length 19; correct: 18; wrong: 1; unknown wrong: 0
+  Total tags correct: 20293; wrong: 1114; unknown wrong: 499
+Sentence number: 839; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 20302; wrong: 1114; unknown wrong: 499
+UnkWord: ciho; correct: NNP; guessed: VB
+Word: d; correct: NNP; guessed: NN
+Word: bangun; correct: NNP; guessed: NN
+UnkWord: dirk; correct: NNP; guessed: NN
+UnkWord: theuninck; correct: NNP; guessed: NN
+Sentence number: 840; length 22; correct: 17; wrong: 5; unknown wrong: 3
+  Total tags correct: 20319; wrong: 1119; unknown wrong: 502
+Word: pemimpin; correct: NNP; guessed: NN
+Word: operasional; correct: NNP; guessed: JJ
+Sentence number: 841; length 19; correct: 17; wrong: 2; unknown wrong: 0
+  Total tags correct: 20336; wrong: 1121; unknown wrong: 502
+Word: menteri; correct: NN; guessed: NNP
+Word: keuangan; correct: NN; guessed: NNP
+Sentence number: 842; length 40; correct: 38; wrong: 2; unknown wrong: 0
+  Total tags correct: 20374; wrong: 1123; unknown wrong: 502
+Sentence number: 843; length 8; correct: 8; wrong: 0; unknown wrong: 0
+  Total tags correct: 20382; wrong: 1123; unknown wrong: 502
+Word: divisi; correct: NN; guessed: NNP
+UnkWord: kontraktor; correct: NN; guessed: VB
+Word: melalui; correct: IN; guessed: VB
+UnkWord: sepenuh; correct: JJ; guessed: NN
+Sentence number: 844; length 52; correct: 48; wrong: 4; unknown wrong: 2
+  Total tags correct: 20430; wrong: 1127; unknown wrong: 504
+Word: mobil; correct: X; guessed: NNP
+Word: -; correct: Z; guessed: NNP
+Word: 8; correct: CD; guessed: NNP
+UnkWord: menggandeng; correct: VB; guessed: NNP
+Sentence number: 845; length 22; correct: 18; wrong: 4; unknown wrong: 1
+  Total tags correct: 20448; wrong: 1131; unknown wrong: 505
+Sentence number: 846; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 20473; wrong: 1131; unknown wrong: 505
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 847; length 31; correct: 30; wrong: 1; unknown wrong: 0
+  Total tags correct: 20503; wrong: 1132; unknown wrong: 505
+Sentence number: 848; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 20537; wrong: 1132; unknown wrong: 505
+Word: dengan; correct: SC; guessed: IN
+UnkWord: tangan-terbuka; correct: JJ; guessed: NN
+Sentence number: 849; length 11; correct: 9; wrong: 2; unknown wrong: 1
+  Total tags correct: 20546; wrong: 1134; unknown wrong: 506
+Sentence number: 850; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 20559; wrong: 1134; unknown wrong: 506
+Sentence number: 851; length 14; correct: 14; wrong: 0; unknown wrong: 0
+  Total tags correct: 20573; wrong: 1134; unknown wrong: 506
+UnkWord: breeding; correct: FW; guessed: NN
+UnkWord: farm; correct: FW; guessed: NN
+Sentence number: 852; length 26; correct: 24; wrong: 2; unknown wrong: 2
+  Total tags correct: 20597; wrong: 1136; unknown wrong: 508
+UnkWord: mt; correct: NNP; guessed: NN
+UnkWord: purwati; correct: NNP; guessed: NN
+Word: kimia; correct: NN; guessed: NNP
+UnkWord: berjenis; correct: VB; guessed: FW
+Word: steel; correct: FW; guessed: NNP
+Word: ii; correct: OD; guessed: NNP
+UnkWord: berkapasitas; correct: VB; guessed: NNP
+UnkWord: 19.99; correct: CD; guessed: NNP
+UnkWord: dwt; correct: FW; guessed: NNP
+Word: .; correct: Z; guessed: NNP
+Sentence number: 853; length 41; correct: 31; wrong: 10; unknown wrong: 6
+  Total tags correct: 20628; wrong: 1146; unknown wrong: 514
+UnkWord: menggambarkan; correct: VB; guessed: NNP
+Sentence number: 854; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 20648; wrong: 1147; unknown wrong: 515
+Word: modal; correct: NNP; guessed: NN
+Sentence number: 855; length 24; correct: 23; wrong: 1; unknown wrong: 0
+  Total tags correct: 20671; wrong: 1148; unknown wrong: 515
+Word: panjang; correct: JJ; guessed: NN
+Sentence number: 856; length 8; correct: 7; wrong: 1; unknown wrong: 0
+  Total tags correct: 20678; wrong: 1149; unknown wrong: 515
+Word: perdana-menteri; correct: NN; guessed: NNP
+Sentence number: 857; length 27; correct: 26; wrong: 1; unknown wrong: 0
+  Total tags correct: 20704; wrong: 1150; unknown wrong: 515
+Sentence number: 858; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 20737; wrong: 1150; unknown wrong: 515
+UnkWord: wen; correct: NNP; guessed: NN
+Sentence number: 859; length 16; correct: 15; wrong: 1; unknown wrong: 1
+  Total tags correct: 20752; wrong: 1151; unknown wrong: 516
+Word: keempat; correct: OD; guessed: CD
+Word: pemerintah; correct: NNP; guessed: NN
+Word: persatuan; correct: NNP; guessed: NN
+Sentence number: 860; length 43; correct: 40; wrong: 3; unknown wrong: 0
+  Total tags correct: 20792; wrong: 1154; unknown wrong: 516
+Sentence number: 861; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 20813; wrong: 1154; unknown wrong: 516
+Sentence number: 862; length 40; correct: 40; wrong: 0; unknown wrong: 0
+  Total tags correct: 20853; wrong: 1154; unknown wrong: 516
+Word: baik; correct: CC; guessed: JJ
+Sentence number: 863; length 19; correct: 18; wrong: 1; unknown wrong: 0
+  Total tags correct: 20871; wrong: 1155; unknown wrong: 516
+Word: presiden; correct: NN; guessed: NNP
+Word: dengan; correct: SC; guessed: IN
+Word: dengan; correct: IN; guessed: SC
+Sentence number: 864; length 31; correct: 28; wrong: 3; unknown wrong: 0
+  Total tags correct: 20899; wrong: 1158; unknown wrong: 516
+Word: financial; correct: FW; guessed: NNP
+Word: investor; correct: NN; guessed: NNP
+Sentence number: 865; length 17; correct: 15; wrong: 2; unknown wrong: 0
+  Total tags correct: 20914; wrong: 1160; unknown wrong: 516
+UnkWord: paramiliter; correct: JJ; guessed: NN
+Sentence number: 866; length 24; correct: 23; wrong: 1; unknown wrong: 1
+  Total tags correct: 20937; wrong: 1161; unknown wrong: 517
+UnkWord: arabiya; correct: NNP; guessed: NN
+UnkWord: kosong; correct: JJ; guessed: NN
+Word: waktu; correct: SC; guessed: NN
+Sentence number: 867; length 19; correct: 16; wrong: 3; unknown wrong: 2
+  Total tags correct: 20953; wrong: 1164; unknown wrong: 519
+Word: sampai; correct: SC; guessed: IN
+Word: kapan; correct: WH; guessed: SC
+Word: kapan; correct: WH; guessed: SC
+Sentence number: 868; length 30; correct: 27; wrong: 3; unknown wrong: 0
+  Total tags correct: 20980; wrong: 1167; unknown wrong: 519
+Sentence number: 869; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 21003; wrong: 1167; unknown wrong: 519
+UnkWord: ungkap; correct: VB; guessed: NN
+Word: stasiun-televisi; correct: NNP; guessed: NN
+UnkWord: cbs; correct: NNP; guessed: NN
+Sentence number: 870; length 41; correct: 38; wrong: 3; unknown wrong: 2
+  Total tags correct: 21041; wrong: 1170; unknown wrong: 521
+UnkWord: kemajuan-teknologi; correct: NN; guessed: JJ
+Sentence number: 871; length 9; correct: 8; wrong: 1; unknown wrong: 1
+  Total tags correct: 21049; wrong: 1171; unknown wrong: 522
+Word: pembayaran; correct: NN; guessed: NNP
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 872; length 23; correct: 21; wrong: 2; unknown wrong: 0
+  Total tags correct: 21070; wrong: 1173; unknown wrong: 522
+Word: pasukan; correct: NN; guessed: NNP
+Word: antarbangsa; correct: JJ; guessed: NNP
+Word: and; correct: FW; guessed: NNP
+Sentence number: 873; length 26; correct: 23; wrong: 3; unknown wrong: 0
+  Total tags correct: 21093; wrong: 1176; unknown wrong: 522
+Word: pembangkit; correct: NNP; guessed: NN
+UnkWord: pltu; correct: NNP; guessed: NN
+UnkWord: banjarsari; correct: NNP; guessed: NN
+Sentence number: 874; length 28; correct: 25; wrong: 3; unknown wrong: 2
+  Total tags correct: 21118; wrong: 1179; unknown wrong: 524
+Sentence number: 875; length 41; correct: 41; wrong: 0; unknown wrong: 0
+  Total tags correct: 21159; wrong: 1179; unknown wrong: 524
+Sentence number: 876; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 21176; wrong: 1179; unknown wrong: 524
+UnkWord: buka; correct: VB; guessed: NN
+Word: bersama; correct: VB; guessed: IN
+Sentence number: 877; length 27; correct: 25; wrong: 2; unknown wrong: 1
+  Total tags correct: 21201; wrong: 1181; unknown wrong: 525
+Word: kantor; correct: NNP; guessed: NN
+Word: berita; correct: NNP; guessed: NN
+Sentence number: 878; length 40; correct: 38; wrong: 2; unknown wrong: 0
+  Total tags correct: 21239; wrong: 1183; unknown wrong: 525
+Word: selatan; correct: NN; guessed: NNP
+Sentence number: 879; length 6; correct: 5; wrong: 1; unknown wrong: 0
+  Total tags correct: 21244; wrong: 1184; unknown wrong: 525
+UnkWord: brasil; correct: NNP; guessed: NN
+UnkWord: tiririca; correct: NNP; guessed: NN
+UnkWord: brasil; correct: NNP; guessed: NN
+UnkWord: buta-aksara; correct: JJ; guessed: NN
+Sentence number: 880; length 15; correct: 11; wrong: 4; unknown wrong: 4
+  Total tags correct: 21255; wrong: 1188; unknown wrong: 529
+Sentence number: 881; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 21271; wrong: 1188; unknown wrong: 529
+Sentence number: 882; length 9; correct: 9; wrong: 0; unknown wrong: 0
+  Total tags correct: 21280; wrong: 1188; unknown wrong: 529
+Sentence number: 883; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 21295; wrong: 1188; unknown wrong: 529
+Word: dengan; correct: IN; guessed: SC
+Sentence number: 884; length 19; correct: 18; wrong: 1; unknown wrong: 0
+  Total tags correct: 21313; wrong: 1189; unknown wrong: 529
+Sentence number: 885; length 31; correct: 31; wrong: 0; unknown wrong: 0
+  Total tags correct: 21344; wrong: 1189; unknown wrong: 529
+UnkWord: menyerahkan; correct: VB; guessed: NN
+Word: swasta; correct: JJ; guessed: NN
+Sentence number: 886; length 25; correct: 23; wrong: 2; unknown wrong: 1
+  Total tags correct: 21367; wrong: 1191; unknown wrong: 530
+Sentence number: 887; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 21388; wrong: 1191; unknown wrong: 530
+Word: kongres; correct: NN; guessed: NNP
+Sentence number: 888; length 6; correct: 5; wrong: 1; unknown wrong: 0
+  Total tags correct: 21393; wrong: 1192; unknown wrong: 530
+Sentence number: 889; length 24; correct: 24; wrong: 0; unknown wrong: 0
+  Total tags correct: 21417; wrong: 1192; unknown wrong: 530
+Word: badan; correct: NNP; guessed: NN
+Word: pelayanan; correct: NNP; guessed: NN
+Word: keuangan; correct: NNP; guessed: NN
+Sentence number: 890; length 38; correct: 35; wrong: 3; unknown wrong: 0
+  Total tags correct: 21452; wrong: 1195; unknown wrong: 530
+Sentence number: 891; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 21467; wrong: 1195; unknown wrong: 530
+Word: penerbangan; correct: NN; guessed: NNP
+Sentence number: 892; length 9; correct: 8; wrong: 1; unknown wrong: 0
+  Total tags correct: 21475; wrong: 1196; unknown wrong: 530
+UnkWord: dipadati; correct: VB; guessed: NN
+UnkWord: this; correct: NNP; guessed: FW
+Word: day; correct: NNP; guessed: FW
+Sentence number: 893; length 36; correct: 33; wrong: 3; unknown wrong: 2
+  Total tags correct: 21508; wrong: 1199; unknown wrong: 532
+Sentence number: 894; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 21529; wrong: 1199; unknown wrong: 532
+Word: p; correct: NNP; guessed: NN
+UnkWord: brantas; correct: NNP; guessed: NN
+Sentence number: 895; length 18; correct: 16; wrong: 2; unknown wrong: 1
+  Total tags correct: 21545; wrong: 1201; unknown wrong: 533
+Word: untuk; correct: IN; guessed: SC
+Word: terbatas; correct: VB; guessed: JJ
+Sentence number: 896; length 14; correct: 12; wrong: 2; unknown wrong: 0
+  Total tags correct: 21557; wrong: 1203; unknown wrong: 533
+Sentence number: 897; length 22; correct: 22; wrong: 0; unknown wrong: 0
+  Total tags correct: 21579; wrong: 1203; unknown wrong: 533
+Word: suku; correct: NN; guessed: NNP
+UnkWord: dominan; correct: JJ; guessed: NNP
+UnkWord: goyah; correct: JJ; guessed: NN
+Sentence number: 898; length 30; correct: 27; wrong: 3; unknown wrong: 2
+  Total tags correct: 21606; wrong: 1206; unknown wrong: 535
+Sentence number: 899; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 21621; wrong: 1206; unknown wrong: 535
+Word: pajak; correct: NN; guessed: NNP
+UnkWord: depresiasi; correct: NN; guessed: NNP
+UnkWord: amortisasi; correct: NN; guessed: NNP
+Word: ebitda; correct: X; guessed: NNP
+UnkWord: rig; correct: FW; guessed: NN
+Sentence number: 900; length 52; correct: 47; wrong: 5; unknown wrong: 3
+  Total tags correct: 21668; wrong: 1211; unknown wrong: 538
+UnkWord: mengantisipasi; correct: VB; guessed: NN
+Sentence number: 901; length 27; correct: 26; wrong: 1; unknown wrong: 1
+  Total tags correct: 21694; wrong: 1212; unknown wrong: 539
+Sentence number: 902; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 21720; wrong: 1212; unknown wrong: 539
+UnkWord: semoga; correct: SC; guessed: NN
+Word: plus; correct: JJ; guessed: NN
+Sentence number: 903; length 19; correct: 17; wrong: 2; unknown wrong: 1
+  Total tags correct: 21737; wrong: 1214; unknown wrong: 540
+Sentence number: 904; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 21754; wrong: 1214; unknown wrong: 540
+UnkWord: rig; correct: FW; guessed: NN
+Sentence number: 905; length 24; correct: 23; wrong: 1; unknown wrong: 1
+  Total tags correct: 21777; wrong: 1215; unknown wrong: 541
+Sentence number: 906; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 21798; wrong: 1215; unknown wrong: 541
+Word: melalui; correct: IN; guessed: VB
+Sentence number: 907; length 33; correct: 32; wrong: 1; unknown wrong: 0
+  Total tags correct: 21830; wrong: 1216; unknown wrong: 541
+Sentence number: 908; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 21856; wrong: 1216; unknown wrong: 541
+Word: operasi; correct: NNP; guessed: NN
+UnkWord: achilles; correct: NNP; guessed: NN
+Word: provinsi; correct: NN; guessed: NNP
+Sentence number: 909; length 21; correct: 18; wrong: 3; unknown wrong: 1
+  Total tags correct: 21874; wrong: 1219; unknown wrong: 542
+Sentence number: 910; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 21889; wrong: 1219; unknown wrong: 542
+Word: sekretaris; correct: NN; guessed: NNP
+Sentence number: 911; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 21910; wrong: 1220; unknown wrong: 542
+Word: ida; correct: SYM; guessed: FW
+Word: single; correct: NNP; guessed: FW
+Word: a; correct: SYM; guessed: NNP
+UnkWord: stable; correct: FW; guessed: NNP
+UnkWord: outlook; correct: FW; guessed: NNP
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 912; length 33; correct: 27; wrong: 6; unknown wrong: 2
+  Total tags correct: 21937; wrong: 1226; unknown wrong: 544
+Sentence number: 913; length 15; correct: 15; wrong: 0; unknown wrong: 0
+  Total tags correct: 21952; wrong: 1226; unknown wrong: 544
+UnkWord: mendeskripsikan; correct: VB; guessed: NNP
+UnkWord: paratai; correct: NNP; guessed: NN
+Word: kongres; correct: NNP; guessed: NN
+Sentence number: 914; length 16; correct: 13; wrong: 3; unknown wrong: 2
+  Total tags correct: 21965; wrong: 1229; unknown wrong: 546
+Sentence number: 915; length 37; correct: 37; wrong: 0; unknown wrong: 0
+  Total tags correct: 22002; wrong: 1229; unknown wrong: 546
+Sentence number: 916; length 28; correct: 28; wrong: 0; unknown wrong: 0
+  Total tags correct: 22030; wrong: 1229; unknown wrong: 546
+UnkWord: sepertiga; correct: CD; guessed: NN
+Word: hingga; correct: SC; guessed: IN
+Sentence number: 917; length 15; correct: 13; wrong: 2; unknown wrong: 1
+  Total tags correct: 22043; wrong: 1231; unknown wrong: 547
+UnkWord: memanas; correct: VB; guessed: NN
+Sentence number: 918; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 22063; wrong: 1232; unknown wrong: 548
+Word: krisis; correct: JJ; guessed: NN
+Sentence number: 919; length 22; correct: 21; wrong: 1; unknown wrong: 0
+  Total tags correct: 22084; wrong: 1233; unknown wrong: 548
+Sentence number: 920; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 22101; wrong: 1233; unknown wrong: 548
+UnkWord: southern; correct: NNP; guessed: NN
+UnkWord: midwestern; correct: NNP; guessed: NN
+Sentence number: 921; length 32; correct: 30; wrong: 2; unknown wrong: 2
+  Total tags correct: 22131; wrong: 1235; unknown wrong: 550
+Sentence number: 922; length 17; correct: 17; wrong: 0; unknown wrong: 0
+  Total tags correct: 22148; wrong: 1235; unknown wrong: 550
+Word: bersama; correct: VB; guessed: NNP
+Sentence number: 923; length 40; correct: 39; wrong: 1; unknown wrong: 0
+  Total tags correct: 22187; wrong: 1236; unknown wrong: 550
+UnkWord: tiba-tiba; correct: RB; guessed: VB
+Sentence number: 924; length 13; correct: 12; wrong: 1; unknown wrong: 1
+  Total tags correct: 22199; wrong: 1237; unknown wrong: 551
+UnkWord: ihk; correct: NNP; guessed: NN
+UnkWord: ihk; correct: NNP; guessed: NN
+Sentence number: 925; length 22; correct: 20; wrong: 2; unknown wrong: 2
+  Total tags correct: 22219; wrong: 1239; unknown wrong: 553
+Sentence number: 926; length 26; correct: 26; wrong: 0; unknown wrong: 0
+  Total tags correct: 22245; wrong: 1239; unknown wrong: 553
+UnkWord: nab; correct: NNP; guessed: NN
+UnkWord: nab; correct: NNP; guessed: NN
+Sentence number: 927; length 36; correct: 34; wrong: 2; unknown wrong: 2
+  Total tags correct: 22279; wrong: 1241; unknown wrong: 555
+Word: darat; correct: NNP; guessed: NN
+UnkWord: paramiliter; correct: JJ; guessed: NN
+Sentence number: 928; length 31; correct: 29; wrong: 2; unknown wrong: 1
+  Total tags correct: 22308; wrong: 1243; unknown wrong: 556
+Word: tertentu; correct: PR; guessed: JJ
+Sentence number: 929; length 31; correct: 30; wrong: 1; unknown wrong: 0
+  Total tags correct: 22338; wrong: 1244; unknown wrong: 556
+Word: tengah; correct: MD; guessed: NN
+Sentence number: 930; length 11; correct: 10; wrong: 1; unknown wrong: 0
+  Total tags correct: 22348; wrong: 1245; unknown wrong: 556
+Sentence number: 931; length 10; correct: 10; wrong: 0; unknown wrong: 0
+  Total tags correct: 22358; wrong: 1245; unknown wrong: 556
+UnkWord: menyambar; correct: VB; guessed: NN
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 932; length 27; correct: 25; wrong: 2; unknown wrong: 1
+  Total tags correct: 22383; wrong: 1247; unknown wrong: 557
+Sentence number: 933; length 27; correct: 27; wrong: 0; unknown wrong: 0
+  Total tags correct: 22410; wrong: 1247; unknown wrong: 557
+UnkWord: hasan; correct: NNP; guessed: VB
+Word: muslim; correct: NNP; guessed: NN
+Sentence number: 934; length 49; correct: 47; wrong: 2; unknown wrong: 1
+  Total tags correct: 22457; wrong: 1249; unknown wrong: 558
+Sentence number: 935; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 22487; wrong: 1249; unknown wrong: 558
+Sentence number: 936; length 42; correct: 42; wrong: 0; unknown wrong: 0
+  Total tags correct: 22529; wrong: 1249; unknown wrong: 558
+Sentence number: 937; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 22558; wrong: 1249; unknown wrong: 558
+Sentence number: 938; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 22571; wrong: 1249; unknown wrong: 558
+Sentence number: 939; length 25; correct: 25; wrong: 0; unknown wrong: 0
+  Total tags correct: 22596; wrong: 1249; unknown wrong: 558
+Sentence number: 940; length 29; correct: 29; wrong: 0; unknown wrong: 0
+  Total tags correct: 22625; wrong: 1249; unknown wrong: 558
+UnkWord: merah; correct: JJ; guessed: NN
+Sentence number: 941; length 28; correct: 27; wrong: 1; unknown wrong: 1
+  Total tags correct: 22652; wrong: 1250; unknown wrong: 559
+Word: jenis; correct: NND; guessed: NN
+UnkWord: indo; correct: NNP; guessed: VB
+Word: 8; correct: CD; guessed: NNP
+Sentence number: 942; length 33; correct: 30; wrong: 3; unknown wrong: 1
+  Total tags correct: 22682; wrong: 1253; unknown wrong: 560
+UnkWord: veneer; correct: FW; guessed: NN
+Sentence number: 943; length 50; correct: 49; wrong: 1; unknown wrong: 1
+  Total tags correct: 22731; wrong: 1254; unknown wrong: 561
+Word: non; correct: RB; guessed: NEG
+UnkWord: tradable; correct: FW; guessed: NNP
+Word: securities; correct: FW; guessed: NNP
+Sentence number: 944; length 19; correct: 16; wrong: 3; unknown wrong: 1
+  Total tags correct: 22747; wrong: 1257; unknown wrong: 562
+UnkWord: jangkar; correct: NN; guessed: NNP
+Sentence number: 945; length 21; correct: 20; wrong: 1; unknown wrong: 1
+  Total tags correct: 22767; wrong: 1258; unknown wrong: 563
+UnkWord: leumi; correct: NNP; guessed: VB
+Sentence number: 946; length 27; correct: 26; wrong: 1; unknown wrong: 1
+  Total tags correct: 22793; wrong: 1259; unknown wrong: 564
+Word: masing-masing; correct: CD; guessed: PRP
+UnkWord: kontainer; correct: NN; guessed: VB
+Sentence number: 947; length 17; correct: 15; wrong: 2; unknown wrong: 1
+  Total tags correct: 22808; wrong: 1261; unknown wrong: 565
+UnkWord: musim-dingin; correct: NN; guessed: VB
+UnkWord: copenhagen; correct: NNP; guessed: NN
+Sentence number: 948; length 23; correct: 21; wrong: 2; unknown wrong: 2
+  Total tags correct: 22829; wrong: 1263; unknown wrong: 567
+Sentence number: 949; length 42; correct: 42; wrong: 0; unknown wrong: 0
+  Total tags correct: 22871; wrong: 1263; unknown wrong: 567
+Sentence number: 950; length 14; correct: 14; wrong: 0; unknown wrong: 0
+  Total tags correct: 22885; wrong: 1263; unknown wrong: 567
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 951; length 33; correct: 32; wrong: 1; unknown wrong: 0
+  Total tags correct: 22917; wrong: 1264; unknown wrong: 567
+Sentence number: 952; length 28; correct: 28; wrong: 0; unknown wrong: 0
+  Total tags correct: 22945; wrong: 1264; unknown wrong: 567
+Word: menkeu; correct: NNP; guessed: NN
+Sentence number: 953; length 26; correct: 25; wrong: 1; unknown wrong: 0
+  Total tags correct: 22970; wrong: 1265; unknown wrong: 567
+Word: mantan; correct: JJ; guessed: NNP
+UnkWord: bankir; correct: NN; guessed: NNP
+Word: menteri; correct: NNP; guessed: NN
+Word: lingkungan; correct: NNP; guessed: NN
+Word: hidup; correct: NNP; guessed: NN
+UnkWord: benua; correct: NN; guessed: NNP
+UnkWord: terkering; correct: JJ; guessed: NNP
+UnkWord: berpenghuni; correct: VB; guessed: NNP
+Word: bumi; correct: NN; guessed: NNP
+UnkWord: terparah; correct: JJ; guessed: NN
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 954; length 37; correct: 26; wrong: 11; unknown wrong: 5
+  Total tags correct: 22996; wrong: 1276; unknown wrong: 572
+Word: rusman; correct: NN; guessed: NNP
+Sentence number: 955; length 15; correct: 14; wrong: 1; unknown wrong: 0
+  Total tags correct: 23010; wrong: 1277; unknown wrong: 572
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 956; length 34; correct: 33; wrong: 1; unknown wrong: 0
+  Total tags correct: 23043; wrong: 1278; unknown wrong: 572
+Word: neraca; correct: NNP; guessed: NN
+Word: pembayaran; correct: NNP; guessed: NN
+Sentence number: 957; length 23; correct: 21; wrong: 2; unknown wrong: 0
+  Total tags correct: 23064; wrong: 1280; unknown wrong: 572
+Sentence number: 958; length 21; correct: 21; wrong: 0; unknown wrong: 0
+  Total tags correct: 23085; wrong: 1280; unknown wrong: 572
+Sentence number: 959; length 23; correct: 23; wrong: 0; unknown wrong: 0
+  Total tags correct: 23108; wrong: 1280; unknown wrong: 572
+Word: cukup; correct: JJ; guessed: RB
+Sentence number: 960; length 32; correct: 31; wrong: 1; unknown wrong: 0
+  Total tags correct: 23139; wrong: 1281; unknown wrong: 572
+Word: pilihan; correct: NN; guessed: NNP
+UnkWord: memusatkan; correct: VB; guessed: NN
+Sentence number: 961; length 19; correct: 17; wrong: 2; unknown wrong: 1
+  Total tags correct: 23156; wrong: 1283; unknown wrong: 573
+Sentence number: 962; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 23175; wrong: 1283; unknown wrong: 573
+Sentence number: 963; length 37; correct: 37; wrong: 0; unknown wrong: 0
+  Total tags correct: 23212; wrong: 1283; unknown wrong: 573
+UnkWord: memanggil; correct: VB; guessed: NN
+UnkWord: besar-besar; correct: JJ; guessed: VB
+UnkWord: persatu; correct: CD; guessed: NN
+Sentence number: 964; length 19; correct: 16; wrong: 3; unknown wrong: 3
+  Total tags correct: 23228; wrong: 1286; unknown wrong: 576
+Sentence number: 965; length 6; correct: 6; wrong: 0; unknown wrong: 0
+  Total tags correct: 23234; wrong: 1286; unknown wrong: 576
+Sentence number: 966; length 49; correct: 49; wrong: 0; unknown wrong: 0
+  Total tags correct: 23283; wrong: 1286; unknown wrong: 576
+Sentence number: 967; length 13; correct: 13; wrong: 0; unknown wrong: 0
+  Total tags correct: 23296; wrong: 1286; unknown wrong: 576
+Sentence number: 968; length 34; correct: 34; wrong: 0; unknown wrong: 0
+  Total tags correct: 23330; wrong: 1286; unknown wrong: 576
+Sentence number: 969; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 23346; wrong: 1286; unknown wrong: 576
+UnkWord: pertengahan; correct: NN; guessed: CD
+Sentence number: 970; length 12; correct: 11; wrong: 1; unknown wrong: 1
+  Total tags correct: 23357; wrong: 1287; unknown wrong: 577
+Sentence number: 971; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 23373; wrong: 1287; unknown wrong: 577
+Word: departemen; correct: NN; guessed: NNP
+UnkWord: rumit; correct: JJ; guessed: NN
+UnkWord: mempromosikan; correct: VB; guessed: NN
+Word: menteri; correct: NNP; guessed: NN
+Word: pelayanan; correct: NNP; guessed: NN
+Word: umum; correct: NNP; guessed: JJ
+UnkWord: joe; correct: NNP; guessed: NN
+UnkWord: hockey; correct: NNP; guessed: NN
+Sentence number: 972; length 28; correct: 20; wrong: 8; unknown wrong: 4
+  Total tags correct: 23393; wrong: 1295; unknown wrong: 581
+Word: untuk; correct: IN; guessed: SC
+Sentence number: 973; length 24; correct: 23; wrong: 1; unknown wrong: 0
+  Total tags correct: 23416; wrong: 1296; unknown wrong: 581
+UnkWord: berpotensi; correct: VB; guessed: NNP
+Sentence number: 974; length 32; correct: 31; wrong: 1; unknown wrong: 1
+  Total tags correct: 23447; wrong: 1297; unknown wrong: 582
+Sentence number: 975; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 23466; wrong: 1297; unknown wrong: 582
+UnkWord: ronald; correct: NNP; guessed: NN
+UnkWord: reagen; correct: NNP; guessed: NN
+Word: dengan; correct: SC; guessed: IN
+UnkWord: kejam; correct: JJ; guessed: NN
+UnkWord: menakutkan; correct: VB; guessed: NN
+Sentence number: 976; length 21; correct: 16; wrong: 5; unknown wrong: 4
+  Total tags correct: 23482; wrong: 1302; unknown wrong: 586
+Sentence number: 977; length 33; correct: 33; wrong: 0; unknown wrong: 0
+  Total tags correct: 23515; wrong: 1302; unknown wrong: 586
+Sentence number: 978; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 23531; wrong: 1302; unknown wrong: 586
+Word: icp; correct: FW; guessed: NNP
+Sentence number: 979; length 29; correct: 28; wrong: 1; unknown wrong: 0
+  Total tags correct: 23559; wrong: 1303; unknown wrong: 586
+Word: bank; correct: NN; guessed: NNP
+Word: melalui; correct: VB; guessed: IN
+UnkWord: lpum; correct: NNP; guessed: NN
+Sentence number: 980; length 9; correct: 6; wrong: 3; unknown wrong: 1
+  Total tags correct: 23565; wrong: 1306; unknown wrong: 587
+Word: mandiri; correct: JJ; guessed: NNP
+Sentence number: 981; length 17; correct: 16; wrong: 1; unknown wrong: 0
+  Total tags correct: 23581; wrong: 1307; unknown wrong: 587
+Sentence number: 982; length 30; correct: 30; wrong: 0; unknown wrong: 0
+  Total tags correct: 23611; wrong: 1307; unknown wrong: 587
+Sentence number: 983; length 27; correct: 27; wrong: 0; unknown wrong: 0
+  Total tags correct: 23638; wrong: 1307; unknown wrong: 587
+Word: terakhir; correct: OD; guessed: JJ
+Sentence number: 984; length 36; correct: 35; wrong: 1; unknown wrong: 0
+  Total tags correct: 23673; wrong: 1308; unknown wrong: 587
+UnkWord: pko; correct: NNP; guessed: NN
+Sentence number: 985; length 33; correct: 32; wrong: 1; unknown wrong: 1
+  Total tags correct: 23705; wrong: 1309; unknown wrong: 588
+Sentence number: 986; length 12; correct: 12; wrong: 0; unknown wrong: 0
+  Total tags correct: 23717; wrong: 1309; unknown wrong: 588
+UnkWord: mentah; correct: JJ; guessed: FW
+Sentence number: 987; length 34; correct: 33; wrong: 1; unknown wrong: 1
+  Total tags correct: 23750; wrong: 1310; unknown wrong: 589
+Sentence number: 988; length 19; correct: 19; wrong: 0; unknown wrong: 0
+  Total tags correct: 23769; wrong: 1310; unknown wrong: 589
+UnkWord: 65.000; correct: CD; guessed: NN
+Sentence number: 989; length 36; correct: 35; wrong: 1; unknown wrong: 1
+  Total tags correct: 23804; wrong: 1311; unknown wrong: 590
+Sentence number: 990; length 18; correct: 18; wrong: 0; unknown wrong: 0
+  Total tags correct: 23822; wrong: 1311; unknown wrong: 590
+Word: dengan; correct: SC; guessed: IN
+Sentence number: 991; length 18; correct: 17; wrong: 1; unknown wrong: 0
+  Total tags correct: 23839; wrong: 1312; unknown wrong: 590
+Sentence number: 992; length 16; correct: 16; wrong: 0; unknown wrong: 0
+  Total tags correct: 23855; wrong: 1312; unknown wrong: 590
+UnkWord: cocok; correct: JJ; guessed: VB
+Sentence number: 993; length 34; correct: 33; wrong: 1; unknown wrong: 1
+  Total tags correct: 23888; wrong: 1313; unknown wrong: 591
+UnkWord: badalona; correct: NNP; guessed: NN
+Sentence number: 994; length 20; correct: 19; wrong: 1; unknown wrong: 1
+  Total tags correct: 23907; wrong: 1314; unknown wrong: 592
+UnkWord: didahului; correct: VB; guessed: NN
+Sentence number: 995; length 13; correct: 12; wrong: 1; unknown wrong: 1
+  Total tags correct: 23919; wrong: 1315; unknown wrong: 593
+UnkWord: veteran; correct: NN; guessed: NNP
+Word: kongres; correct: NN; guessed: NNP
+Word: menteri; correct: NN; guessed: NNP
+UnkWord: 1970an; correct: CD; guessed: NNP
+Sentence number: 996; length 17; correct: 13; wrong: 4; unknown wrong: 2
+  Total tags correct: 23932; wrong: 1319; unknown wrong: 595
+Sentence number: 997; length 11; correct: 11; wrong: 0; unknown wrong: 0
+  Total tags correct: 23943; wrong: 1319; unknown wrong: 595
+UnkWord: sumbangan; correct: NN; guessed: VB
+Sentence number: 998; length 25; correct: 24; wrong: 1; unknown wrong: 1
+  Total tags correct: 23967; wrong: 1320; unknown wrong: 596
+UnkWord: amat; correct: RB; guessed: VB
+Sentence number: 999; length 14; correct: 13; wrong: 1; unknown wrong: 1
+  Total tags correct: 23980; wrong: 1321; unknown wrong: 597
+UnkWord: direlaksasi; correct: VB; guessed: NN
+Word: kantor; correct: NNP; guessed: NN
+Sentence number: 1000; length 40; correct: 38; wrong: 2; unknown wrong: 1
+  Total tags correct: 24018; wrong: 1323; unknown wrong: 598
+Tagged 25341 words at 10347,49 words per second.
+Model model/modeltrainexp1-2000.model has xSize=46712, ySize=24, and numFeatures=22754.
+Results on 1000 sentences and 25341 words, of which 2049 were unknown.
+Total sentences right: 392 (39,200000%); wrong: 608 (60,800000%).
+Total tags right: 24018 (94,779212%); wrong: 1323 (5,220788%).
+Unknown words right: 1451 (70,815032%); wrong: 598 (29,184968%).
+

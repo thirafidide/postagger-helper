@@ -1,0 +1,2 @@
+FOR %%G IN (1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000) DO (java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -prop props.prop -model model/modeltrainexp1-%%G.model -trainFile data/data-training-exp1-%%G.txt)
+FOR %%G IN (1, 2, 3, 4, 5, 6, 7, 8, 9, 10) DO (java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -prop props.prop -model model/modeltrainexp2-%%G.model -trainFile data/data-training-exp2-%%G.txt)
